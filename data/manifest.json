@@ -1,4 +1,11 @@
 {
-  "snapshots": [],
-  "last_updated": null
+  "snapshots": [
+    {
+      "date": "2026-05-30",
+      "ev_report": "ev_report_2026_05_30.csv",
+      "data": "data_2026_05_30.csv",
+      "timestamp": "2026-05-30T01:37:41.581770+00:00"
+    }
+  ],
+  "last_updated": "2026-05-30T01:37:41.581770+00:00"
 }
