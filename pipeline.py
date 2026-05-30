@@ -13,6 +13,9 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime, timezone
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).parent
 CONFIG_DIR = ROOT / "config"
 DATA_DIR = ROOT / "data"
@@ -234,60 +237,49 @@ EV_DELTA_THRESHOLD = 0.50  # Flag if EV shifts more than 50% vs previous snapsho
 
 
 def calculate_precons(price_map: dict) -> tuple[pd.DataFrame | None, Path | None]:
-    """Process all deck files in config/decks/ → precons_YYYY_MM_DD.csv."""
-    decks_dir = CONFIG_DIR / "decks"
-    if not decks_dir.exists():
-        print("   ⚠️  config/decks/ not found — run regenerate_config.py first")
+    """Calculate precon deck values from config/precon_metadata.json → precons_YYYY_MM_DD.csv."""
+    metadata_path = CONFIG_DIR / "precon_metadata.json"
+    if not metadata_path.exists():
+        print("   Warning: config/precon_metadata.json not found -- run regenerate_config.py first")
         return None, None
 
-    deck_files = [f for f in decks_dir.rglob("*.json")]
-    if not deck_files:
-        print("   ⚠️  No deck files found")
-        return None, None
+    with open(metadata_path, encoding="utf-8") as f:
+        precon_metadata = json.load(f)
 
     rows = []
-    for deck_file in deck_files:
-        try:
-            with open(deck_file, encoding="utf-8") as f:
-                deck = json.load(f).get("data", {})
+    for deck_name, deck in precon_metadata.items():
+        total_val = 0.0
+        card_values = []
 
-            deck_name = deck_file.stem.replace("_", " ").replace("-", " ")
-            set_code = deck.get("code", "").upper()
-            total_val = 0.0
-            cards = []
+        for card in deck.get("cards", []):
+            uuid = card.get("uuid")
+            if not uuid:
+                continue
+            prices = price_map.get(uuid, {})
+            price = max(prices.get("nonfoil", 0), prices.get("foil", 0), prices.get("etched", 0))
+            total_val += price
+            card_values.append((card.get("name", ""), price))
 
-            for card in deck.get("mainBoard", []):
-                uuid = card.get("uuid")
-                if not uuid:
-                    continue
-                prices = price_map.get(uuid, {})
-                price = max(prices.get("nonfoil", 0), prices.get("foil", 0), prices.get("etched", 0))
-                total_val += price
-                cards.append((card.get("name", ""), price))
+        card_values.sort(key=lambda x: x[1], reverse=True)
 
-            cards.sort(key=lambda x: x[1], reverse=True)
-            is_commander = "commander" in deck.get("type", "").lower() or bool(deck.get("commander"))
-
-            rows.append({
-                "Deck Name": deck_name,
-                "Deck Type": deck.get("type", "Unknown"),
-                "Category": "Commander" if is_commander else "Other",
-                "Set Code": set_code,
-                "Release Date": deck.get("releaseDate", ""),
-                "Total Value": round(total_val, 2),
-                "Top 5 Cards": ", ".join(c[0] for c in cards[:5]),
-            })
-        except Exception as e:
-            print(f"   ⚠️  Skipping {deck_file.name}: {e}")
+        rows.append({
+            "Deck Name": deck_name,
+            "Deck Type": deck.get("deck_type", "Unknown"),
+            "Category": deck.get("category", "Other"),
+            "Set Code": deck.get("set_code", ""),
+            "Release Date": deck.get("release_date", ""),
+            "Total Value": round(total_val, 2),
+            "Top 5 Cards": ", ".join(c[0] for c in card_values[:5]),
+        })
 
     if not rows:
-        print("   ⚠️  No decks processed")
+        print("   Warning: no decks processed")
         return None, None
 
     df = pd.DataFrame(rows).sort_values(["Category", "Deck Name"]).reset_index(drop=True)
     out = DATA_DIR / f"precons_{TODAY}.csv"
     df.to_csv(out, index=False)
-    print(f"   ✅ {len(df):,} decks → {out.name}")
+    print(f"   {len(df):,} decks -> {out.name}")
     return df, out
 
 

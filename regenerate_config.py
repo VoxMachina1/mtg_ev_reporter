@@ -139,10 +139,9 @@ def _process_set_files(sets_dir: str) -> tuple[dict, list]:
 
 
 def download_deck_files():
-    """Download AllDeckFiles.zip and extract to config/decks/."""
-    decks_dir = CONFIG_DIR / "decks"
-    decks_dir.mkdir(exist_ok=True)
-
+    """Download AllDeckFiles.zip, extract what's needed, write config/precon_metadata.json.
+    Individual deck JSONs are not committed — only the compact metadata file is.
+    """
     print("Downloading AllDeckFiles.zip...")
     with tempfile.TemporaryDirectory() as tmpdir:
         archive = os.path.join(tmpdir, "AllDeckFiles.zip")
@@ -155,12 +154,50 @@ def download_deck_files():
                     total += len(chunk)
         print(f"   Downloaded {total / 1_000_000:.1f} MB")
 
+        decks_dir = os.path.join(tmpdir, "decks")
+        os.makedirs(decks_dir)
         with zipfile.ZipFile(archive, "r") as zf:
             zf.extractall(decks_dir)
 
-    # Walk in case zip extracted into a subdirectory
-    deck_count = sum(1 for _ in decks_dir.rglob("*.json"))
-    print(f"   ✅ {deck_count} deck files in config/decks/")
+        print("   Processing deck files...")
+        deck_files = [
+            os.path.join(root, f)
+            for root, _, files in os.walk(decks_dir)
+            for f in files if f.endswith(".json")
+        ]
+
+        precon_metadata = {}
+        for filepath in deck_files:
+            try:
+                with open(filepath, encoding="utf-8") as f:
+                    deck = json.load(f).get("data", {})
+
+                deck_name = deck.get("name")
+                if not deck_name:
+                    continue
+
+                is_commander = "commander" in deck.get("type", "").lower() or bool(deck.get("commander"))
+
+                precon_metadata[deck_name] = {
+                    "category": "Commander" if is_commander else "Other",
+                    "deck_type": deck.get("type", "Unknown"),
+                    "set_code": deck.get("code", "").upper(),
+                    "release_date": deck.get("releaseDate", ""),
+                    "cards": [
+                        {"uuid": c.get("uuid"), "name": c.get("name")}
+                        for c in deck.get("mainBoard", [])
+                        if c.get("uuid") and c.get("name")
+                    ],
+                }
+            except Exception as e:
+                print(f"   Warning: skipping {os.path.basename(filepath)}: {e}")
+
+    metadata_path = CONFIG_DIR / "precon_metadata.json"
+    with open(metadata_path, "w", encoding="utf-8") as f:
+        json.dump(precon_metadata, f)
+
+    size_mb = metadata_path.stat().st_size / 1_000_000
+    print(f"   precon_metadata.json: {len(precon_metadata)} decks ({size_mb:.1f} MB)")
 
 
 def main():
