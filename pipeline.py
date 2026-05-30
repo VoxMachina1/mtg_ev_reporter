@@ -92,20 +92,41 @@ def _safe_float(v) -> float:
         return 0.0
 
 
+_BOOSTER_PREFIX_MAP = {
+    "default": "Standard", "draft": "Draft", "set": "Set", "play": "Play",
+    "collector": "Collector", "prerelease": "Prerelease", "theme": "Theme",
+    "arena": "Arena", "jumpstart": "Jumpstart", "bundle": "Bundle",
+    "fat-pack": "Bundle", "box-topper": "Box Topper", "vip": "VIP",
+    "six": "Six", "mtgo": "MTGO", "tournament": "Tournament",
+    "starter": "Starter", "convention": "Convention", "compleat": "Compleat",
+    "premium": "Premium", "treasure-chest": "Treasure Chest",
+    "stainedglass": "Stained Glass",
+}
+_COLOR_SUFFIX = {
+    "b": "Black", "u": "Blue", "g": "Green", "r": "Red", "w": "White", "c": "Colorless",
+    "jp": "JP", "iwd": "IWD",
+}
+
+
 def _standardize_booster_type(raw: str) -> str:
-    mapping = {
-        "default": "Standard", "set": "Set", "draft": "Draft", "collector": "Collector",
-        "prerelease": "Prerelease", "theme": "Theme", "arena": "Arena",
-        "jumpstart": "Jumpstart", "bundle": "Bundle", "fat-pack": "Bundle", "play": "Play",
-        "six": "Six", "box-topper": "Box Topper", "vip": "VIP", "mtgo": "MTGO",
-        "tournament": "Tournament", "starter": "Starter", "convention": "Convention",
-        "compleat": "Compleat", "premium": "Premium", "treasure-chest": "Treasure Chest",
-    }
     lower = raw.lower()
-    for k, v in mapping.items():
-        if k == lower or k in lower:
-            return f"{v} Booster"
-    return f"{raw.capitalize()} Booster"
+
+    # Exact match
+    if lower in _BOOSTER_PREFIX_MAP:
+        return f"{_BOOSTER_PREFIX_MAP[lower]} Booster"
+
+    # Longest-prefix match — preserves suffix as a readable label
+    best, best_len = None, 0
+    for key in _BOOSTER_PREFIX_MAP:
+        if lower.startswith(key + "-") and len(key) > best_len:
+            best, best_len = key, len(key)
+
+    if best:
+        suffix = lower[best_len + 1:]
+        suffix_label = _COLOR_SUFFIX.get(suffix, suffix.replace("-", " ").title())
+        return f"{_BOOSTER_PREFIX_MAP[best]} Booster — {suffix_label}"
+
+    return f"{raw.replace('-', ' ').title()} Booster"
 
 
 def _calc_ev(booster_type_data: dict, price_df: pd.DataFrame, strategy_map: dict) -> tuple[float, float]:
