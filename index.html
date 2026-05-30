@@ -362,7 +362,7 @@
     // ── Init ──
     async function init() {
       try {
-        const res = await fetch("data/manifest.json");
+        const res = await fetch(`data/manifest.json?t=${Date.now()}`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const manifest = await res.json();
 
