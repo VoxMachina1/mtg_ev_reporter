@@ -325,9 +325,12 @@
       document.getElementById("p-body").innerHTML = "";
       document.getElementById("p-status").textContent = "";
 
+      // Cache-bust using the snapshot timestamp so same-day rewrites are picked up
+      const bust = `?t=${encodeURIComponent(snapshot.timestamp)}`;
+
       // Load boosters
       try {
-        const res = await fetch(`data/${snapshot.ev_report}`);
+        const res = await fetch(`data/${snapshot.ev_report}${bust}`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         boosterRows = parseCSV(await res.text()).sort((a, b) =>
           a["Set Name"].localeCompare(b["Set Name"]) ||
@@ -343,7 +346,7 @@
       // Load precons (optional — older snapshots may not have this)
       if (snapshot.precons) {
         try {
-          const res = await fetch(`data/${snapshot.precons}`);
+          const res = await fetch(`data/${snapshot.precons}${bust}`);
           if (!res.ok) throw new Error(`HTTP ${res.status}`);
           preconRows = parseCSV(await res.text());
           applyPreconFilters();
