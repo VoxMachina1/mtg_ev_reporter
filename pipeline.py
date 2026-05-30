@@ -17,7 +17,7 @@ ROOT = Path(__file__).parent
 CONFIG_DIR = ROOT / "config"
 DATA_DIR = ROOT / "data"
 
-MTGJSON_SETLIST_URL = "https://mtgjson.com/api/v5/SetList.json"
+MTGJSON_META_URL = "https://mtgjson.com/api/v5/Meta.json"
 MTGJSON_ALL_PRICES_URL = "https://mtgjson.com/api/v5/AllPricesToday.json"
 
 _NOW = datetime.now(timezone.utc)
@@ -283,7 +283,7 @@ def check_config_version():
     if not meta_path.exists():
         return
     try:
-        r = requests.get(MTGJSON_SETLIST_URL, timeout=30)
+        r = requests.get(MTGJSON_META_URL, timeout=30)
         r.raise_for_status()
         current = r.json().get("meta", {}).get("version")
         stored = json.loads(meta_path.read_text()).get("mtgjson_version")

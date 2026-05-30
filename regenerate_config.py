@@ -18,16 +18,20 @@ import pandas as pd
 from pathlib import Path
 from datetime import datetime, timezone
 
+# Ensure emojis in print() don't crash on Windows CP1252 consoles
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 ROOT = Path(__file__).parent
 CONFIG_DIR = ROOT / "config"
 
-MTGJSON_SETLIST_URL = "https://mtgjson.com/api/v5/SetList.json"
+MTGJSON_META_URL = "https://mtgjson.com/api/v5/Meta.json"
 MTGJSON_ALL_SETS_URL = "https://mtgjson.com/api/v5/AllSetFiles.tar.xz"
 
 
 def fetch_version() -> str:
     print("Fetching MTGJSON version...")
-    r = requests.get(MTGJSON_SETLIST_URL, timeout=30)
+    r = requests.get(MTGJSON_META_URL, timeout=30)
     r.raise_for_status()
     version = r.json().get("meta", {}).get("version", "unknown")
     print(f"   Version: {version}")
@@ -61,15 +65,22 @@ def download_and_process_sets() -> tuple[dict, list]:
 
 
 def _process_set_files(sets_dir: str) -> tuple[dict, list]:
-    set_files = [f for f in os.listdir(sets_dir) if f.endswith(".json")]
+    # Walk recursively — the archive may extract into a subdirectory
+    set_files = [
+        os.path.join(root, f)
+        for root, _, files in os.walk(sets_dir)
+        for f in files
+        if f.endswith(".json")
+    ]
     print(f"   Processing {len(set_files)} set files...")
 
     booster_structures = {}
     card_rows = []
 
-    for filename in set_files:
+    for filepath in set_files:
+        filename = os.path.basename(filepath)
         try:
-            with open(os.path.join(sets_dir, filename), encoding="utf-8") as f:
+            with open(filepath, encoding="utf-8") as f:
                 set_data = json.load(f).get("data", {})
 
             set_code = set_data.get("code", "").upper()
