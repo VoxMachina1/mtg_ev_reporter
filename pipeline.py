@@ -212,6 +212,64 @@ def calculate_ev(price_map: dict) -> tuple[pd.DataFrame, Path]:
 EV_DELTA_THRESHOLD = 0.50  # Flag if EV shifts more than 50% vs previous snapshot
 
 
+def calculate_precons(price_map: dict) -> tuple[pd.DataFrame | None, Path | None]:
+    """Process all deck files in config/decks/ → precons_YYYY_MM_DD.csv."""
+    decks_dir = CONFIG_DIR / "decks"
+    if not decks_dir.exists():
+        print("   ⚠️  config/decks/ not found — run regenerate_config.py first")
+        return None, None
+
+    deck_files = [f for f in decks_dir.rglob("*.json")]
+    if not deck_files:
+        print("   ⚠️  No deck files found")
+        return None, None
+
+    rows = []
+    for deck_file in deck_files:
+        try:
+            with open(deck_file, encoding="utf-8") as f:
+                deck = json.load(f).get("data", {})
+
+            deck_name = deck_file.stem.replace("_", " ").replace("-", " ")
+            set_code = deck.get("code", "").upper()
+            total_val = 0.0
+            cards = []
+
+            for card in deck.get("mainBoard", []):
+                uuid = card.get("uuid")
+                if not uuid:
+                    continue
+                prices = price_map.get(uuid, {})
+                price = max(prices.get("nonfoil", 0), prices.get("foil", 0), prices.get("etched", 0))
+                total_val += price
+                cards.append((card.get("name", ""), price))
+
+            cards.sort(key=lambda x: x[1], reverse=True)
+            is_commander = "commander" in deck.get("type", "").lower() or bool(deck.get("commander"))
+
+            rows.append({
+                "Deck Name": deck_name,
+                "Deck Type": deck.get("type", "Unknown"),
+                "Category": "Commander" if is_commander else "Other",
+                "Set Code": set_code,
+                "Release Date": deck.get("releaseDate", ""),
+                "Total Value": round(total_val, 2),
+                "Top 5 Cards": ", ".join(c[0] for c in cards[:5]),
+            })
+        except Exception as e:
+            print(f"   ⚠️  Skipping {deck_file.name}: {e}")
+
+    if not rows:
+        print("   ⚠️  No decks processed")
+        return None, None
+
+    df = pd.DataFrame(rows).sort_values(["Category", "Deck Name"]).reset_index(drop=True)
+    out = DATA_DIR / f"precons_{TODAY}.csv"
+    df.to_csv(out, index=False)
+    print(f"   ✅ {len(df):,} decks → {out.name}")
+    return df, out
+
+
 def validate(data_df: pd.DataFrame, ev_df: pd.DataFrame) -> list[str]:
     errors = []
 
@@ -301,22 +359,25 @@ def _apply_retention(snapshots: list) -> list:
     return [s for s in unique if s["date"] in keep]
 
 
-def update_manifest(ev_filename: str, data_filename: str):
+def update_manifest(ev_filename: str, data_filename: str, precons_filename: str | None = None):
     manifest_path = DATA_DIR / "manifest.json"
     manifest = json.loads(manifest_path.read_text()) if manifest_path.exists() else {"snapshots": []}
 
-    manifest["snapshots"].append({
+    snapshot = {
         "date": DATE_STR,
         "ev_report": ev_filename,
         "data": data_filename,
         "timestamp": TIMESTAMP,
-    })
+    }
+    if precons_filename:
+        snapshot["precons"] = precons_filename
+    manifest["snapshots"].append(snapshot)
     manifest["snapshots"] = _apply_retention(manifest["snapshots"])
     manifest["last_updated"] = TIMESTAMP
     manifest_path.write_text(json.dumps(manifest, indent=2))
 
     # Prune CSV files no longer referenced in the manifest
-    referenced = {f for s in manifest["snapshots"] for f in [s["ev_report"], s["data"]]}
+    referenced = {f for s in manifest["snapshots"] for f in [s["ev_report"], s["data"], s.get("precons")] if f}
     for f in DATA_DIR.glob("*.csv"):
         if f.name not in referenced:
             print(f"   Pruning {f.name}")
@@ -360,7 +421,10 @@ def main():
     print("\n[3/4] EV Report")
     ev_df, ev_path = calculate_ev(price_map)
 
-    print("\n[4/4] Validate & manifest")
+    print("\n[4/5] Precon Decks")
+    _, precons_path = calculate_precons(price_map)
+
+    print("\n[5/5] Validate & manifest")
     errors = validate(data_df, ev_df)
     if errors:
         print("VALIDATION FAILED:")
@@ -368,7 +432,7 @@ def main():
             print(f"  ✗ {e}")
         sys.exit(1)
     print("   ✅ Validation passed")
-    update_manifest(ev_path.name, data_path.name)
+    update_manifest(ev_path.name, data_path.name, precons_path.name if precons_path else None)
     print("   ✅ Manifest updated")
 
     print(f"\n=== Complete ===")

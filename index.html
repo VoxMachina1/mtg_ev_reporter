@@ -6,105 +6,204 @@
   <title>MTG EV Report</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; }
+
+    :root {
+      --bg:         #111318;
+      --surface:    #1c1f26;
+      --border:     #2e3240;
+      --text:       #d4d8e8;
+      --text-muted: #6b7280;
+      --header-bg:  #23262f;
+      --hover-bg:   #21242d;
+      --accent:     #5b8dee;
+      --accent-dim: #1e2d4a;
+      --green:      #4ade80;
+    }
+
     body {
       font-family: system-ui, -apple-system, sans-serif;
-      max-width: 960px;
+      max-width: 1100px;
       margin: 2rem auto;
       padding: 0 1.25rem;
-      color: #1a1a1a;
-      background: #fff;
+      color: var(--text);
+      background: var(--bg);
     }
-    h1 { font-size: 1.5rem; margin: 0 0 0.2rem; }
-    .meta { color: #666; font-size: 0.85rem; margin-bottom: 1.5rem; }
 
-    .controls { display: flex; flex-wrap: wrap; gap: 1.25rem; align-items: flex-end; margin-bottom: 1.25rem; }
-    .control-group { display: flex; flex-direction: column; gap: 0.35rem; }
-    label { font-size: 0.8rem; font-weight: 600; color: #444; }
+    h1 { font-size: 1.5rem; margin: 0 0 0.2rem; color: #fff; }
+    .meta { color: var(--text-muted); font-size: 0.82rem; margin-bottom: 1.5rem; }
+
+    /* ── Controls ── */
+    .controls { display: flex; flex-wrap: wrap; gap: 1.1rem; align-items: flex-end; margin-bottom: 1.1rem; }
+    .control-group { display: flex; flex-direction: column; gap: 0.3rem; }
+    label { font-size: 0.75rem; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.05em; }
+
     input[type="text"], select {
-      padding: 0.4rem 0.6rem;
-      font-size: 0.9rem;
-      border: 1px solid #ccc;
-      border-radius: 4px;
+      padding: 0.4rem 0.65rem;
+      font-size: 0.88rem;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      outline: none;
     }
+    input[type="text"]:focus, select:focus { border-color: var(--accent); }
     input[type="text"] { min-width: 220px; }
     select { min-width: 180px; }
+
     button {
-      padding: 0.4rem 0.8rem;
-      font-size: 0.85rem;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      background: #f5f5f5;
+      padding: 0.4rem 0.9rem;
+      font-size: 0.82rem;
+      background: var(--surface);
+      color: var(--text-muted);
+      border: 1px solid var(--border);
+      border-radius: 6px;
       cursor: pointer;
       align-self: flex-end;
     }
-    button:hover { background: #e8e8e8; }
+    button:hover { background: var(--hover-bg); color: var(--text); }
 
-    .count { font-size: 0.8rem; color: #888; margin-bottom: 0.75rem; }
+    /* ── Tabs ── */
+    .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 1.1rem; }
+    .tab {
+      padding: 0.55rem 1.25rem;
+      font-size: 0.88rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      cursor: pointer;
+      border: 1px solid transparent;
+      border-bottom: none;
+      border-radius: 6px 6px 0 0;
+      background: none;
+      margin-bottom: -1px;
+    }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--text); background: var(--surface); border-color: var(--border); }
 
-    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    /* ── Count ── */
+    .count { font-size: 0.78rem; color: var(--text-muted); margin-bottom: 0.65rem; min-height: 1rem; }
+
+    /* ── Table ── */
+    table { width: 100%; border-collapse: collapse; font-size: 0.875rem; }
     thead th {
       text-align: left;
-      padding: 0.5rem 0.75rem;
-      background: #f5f5f5;
-      border-bottom: 2px solid #ddd;
-      font-size: 0.75rem;
+      padding: 0.55rem 0.75rem;
+      background: var(--header-bg);
+      border-bottom: 1px solid var(--border);
+      font-size: 0.72rem;
       text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: #555;
+      letter-spacing: 0.07em;
+      color: var(--text-muted);
+      white-space: nowrap;
     }
-    tbody td { padding: 0.45rem 0.75rem; border-bottom: 1px solid #eee; }
-    tbody tr:hover td { background: #fafafa; }
-    tbody td:last-child { font-variant-numeric: tabular-nums; font-weight: 500; }
-    #status { padding: 1rem 0; color: #888; font-style: italic; }
+    tbody td { padding: 0.45rem 0.75rem; border-bottom: 1px solid var(--border); color: var(--text); }
+    tbody tr:hover td { background: var(--hover-bg); }
+    .ev-val { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--green); }
+    .set-code { font-family: monospace; font-size: 0.8rem; color: var(--text-muted); }
+    .top5 { font-size: 0.78rem; color: var(--text-muted); max-width: 340px; }
+
+    /* ── Status ── */
+    #status { padding: 1.5rem 0; color: var(--text-muted); font-style: italic; }
+
+    /* ── Panel visibility ── */
+    .panel { display: none; }
+    .panel.active { display: block; }
   </style>
 </head>
 <body>
   <h1>MTG EV Report</h1>
   <p class="meta" id="meta"></p>
 
-  <div class="controls">
+  <!-- Snapshot selector (shared) -->
+  <div class="controls" style="margin-bottom: 1.4rem;">
     <div class="control-group">
       <label for="snapshot-select">Snapshot</label>
       <select id="snapshot-select" onchange="loadSnapshot(this.value)"></select>
     </div>
-    <div class="control-group">
-      <label for="filter-set">Set Name</label>
-      <input type="text" id="filter-set" placeholder="Search sets…" oninput="applyFilters()">
-    </div>
-    <div class="control-group">
-      <label for="filter-pack">Pack Type</label>
-      <select id="filter-pack" onchange="applyFilters()">
-        <option value="">All pack types</option>
-      </select>
-    </div>
-    <button onclick="clearFilters()">Clear filters</button>
   </div>
 
-  <p class="count" id="count"></p>
   <p id="status">Loading...</p>
-  <table id="ev-table" hidden>
-    <thead>
-      <tr>
-        <th>Set Name</th>
-        <th>Pack Type</th>
-        <th>Expected Value</th>
-      </tr>
-    </thead>
-    <tbody id="ev-body"></tbody>
-  </table>
+
+  <!-- Tabs -->
+  <div class="tabs" id="tabs" hidden>
+    <button class="tab active" onclick="switchTab('boosters', this)">Boosters</button>
+    <button class="tab" onclick="switchTab('precons', this)">Precon Decks</button>
+  </div>
+
+  <!-- ── Boosters panel ── -->
+  <div class="panel active" id="panel-boosters">
+    <div class="controls">
+      <div class="control-group">
+        <label for="b-filter-set">Set Name</label>
+        <input type="text" id="b-filter-set" placeholder="Search sets…" oninput="applyBoosterFilters()">
+      </div>
+      <div class="control-group">
+        <label for="b-filter-pack">Pack Type</label>
+        <select id="b-filter-pack" onchange="applyBoosterFilters()">
+          <option value="">All pack types</option>
+        </select>
+      </div>
+      <button onclick="clearBoosterFilters()">Clear filters</button>
+    </div>
+    <p class="count" id="b-count"></p>
+    <table id="b-table" hidden>
+      <thead>
+        <tr>
+          <th>Set Name</th>
+          <th>Set Code</th>
+          <th>Pack Type</th>
+          <th>Expected Value</th>
+          <th>Confidence</th>
+        </tr>
+      </thead>
+      <tbody id="b-body"></tbody>
+    </table>
+  </div>
+
+  <!-- ── Precons panel ── -->
+  <div class="panel" id="panel-precons">
+    <div class="controls">
+      <div class="control-group">
+        <label for="p-filter-name">Deck Name</label>
+        <input type="text" id="p-filter-name" placeholder="Search decks…" oninput="applyPreconFilters()">
+      </div>
+      <div class="control-group">
+        <label for="p-filter-cat">Category</label>
+        <select id="p-filter-cat" onchange="applyPreconFilters()">
+          <option value="">All categories</option>
+          <option value="Commander">Commander</option>
+          <option value="Other">Other</option>
+        </select>
+      </div>
+      <button onclick="clearPreconFilters()">Clear filters</button>
+    </div>
+    <p class="count" id="p-count"></p>
+    <p id="p-status"></p>
+    <table id="p-table" hidden>
+      <thead>
+        <tr>
+          <th>Deck Name</th>
+          <th>Category</th>
+          <th>Set Code</th>
+          <th>Release Date</th>
+          <th>Total Value</th>
+          <th>Top 5 Cards</th>
+        </tr>
+      </thead>
+      <tbody id="p-body"></tbody>
+    </table>
+  </div>
 
   <script>
-    const snapshotSelect = document.getElementById("snapshot-select");
-    const filterSet      = document.getElementById("filter-set");
-    const filterPack     = document.getElementById("filter-pack");
-    const meta           = document.getElementById("meta");
-    const status         = document.getElementById("status");
-    const count          = document.getElementById("count");
-    const table          = document.getElementById("ev-table");
-    const tbody          = document.getElementById("ev-body");
+    // ── Shared state ──
+    let boosterRows = [];
+    let preconRows  = [];
+    let currentSnapshot = null;
 
-    let allRows = [];
+    const status      = document.getElementById("status");
+    const tabs        = document.getElementById("tabs");
+    const snapshotSel = document.getElementById("snapshot-select");
 
+    // ── CSV parser ──
     function parseCSV(text) {
       const lines = text.trim().split("\n");
       if (lines.length < 2) return [];
@@ -115,79 +214,149 @@
       });
     }
 
+    // ── Tab switching ──
+    function switchTab(name, btn) {
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      document.querySelectorAll(".panel").forEach(p => p.classList.remove("active"));
+      btn.classList.add("active");
+      document.getElementById(`panel-${name}`).classList.add("active");
+    }
+
+    // ── Booster helpers ──
     function populatePackFilter(rows) {
       const types = [...new Set(rows.map(r => r["Pack Type"]))].sort();
-      filterPack.innerHTML = '<option value="">All pack types</option>';
-      for (const t of types) {
-        const opt = document.createElement("option");
-        opt.value = t;
-        opt.textContent = t;
-        filterPack.appendChild(opt);
-      }
-    }
-
-    function applyFilters() {
-      const setQuery  = filterSet.value.trim().toLowerCase();
-      const packQuery = filterPack.value;
-
-      const filtered = allRows.filter(row => {
-        const matchSet  = !setQuery  || row["Set Name"].toLowerCase().includes(setQuery);
-        const matchPack = !packQuery || row["Pack Type"] === packQuery;
-        return matchSet && matchPack;
+      const sel = document.getElementById("b-filter-pack");
+      sel.innerHTML = '<option value="">All pack types</option>';
+      types.forEach(t => {
+        const o = document.createElement("option");
+        o.value = o.textContent = t;
+        sel.appendChild(o);
       });
-
-      renderRows(filtered);
-      count.textContent = `Showing ${filtered.length} of ${allRows.length} results`;
     }
 
-    function renderRows(rows) {
-      const fragment = document.createDocumentFragment();
-      for (const row of rows) {
+    function applyBoosterFilters() {
+      const setQ  = document.getElementById("b-filter-set").value.trim().toLowerCase();
+      const packQ = document.getElementById("b-filter-pack").value;
+      const filtered = boosterRows.filter(r =>
+        (!setQ  || r["Set Name"].toLowerCase().includes(setQ)) &&
+        (!packQ || r["Pack Type"] === packQ)
+      );
+      renderBoosterRows(filtered);
+      document.getElementById("b-count").textContent =
+        `Showing ${filtered.length} of ${boosterRows.length} results`;
+    }
+
+    function renderBoosterRows(rows) {
+      const frag = document.createDocumentFragment();
+      for (const r of rows) {
+        const ev = parseFloat(r["Expected Value"]);
         const tr = document.createElement("tr");
-        const ev = parseFloat(row["Expected Value"]);
         tr.innerHTML =
-          `<td>${row["Set Name"]}</td>` +
-          `<td>${row["Pack Type"]}</td>` +
-          `<td>$${isNaN(ev) ? "—" : ev.toFixed(2)}</td>`;
-        fragment.appendChild(tr);
+          `<td>${r["Set Name"]}</td>` +
+          `<td class="set-code">${r["Set Code"] || ""}</td>` +
+          `<td>${r["Pack Type"]}</td>` +
+          `<td class="ev-val">$${isNaN(ev) ? "—" : ev.toFixed(2)}</td>` +
+          `<td class="set-code">${r["Confidence"] || ""}</td>`;
+        frag.appendChild(tr);
       }
+      const tbody = document.getElementById("b-body");
       tbody.innerHTML = "";
-      tbody.appendChild(fragment);
+      tbody.appendChild(frag);
     }
 
-    function clearFilters() {
-      filterSet.value  = "";
-      filterPack.value = "";
-      applyFilters();
+    function clearBoosterFilters() {
+      document.getElementById("b-filter-set").value = "";
+      document.getElementById("b-filter-pack").value = "";
+      applyBoosterFilters();
     }
 
-    async function loadSnapshot(filename) {
-      status.textContent = "Loading...";
-      status.hidden = false;
-      table.hidden = true;
-      count.textContent = "";
-      allRows = [];
+    // ── Precon helpers ──
+    function applyPreconFilters() {
+      const nameQ = document.getElementById("p-filter-name").value.trim().toLowerCase();
+      const catQ  = document.getElementById("p-filter-cat").value;
+      const filtered = preconRows.filter(r =>
+        (!nameQ || r["Deck Name"].toLowerCase().includes(nameQ)) &&
+        (!catQ  || r["Category"] === catQ)
+      );
+      renderPreconRows(filtered);
+      document.getElementById("p-count").textContent =
+        `Showing ${filtered.length} of ${preconRows.length} decks`;
+    }
 
+    function renderPreconRows(rows) {
+      const frag = document.createDocumentFragment();
+      for (const r of rows) {
+        const val = parseFloat(r["Total Value"]);
+        const tr = document.createElement("tr");
+        tr.innerHTML =
+          `<td>${r["Deck Name"]}</td>` +
+          `<td>${r["Category"] || ""}</td>` +
+          `<td class="set-code">${r["Set Code"] || ""}</td>` +
+          `<td class="set-code">${r["Release Date"] || ""}</td>` +
+          `<td class="ev-val">$${isNaN(val) ? "—" : val.toFixed(2)}</td>` +
+          `<td class="top5">${r["Top 5 Cards"] || ""}</td>`;
+        frag.appendChild(tr);
+      }
+      const tbody = document.getElementById("p-body");
+      tbody.innerHTML = "";
+      tbody.appendChild(frag);
+    }
+
+    function clearPreconFilters() {
+      document.getElementById("p-filter-name").value = "";
+      document.getElementById("p-filter-cat").value = "";
+      applyPreconFilters();
+    }
+
+    // ── Snapshot loading ──
+    async function loadSnapshot(snapshot) {
+      currentSnapshot = snapshot;
+      boosterRows = [];
+      preconRows  = [];
+
+      // Reset booster table
+      document.getElementById("b-table").hidden = true;
+      document.getElementById("b-count").textContent = "";
+      document.getElementById("b-body").innerHTML = "";
+
+      // Reset precon table
+      document.getElementById("p-table").hidden = true;
+      document.getElementById("p-count").textContent = "";
+      document.getElementById("p-body").innerHTML = "";
+      document.getElementById("p-status").textContent = "";
+
+      // Load boosters
       try {
-        const res = await fetch(`data/${filename}`);
+        const res = await fetch(`data/${snapshot.ev_report}`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
-        allRows = parseCSV(await res.text()).sort((a, b) =>
+        boosterRows = parseCSV(await res.text()).sort((a, b) =>
           a["Set Name"].localeCompare(b["Set Name"]) ||
           a["Pack Type"].localeCompare(b["Pack Type"])
         );
-
-        populatePackFilter(allRows);
-        // Preserve any active filters when switching snapshots
-        applyFilters();
-
-        status.hidden = true;
-        table.hidden = false;
+        populatePackFilter(boosterRows);
+        applyBoosterFilters();
+        document.getElementById("b-table").hidden = false;
       } catch (e) {
-        status.textContent = `Failed to load snapshot: ${e.message}`;
+        document.getElementById("b-count").textContent = `Failed to load booster data: ${e.message}`;
+      }
+
+      // Load precons (optional — older snapshots may not have this)
+      if (snapshot.precons) {
+        try {
+          const res = await fetch(`data/${snapshot.precons}`);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          preconRows = parseCSV(await res.text());
+          applyPreconFilters();
+          document.getElementById("p-table").hidden = false;
+        } catch (e) {
+          document.getElementById("p-status").textContent = `Failed to load precon data: ${e.message}`;
+        }
+      } else {
+        document.getElementById("p-status").textContent = "No precon data for this snapshot.";
       }
     }
 
+    // ── Init ──
     async function init() {
       try {
         const res = await fetch("data/manifest.json");
@@ -201,17 +370,28 @@
         }
 
         if (manifest.last_updated) {
-          meta.textContent = `Last updated: ${new Date(manifest.last_updated).toLocaleString()}`;
+          document.getElementById("meta").textContent =
+            `Last updated: ${new Date(manifest.last_updated).toLocaleString()}`;
         }
 
         for (const s of snapshots) {
           const opt = document.createElement("option");
-          opt.value = s.ev_report;
+          opt.value = s.date;
           opt.textContent = s.date;
-          snapshotSelect.appendChild(opt);
+          opt._snapshot = s;
+          snapshotSel.appendChild(opt);
         }
 
-        loadSnapshot(snapshots[0].ev_report);
+        // Store snapshots on the select for lookup
+        snapshotSel._snapshots = Object.fromEntries(snapshots.map(s => [s.date, s]));
+        snapshotSel.onchange = () => {
+          const s = snapshotSel._snapshots[snapshotSel.value];
+          if (s) loadSnapshot(s);
+        };
+
+        status.hidden = true;
+        tabs.hidden = false;
+        loadSnapshot(snapshots[0]);
       } catch (e) {
         status.textContent = `Failed to load manifest: ${e.message}`;
       }

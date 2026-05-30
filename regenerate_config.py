@@ -13,6 +13,7 @@ import sys
 import json
 import tarfile
 import tempfile
+import zipfile
 import requests
 import pandas as pd
 from pathlib import Path
@@ -27,6 +28,7 @@ CONFIG_DIR = ROOT / "config"
 
 MTGJSON_META_URL = "https://mtgjson.com/api/v5/Meta.json"
 MTGJSON_ALL_SETS_URL = "https://mtgjson.com/api/v5/AllSetFiles.tar.xz"
+MTGJSON_ALL_DECKS_URL = "https://mtgjson.com/api/v5/AllDeckFiles.zip"
 
 
 def fetch_version() -> str:
@@ -136,6 +138,31 @@ def _process_set_files(sets_dir: str) -> tuple[dict, list]:
     return booster_structures, card_rows
 
 
+def download_deck_files():
+    """Download AllDeckFiles.zip and extract to config/decks/."""
+    decks_dir = CONFIG_DIR / "decks"
+    decks_dir.mkdir(exist_ok=True)
+
+    print("Downloading AllDeckFiles.zip...")
+    with tempfile.TemporaryDirectory() as tmpdir:
+        archive = os.path.join(tmpdir, "AllDeckFiles.zip")
+        with requests.get(MTGJSON_ALL_DECKS_URL, stream=True, timeout=300) as r:
+            r.raise_for_status()
+            total = 0
+            with open(archive, "wb") as f:
+                for chunk in r.iter_content(chunk_size=65536):
+                    f.write(chunk)
+                    total += len(chunk)
+        print(f"   Downloaded {total / 1_000_000:.1f} MB")
+
+        with zipfile.ZipFile(archive, "r") as zf:
+            zf.extractall(decks_dir)
+
+    # Walk in case zip extracted into a subdirectory
+    deck_count = sum(1 for _ in decks_dir.rglob("*.json"))
+    print(f"   ✅ {deck_count} deck files in config/decks/")
+
+
 def main():
     print("=== Config Regeneration ===\n")
     CONFIG_DIR.mkdir(exist_ok=True)
@@ -161,6 +188,8 @@ def main():
             "last_regenerated": datetime.now(timezone.utc).isoformat(),
         }, f, indent=2)
     print(f"✅ {meta_path.name}: version {version}")
+
+    download_deck_files()
 
     print("\n=== Done ===")
 
