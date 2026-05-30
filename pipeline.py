@@ -362,7 +362,8 @@ def _check_ev_delta(ev_df: pd.DataFrame) -> list[str]:
 def _apply_retention(snapshots: list) -> list:
     """Keep last 7 daily snapshots + first snapshot of each month for up to 24 months."""
     seen, unique = set(), []
-    for s in sorted(snapshots, key=lambda s: s["date"], reverse=True):
+    # Sort by timestamp (not just date) so same-day re-runs keep the newest entry
+    for s in sorted(snapshots, key=lambda s: s.get("timestamp", s["date"]), reverse=True):
         if s["date"] not in seen:
             unique.append(s)
             seen.add(s["date"])
