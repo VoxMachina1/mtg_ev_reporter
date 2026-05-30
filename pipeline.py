@@ -209,6 +209,9 @@ def calculate_ev(price_map: dict) -> tuple[pd.DataFrame, Path]:
     return df, out
 
 
+EV_DELTA_THRESHOLD = 0.50  # Flag if EV shifts more than 50% vs previous snapshot
+
+
 def validate(data_df: pd.DataFrame, ev_df: pd.DataFrame) -> list[str]:
     errors = []
 
@@ -228,8 +231,51 @@ def validate(data_df: pd.DataFrame, ev_df: pd.DataFrame) -> list[str]:
         evs = pd.to_numeric(ev_df["Expected Value"], errors="coerce").dropna()
         if (evs <= 0).any():
             errors.append(f"EV report: {(evs <= 0).sum()} rows have non-positive EV")
-        if (evs > 500).any():
-            errors.append(f"EV report: {(evs > 500).sum()} rows exceed $500 (possible outlier)")
+
+    errors.extend(_check_ev_delta(ev_df))
+    return errors
+
+
+def _check_ev_delta(ev_df: pd.DataFrame) -> list[str]:
+    """Compare today's EVs against the most recent previous snapshot.
+    Returns errors for any pack type whose EV shifted by more than EV_DELTA_THRESHOLD.
+    Skipped entirely on the first run (no prior snapshot to compare against).
+    """
+    manifest_path = DATA_DIR / "manifest.json"
+    if not manifest_path.exists():
+        return []
+
+    manifest = json.loads(manifest_path.read_text())
+    snapshots = manifest.get("snapshots", [])
+    # Exclude today's snapshot (not yet written) — use the most recent committed one
+    prior = [s for s in snapshots if s["date"] != DATE_STR]
+    if not prior:
+        return []
+
+    latest = max(prior, key=lambda s: s["date"])
+    prior_path = DATA_DIR / latest["ev_report"]
+    if not prior_path.exists():
+        return []
+
+    prior_df = pd.read_csv(prior_path)
+    prior_lookup = {
+        (row["Set Name"], row["Pack Type"]): float(row["Expected Value"])
+        for _, row in prior_df.iterrows()
+    }
+
+    errors = []
+    for _, row in ev_df.iterrows():
+        key = (row["Set Name"], row["Pack Type"])
+        prev_ev = prior_lookup.get(key)
+        if prev_ev is None or prev_ev == 0:
+            continue
+        curr_ev = float(row["Expected Value"])
+        delta = abs(curr_ev - prev_ev) / prev_ev
+        if delta > EV_DELTA_THRESHOLD:
+            errors.append(
+                f"EV delta: {row['Set Name']} / {row['Pack Type']} "
+                f"moved {delta:.0%} (${prev_ev:.2f} → ${curr_ev:.2f})"
+            )
 
     return errors
 
