@@ -35,15 +35,3 @@ jobs:
             git push
           )
 
-      - name: Notify on failure
-        if: failure()
-        env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: |
-          python - <<'EOF'
-          import os, requests
-          url = os.getenv("DISCORD_WEBHOOK_URL")
-          if url:
-              run_url = "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-              requests.post(url, json={"content": f"❌ **MTG EV config regeneration failed**\n{run_url}"}, timeout=10)
-          EOF
