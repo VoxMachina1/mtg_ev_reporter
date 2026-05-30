@@ -1,0 +1,49 @@
+name: Weekly Config Regeneration
+
+on:
+  schedule:
+    - cron: '0 1 * * 0'   # 1 AM UTC every Sunday
+  workflow_dispatch:
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Regenerate config
+        run: python regenerate_config.py
+
+      - name: Commit config files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add config/
+          git diff --cached --quiet && echo "No changes" || (
+            git commit -m "Config regeneration $(date -u +%Y-%m-%d)" &&
+            git push
+          )
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'EOF'
+          import os, requests
+          url = os.getenv("DISCORD_WEBHOOK_URL")
+          if url:
+              run_url = "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+              requests.post(url, json={"content": f"❌ **MTG EV config regeneration failed**\n{run_url}"}, timeout=10)
+          EOF

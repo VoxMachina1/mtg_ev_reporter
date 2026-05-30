@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTG EV Report</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 960px;
+      margin: 2rem auto;
+      padding: 0 1.25rem;
+      color: #1a1a1a;
+      background: #fff;
+    }
+    h1 { font-size: 1.5rem; margin: 0 0 0.2rem; }
+    .meta { color: #666; font-size: 0.85rem; margin-bottom: 1.5rem; }
+    label { font-size: 0.85rem; font-weight: 600; display: block; margin-bottom: 0.35rem; }
+    select {
+      padding: 0.4rem 0.6rem;
+      font-size: 0.9rem;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      margin-bottom: 1.5rem;
+      min-width: 200px;
+    }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    thead th {
+      text-align: left;
+      padding: 0.5rem 0.75rem;
+      background: #f5f5f5;
+      border-bottom: 2px solid #ddd;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #555;
+    }
+    tbody td { padding: 0.45rem 0.75rem; border-bottom: 1px solid #eee; }
+    tbody tr:hover td { background: #fafafa; }
+    tbody td:last-child { font-variant-numeric: tabular-nums; font-weight: 500; }
+    #status { padding: 1rem 0; color: #888; font-style: italic; }
+  </style>
+</head>
+<body>
+  <h1>MTG EV Report</h1>
+  <p class="meta" id="meta"></p>
+
+  <label for="snapshot-select">Snapshot</label>
+  <select id="snapshot-select" onchange="loadSnapshot(this.value)"></select>
+
+  <p id="status">Loading...</p>
+  <table id="ev-table" hidden>
+    <thead>
+      <tr>
+        <th>Set Name</th>
+        <th>Pack Type</th>
+        <th>Expected Value</th>
+      </tr>
+    </thead>
+    <tbody id="ev-body"></tbody>
+  </table>
+
+  <script>
+    const select  = document.getElementById("snapshot-select");
+    const meta    = document.getElementById("meta");
+    const status  = document.getElementById("status");
+    const table   = document.getElementById("ev-table");
+    const tbody   = document.getElementById("ev-body");
+
+    function parseCSV(text) {
+      const lines = text.trim().split("\n");
+      if (lines.length < 2) return [];
+      const headers = lines[0].split(",").map(h => h.trim().replace(/^"|"$/g, ""));
+      return lines.slice(1).map(line => {
+        const vals = line.split(",");
+        return Object.fromEntries(headers.map((h, i) => [h, (vals[i] || "").trim().replace(/^"|"$/g, "")]));
+      });
+    }
+
+    async function loadSnapshot(filename) {
+      status.textContent = "Loading...";
+      status.hidden = false;
+      table.hidden = true;
+      tbody.innerHTML = "";
+
+      try {
+        const res = await fetch(`data/${filename}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const rows = parseCSV(await res.text());
+
+        rows.sort((a, b) =>
+          a["Set Name"].localeCompare(b["Set Name"]) ||
+          a["Pack Type"].localeCompare(b["Pack Type"])
+        );
+
+        const fragment = document.createDocumentFragment();
+        for (const row of rows) {
+          const tr = document.createElement("tr");
+          const ev = parseFloat(row["Expected Value"]);
+          tr.innerHTML =
+            `<td>${row["Set Name"]}</td>` +
+            `<td>${row["Pack Type"]}</td>` +
+            `<td>$${isNaN(ev) ? "—" : ev.toFixed(2)}</td>`;
+          fragment.appendChild(tr);
+        }
+        tbody.appendChild(fragment);
+
+        status.hidden = true;
+        table.hidden = false;
+      } catch (e) {
+        status.textContent = `Failed to load snapshot: ${e.message}`;
+      }
+    }
+
+    async function init() {
+      try {
+        const res = await fetch("data/manifest.json");
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const manifest = await res.json();
+
+        const snapshots = (manifest.snapshots || []).sort((a, b) => b.date.localeCompare(a.date));
+        if (!snapshots.length) {
+          status.textContent = "No snapshots available yet.";
+          return;
+        }
+
+        if (manifest.last_updated) {
+          meta.textContent = `Last updated: ${new Date(manifest.last_updated).toLocaleString()}`;
+        }
+
+        for (const s of snapshots) {
+          const opt = document.createElement("option");
+          opt.value = s.ev_report;
+          opt.textContent = s.date;
+          select.appendChild(opt);
+        }
+
+        loadSnapshot(snapshots[0].ev_report);
+      } catch (e) {
+        status.textContent = `Failed to load manifest: ${e.message}`;
+      }
+    }
+
+    init();
+  </script>
+</body>
+</html>
