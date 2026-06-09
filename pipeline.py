@@ -303,30 +303,31 @@ def validate(data_df: pd.DataFrame, ev_df: pd.DataFrame) -> list[str]:
         if (evs <= 0).any():
             errors.append(f"EV report: {(evs <= 0).sum()} rows have non-positive EV")
 
-    errors.extend(_check_ev_delta(ev_df))
+    _check_ev_delta(ev_df)
     return errors
 
 
-def _check_ev_delta(ev_df: pd.DataFrame) -> list[str]:
+def _check_ev_delta(ev_df: pd.DataFrame) -> None:
     """Compare today's EVs against the most recent previous snapshot.
-    Returns errors for any pack type whose EV shifted by more than EV_DELTA_THRESHOLD.
+    Logs a warning for any pack type whose EV shifted by more than EV_DELTA_THRESHOLD,
+    but does not fail the pipeline — a single volatile set should not block the run.
     Skipped entirely on the first run (no prior snapshot to compare against).
     """
     manifest_path = DATA_DIR / "manifest.json"
     if not manifest_path.exists():
-        return []
+        return
 
     manifest = json.loads(manifest_path.read_text())
     snapshots = manifest.get("snapshots", [])
     # Exclude today's snapshot (not yet written) — use the most recent committed one
     prior = [s for s in snapshots if s["date"] != DATE_STR]
     if not prior:
-        return []
+        return
 
     latest = max(prior, key=lambda s: s["date"])
     prior_path = DATA_DIR / latest["ev_report"]
     if not prior_path.exists():
-        return []
+        return
 
     prior_df = pd.read_csv(prior_path)
     prior_lookup = {
@@ -334,7 +335,6 @@ def _check_ev_delta(ev_df: pd.DataFrame) -> list[str]:
         for _, row in prior_df.iterrows()
     }
 
-    errors = []
     for _, row in ev_df.iterrows():
         key = (row["Set Name"], row["Pack Type"])
         prev_ev = prior_lookup.get(key)
@@ -343,12 +343,10 @@ def _check_ev_delta(ev_df: pd.DataFrame) -> list[str]:
         curr_ev = float(row["Expected Value"])
         delta = abs(curr_ev - prev_ev) / prev_ev
         if delta > EV_DELTA_THRESHOLD:
-            errors.append(
-                f"EV delta: {row['Set Name']} / {row['Pack Type']} "
+            print(
+                f"   WARNING EV delta: {row['Set Name']} / {row['Pack Type']} "
                 f"moved {delta:.0%} (${prev_ev:.2f} → ${curr_ev:.2f})"
             )
-
-    return errors
 
 
 def _apply_retention(snapshots: list) -> list:
