@@ -101,6 +101,12 @@
     .set-code { font-family: monospace; font-size: 0.8rem; color: var(--text-muted); }
     .top5 { font-size: 0.78rem; color: var(--text-muted); max-width: 340px; }
 
+    /* ── Sortable headers ── */
+    thead th.sortable { cursor: pointer; user-select: none; }
+    thead th.sortable:hover { color: var(--text); }
+    thead th.sort-asc::after  { content: " ↑"; color: var(--accent); }
+    thead th.sort-desc::after { content: " ↓"; color: var(--accent); }
+
     /* ── Status ── */
     #status { padding: 1.5rem 0; color: var(--text-muted); font-style: italic; }
 
@@ -148,11 +154,11 @@
     <table id="b-table" hidden>
       <thead>
         <tr>
-          <th>Set Name</th>
-          <th>Set Code</th>
-          <th>Pack Type</th>
-          <th>Expected Value</th>
-          <th>Confidence</th>
+          <th class="sortable" onclick="setBoosterSort('Set Name')">Set Name</th>
+          <th class="sortable" onclick="setBoosterSort('Set Code')">Set Code</th>
+          <th class="sortable" onclick="setBoosterSort('Pack Type')">Pack Type</th>
+          <th class="sortable" onclick="setBoosterSort('Expected Value')">Expected Value</th>
+          <th class="sortable" onclick="setBoosterSort('Confidence')">Confidence</th>
         </tr>
       </thead>
       <tbody id="b-body"></tbody>
@@ -181,11 +187,11 @@
     <table id="p-table" hidden>
       <thead>
         <tr>
-          <th>Deck Name</th>
-          <th>Category</th>
-          <th>Set Code</th>
-          <th>Release Date</th>
-          <th>Total Value</th>
+          <th class="sortable" onclick="setPreconSort('Deck Name')">Deck Name</th>
+          <th class="sortable" onclick="setPreconSort('Category')">Category</th>
+          <th class="sortable" onclick="setPreconSort('Set Code')">Set Code</th>
+          <th class="sortable" onclick="setPreconSort('Release Date')">Release Date</th>
+          <th class="sortable" onclick="setPreconSort('Total Value')">Total Value</th>
           <th>Top 5 Cards</th>
         </tr>
       </thead>
@@ -198,6 +204,44 @@
     let boosterRows = [];
     let preconRows  = [];
     let currentSnapshot = null;
+
+    // ── Sort state ──
+    const B_NUMERIC = new Set(["Expected Value", "Confidence"]);
+    const P_NUMERIC = new Set(["Total Value"]);
+    let bSort = { col: null, dir: 1 };
+    let pSort = { col: null, dir: 1 };
+
+    function _sortRows(rows, col, dir, numericCols) {
+      if (!col) return rows;
+      return [...rows].sort((a, b) => {
+        let av = a[col] || "", bv = b[col] || "";
+        if (numericCols.has(col)) {
+          return (parseFloat(av) - parseFloat(bv)) * dir;
+        }
+        return av.localeCompare(bv) * dir;
+      });
+    }
+
+    function _updateSortHeaders(tableId, sortState) {
+      document.querySelectorAll(`#${tableId} thead th`).forEach(th => {
+        th.classList.remove("sort-asc", "sort-desc");
+        if (th.textContent.trim() === sortState.col) {
+          th.classList.add(sortState.dir === 1 ? "sort-asc" : "sort-desc");
+        }
+      });
+    }
+
+    function setBoosterSort(col) {
+      bSort = bSort.col === col ? { col, dir: bSort.dir * -1 } : { col, dir: 1 };
+      _updateSortHeaders("b-table", bSort);
+      applyBoosterFilters();
+    }
+
+    function setPreconSort(col) {
+      pSort = pSort.col === col ? { col, dir: pSort.dir * -1 } : { col, dir: 1 };
+      _updateSortHeaders("p-table", pSort);
+      applyPreconFilters();
+    }
 
     const status      = document.getElementById("status");
     const tabs        = document.getElementById("tabs");
@@ -241,7 +285,7 @@
         (!setQ  || r["Set Name"].toLowerCase().includes(setQ)) &&
         (!packQ || r["Pack Type"] === packQ)
       );
-      renderBoosterRows(filtered);
+      renderBoosterRows(_sortRows(filtered, bSort.col, bSort.dir, B_NUMERIC));
       document.getElementById("b-count").textContent =
         `Showing ${filtered.length} of ${boosterRows.length} results`;
     }
@@ -278,7 +322,7 @@
         (!nameQ || r["Deck Name"].toLowerCase().includes(nameQ)) &&
         (!catQ  || r["Category"] === catQ)
       );
-      renderPreconRows(filtered);
+      renderPreconRows(_sortRows(filtered, pSort.col, pSort.dir, P_NUMERIC));
       document.getElementById("p-count").textContent =
         `Showing ${filtered.length} of ${preconRows.length} decks`;
     }
