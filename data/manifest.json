@@ -1,6 +1,13 @@
 {
   "snapshots": [
     {
+      "date": "2026-06-12",
+      "ev_report": "ev_report_2026_06_12.csv",
+      "data": "data_2026_06_12.csv",
+      "timestamp": "2026-06-12T07:13:26.797794+00:00",
+      "precons": "precons_2026_06_12.csv"
+    },
+    {
       "date": "2026-06-11",
       "ev_report": "ev_report_2026_06_11.csv",
       "data": "data_2026_06_11.csv",
@@ -22,5 +29,5 @@
       "precons": "precons_2026_05_30.csv"
     }
   ],
-  "last_updated": "2026-06-11T07:22:50.688476+00:00"
+  "last_updated": "2026-06-12T07:13:26.797794+00:00"
 }
