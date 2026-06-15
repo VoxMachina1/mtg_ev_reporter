@@ -23,6 +23,9 @@ DATA_DIR = ROOT / "data"
 MTGJSON_META_URL = "https://mtgjson.com/api/v5/Meta.json"
 MTGJSON_ALL_PRICES_URL = "https://mtgjson.com/api/v5/AllPricesToday.json"
 
+# Cards below this price contribute $0 to EV — matches MANAPOOL_PRICE_THRESHOLD_CENTS/100 in mtg_projects/constants.py
+BULK_THRESHOLD_DOLLARS = 1.00
+
 _NOW = datetime.now(timezone.utc)
 TODAY = _NOW.strftime("%Y_%m_%d")
 DATE_STR = _NOW.strftime("%Y-%m-%d")
@@ -167,7 +170,7 @@ def _calc_ev(booster_type_data: dict, price_df: pd.DataFrame, strategy_map: dict
                             _safe_float(row.get("market_price_foil")),
                             _safe_float(row.get("market_price_etched")),
                         )
-                    if val > 0:
+                    if val >= BULK_THRESHOLD_DOLLARS:
                         sheet_val += val * weight
                         priced_weight += weight
 
@@ -257,8 +260,9 @@ def calculate_precons(price_map: dict) -> tuple[pd.DataFrame | None, Path | None
                 continue
             prices = price_map.get(uuid, {})
             price = max(prices.get("nonfoil", 0), prices.get("foil", 0), prices.get("etched", 0))
-            total_val += price
             card_values.append((card.get("name", ""), price))
+            if price >= BULK_THRESHOLD_DOLLARS:
+                total_val += price
 
         card_values.sort(key=lambda x: x[1], reverse=True)
 
