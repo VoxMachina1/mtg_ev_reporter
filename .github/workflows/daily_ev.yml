@@ -39,6 +39,7 @@ jobs:
           git add data/
           git diff --cached --quiet && echo "No changes to commit" || (
             git commit -m "EV update $(date -u +%Y-%m-%d)" &&
+            git pull --rebase &&
             git push
           )
 

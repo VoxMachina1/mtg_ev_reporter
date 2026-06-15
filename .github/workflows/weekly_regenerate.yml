@@ -37,6 +37,7 @@ jobs:
           git add config/
           git diff --cached --quiet && echo "No changes" || (
             git commit -m "Config regeneration $(date -u +%Y-%m-%d)" &&
+            git pull --rebase &&
             git push
           )
 
