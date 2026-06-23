@@ -18,6 +18,7 @@
       --accent:     #5b8dee;
       --accent-dim: #1e2d4a;
       --green:      #4ade80;
+      --red:        #f87171;
     }
 
     body {
@@ -100,6 +101,10 @@
     .ev-val { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--green); }
     .set-code { font-family: monospace; font-size: 0.8rem; color: var(--text-muted); }
     .top5 { font-size: 0.78rem; color: var(--text-muted); max-width: 340px; }
+    .trend { font-variant-numeric: tabular-nums; font-size: 0.85rem; }
+    .trend-up   { color: var(--green); }
+    .trend-down { color: var(--red); }
+    .trend-none { color: var(--text-muted); }
 
     /* ── Sortable headers ── */
     thead th.sortable { cursor: pointer; user-select: none; }
@@ -159,6 +164,7 @@
           <th class="sortable" onclick="setBoosterSort('Pack Type')">Pack Type</th>
           <th class="sortable" onclick="setBoosterSort('Expected Value')">Expected Value</th>
           <th class="sortable" onclick="setBoosterSort('Confidence')">Confidence</th>
+          <th>7-day Trend</th>
         </tr>
       </thead>
       <tbody id="b-body"></tbody>
@@ -192,6 +198,7 @@
           <th class="sortable" onclick="setPreconSort('Set Code')">Set Code</th>
           <th class="sortable" onclick="setPreconSort('Release Date')">Release Date</th>
           <th class="sortable" onclick="setPreconSort('Total Value')">Total Value</th>
+          <th>7-day Trend</th>
           <th>Top 5 Cards</th>
         </tr>
       </thead>
@@ -204,6 +211,9 @@
     let boosterRows = [];
     let preconRows  = [];
     let currentSnapshot = null;
+    // baseline maps for 7-day trend column (keyed "SetCode|PackType" or "DeckName")
+    let boosterBaseline = {};
+    let preconBaseline  = {};
 
     // ── Sort state ──
     const B_NUMERIC = new Set(["Expected Value", "Confidence"]);
@@ -266,6 +276,34 @@
       document.getElementById(`panel-${name}`).classList.add("active");
     }
 
+    // ── Baseline selection (mirrors ev_trends.select_baseline) ──
+    function selectBaseline(snapshots, currentDate, targetDays) {
+      const target = new Date(currentDate);
+      target.setDate(target.getDate() - targetDays);
+      const candidates = snapshots.filter(s => s.date < currentDate);
+      if (!candidates.length) return null;
+      let best = null, bestDist = Infinity;
+      for (const s of candidates) {
+        const dist = Math.abs(new Date(s.date) - target);
+        // ties: prefer older date (smaller date string)
+        if (dist < bestDist || (dist === bestDist && s.date < best.date)) {
+          best = s; bestDist = dist;
+        }
+      }
+      return best;
+    }
+
+    // ── Trend cell helper ──
+    function trendCell(currVal, baseVal) {
+      if (baseVal == null || isNaN(currVal) || isNaN(baseVal) || baseVal === 0) {
+        return `<td class="trend trend-none">—</td>`;
+      }
+      const pct = ((currVal - baseVal) / baseVal) * 100;
+      const sign = pct >= 0 ? "+" : "";
+      const cls  = pct > 0 ? "trend-up" : pct < 0 ? "trend-down" : "trend-none";
+      return `<td class="trend ${cls}">${sign}${pct.toFixed(1)}%</td>`;
+    }
+
     // ── Booster helpers ──
     function populatePackFilter(rows) {
       const types = [...new Set(rows.map(r => r["Pack Type"]))].sort();
@@ -294,13 +332,15 @@
       const frag = document.createDocumentFragment();
       for (const r of rows) {
         const ev = parseFloat(r["Expected Value"]);
+        const baseEv = boosterBaseline[`${r["Set Code"]}|${r["Pack Type"]}`];
         const tr = document.createElement("tr");
         tr.innerHTML =
           `<td>${r["Set Name"]}</td>` +
           `<td class="set-code">${r["Set Code"] || ""}</td>` +
           `<td>${r["Pack Type"]}</td>` +
           `<td class="ev-val">$${isNaN(ev) ? "—" : ev.toFixed(2)}</td>` +
-          `<td class="set-code">${r["Confidence"] || ""}</td>`;
+          `<td class="set-code">${r["Confidence"] || ""}</td>` +
+          trendCell(ev, baseEv);
         frag.appendChild(tr);
       }
       const tbody = document.getElementById("b-body");
@@ -331,6 +371,7 @@
       const frag = document.createDocumentFragment();
       for (const r of rows) {
         const val = parseFloat(r["Total Value"]);
+        const baseVal = preconBaseline[r["Deck Name"]];
         const tr = document.createElement("tr");
         tr.innerHTML =
           `<td>${r["Deck Name"]}</td>` +
@@ -338,6 +379,7 @@
           `<td class="set-code">${r["Set Code"] || ""}</td>` +
           `<td class="set-code">${r["Release Date"] || ""}</td>` +
           `<td class="ev-val">$${isNaN(val) ? "—" : val.toFixed(2)}</td>` +
+          trendCell(val, baseVal) +
           `<td class="top5">${r["Top 5 Cards"] || ""}</td>`;
         frag.appendChild(tr);
       }
@@ -357,6 +399,8 @@
       currentSnapshot = snapshot;
       boosterRows = [];
       preconRows  = [];
+      boosterBaseline = {};
+      preconBaseline  = {};
 
       // Reset booster table
       document.getElementById("b-table").hidden = true;
@@ -371,6 +415,32 @@
 
       // Cache-bust using the snapshot timestamp so same-day rewrites are picked up
       const bust = `?t=${encodeURIComponent(snapshot.timestamp)}`;
+
+      // Load 7-day baseline (nearest available — mirrors ev_trends.select_baseline)
+      const allSnapshots = snapshotSel._snapshotList || [];
+      const baselineSnap = selectBaseline(allSnapshots, snapshot.date, 7);
+      if (baselineSnap) {
+        try {
+          const br = await fetch(`data/${baselineSnap.ev_report}?t=${encodeURIComponent(baselineSnap.timestamp)}`);
+          if (br.ok) {
+            for (const r of parseCSV(await br.text())) {
+              const v = parseFloat(r["Expected Value"]);
+              if (!isNaN(v)) boosterBaseline[`${r["Set Code"]}|${r["Pack Type"]}`] = v;
+            }
+          }
+        } catch {}
+        if (baselineSnap.precons) {
+          try {
+            const pr = await fetch(`data/${baselineSnap.precons}?t=${encodeURIComponent(baselineSnap.timestamp)}`);
+            if (pr.ok) {
+              for (const r of parseCSV(await pr.text())) {
+                const v = parseFloat(r["Total Value"]);
+                if (!isNaN(v)) preconBaseline[r["Deck Name"]] = v;
+              }
+            }
+          } catch {}
+        }
+      }
 
       // Load boosters
       try {
@@ -429,8 +499,9 @@
           snapshotSel.appendChild(opt);
         }
 
-        // Store snapshots on the select for lookup
-        snapshotSel._snapshots = Object.fromEntries(snapshots.map(s => [s.date, s]));
+        // Store snapshots on the select for lookup (dict for O(1) by date; list for baseline search)
+        snapshotSel._snapshots     = Object.fromEntries(snapshots.map(s => [s.date, s]));
+        snapshotSel._snapshotList  = snapshots;
         snapshotSel.onchange = () => {
           const s = snapshotSel._snapshots[snapshotSel.value];
           if (s) loadSnapshot(s);
