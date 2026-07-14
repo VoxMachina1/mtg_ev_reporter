@@ -259,13 +259,44 @@
 
     // ── CSV parser ──
     function parseCSV(text) {
-      const lines = text.trim().split("\n");
-      if (lines.length < 2) return [];
-      const headers = lines[0].split(",").map(h => h.trim().replace(/^"|"$/g, ""));
-      return lines.slice(1).map(line => {
-        const vals = line.split(",");
-        return Object.fromEntries(headers.map((h, i) => [h, (vals[i] || "").trim().replace(/^"|"$/g, "")]));
-      });
+      const records = [];
+      let record = [], field = "", quoted = false;
+
+      for (let i = 0; i < text.length; i++) {
+        const char = text[i];
+        if (quoted) {
+          if (char === '"' && text[i + 1] === '"') {
+            field += '"';
+            i++;
+          } else if (char === '"') {
+            quoted = false;
+          } else {
+            field += char;
+          }
+        } else if (char === '"' && field === "") {
+          quoted = true;
+        } else if (char === ",") {
+          record.push(field);
+          field = "";
+        } else if (char === "\n") {
+          record.push(field.replace(/\r$/, ""));
+          records.push(record);
+          record = [];
+          field = "";
+        } else {
+          field += char;
+        }
+      }
+      if (field !== "" || record.length) {
+        record.push(field.replace(/\r$/, ""));
+        records.push(record);
+      }
+      if (records.length < 2) return [];
+
+      const headers = records[0];
+      return records.slice(1)
+        .filter(values => values.some(value => value !== ""))
+        .map(values => Object.fromEntries(headers.map((header, i) => [header, values[i] || ""])));
     }
 
     // ── Tab switching ──
@@ -294,14 +325,21 @@
     }
 
     // ── Trend cell helper ──
+    function makeCell(value, className = "") {
+      const td = document.createElement("td");
+      if (className) td.className = className;
+      td.textContent = value;
+      return td;
+    }
+
     function trendCell(currVal, baseVal) {
       if (baseVal == null || isNaN(currVal) || isNaN(baseVal) || baseVal === 0) {
-        return `<td class="trend trend-none">—</td>`;
+        return makeCell("—", "trend trend-none");
       }
       const pct = ((currVal - baseVal) / baseVal) * 100;
       const sign = pct >= 0 ? "+" : "";
       const cls  = pct > 0 ? "trend-up" : pct < 0 ? "trend-down" : "trend-none";
-      return `<td class="trend ${cls}">${sign}${pct.toFixed(1)}%</td>`;
+      return makeCell(`${sign}${pct.toFixed(1)}%`, `trend ${cls}`);
     }
 
     // ── Booster helpers ──
@@ -334,13 +372,14 @@
         const ev = parseFloat(r["Expected Value"]);
         const baseEv = boosterBaseline[`${r["Set Code"]}|${r["Pack Type"]}`];
         const tr = document.createElement("tr");
-        tr.innerHTML =
-          `<td>${r["Set Name"]}</td>` +
-          `<td class="set-code">${r["Set Code"] || ""}</td>` +
-          `<td>${r["Pack Type"]}</td>` +
-          `<td class="ev-val">$${isNaN(ev) ? "—" : ev.toFixed(2)}</td>` +
-          `<td class="set-code">${r["Confidence"] || ""}</td>` +
-          trendCell(ev, baseEv);
+        tr.append(
+          makeCell(r["Set Name"]),
+          makeCell(r["Set Code"] || "", "set-code"),
+          makeCell(r["Pack Type"]),
+          makeCell(`$${isNaN(ev) ? "—" : ev.toFixed(2)}`, "ev-val"),
+          makeCell(r["Confidence"] || "", "set-code"),
+          trendCell(ev, baseEv),
+        );
         frag.appendChild(tr);
       }
       const tbody = document.getElementById("b-body");
@@ -373,14 +412,15 @@
         const val = parseFloat(r["Total Value"]);
         const baseVal = preconBaseline[r["Deck Name"]];
         const tr = document.createElement("tr");
-        tr.innerHTML =
-          `<td>${r["Deck Name"]}</td>` +
-          `<td>${r["Category"] || ""}</td>` +
-          `<td class="set-code">${r["Set Code"] || ""}</td>` +
-          `<td class="set-code">${r["Release Date"] || ""}</td>` +
-          `<td class="ev-val">$${isNaN(val) ? "—" : val.toFixed(2)}</td>` +
-          trendCell(val, baseVal) +
-          `<td class="top5">${r["Top 5 Cards"] || ""}</td>`;
+        tr.append(
+          makeCell(r["Deck Name"]),
+          makeCell(r["Category"] || ""),
+          makeCell(r["Set Code"] || "", "set-code"),
+          makeCell(r["Release Date"] || "", "set-code"),
+          makeCell(`$${isNaN(val) ? "—" : val.toFixed(2)}`, "ev-val"),
+          trendCell(val, baseVal),
+          makeCell(r["Top 5 Cards"] || "", "top5"),
+        );
         frag.appendChild(tr);
       }
       const tbody = document.getElementById("p-body");
