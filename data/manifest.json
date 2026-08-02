@@ -1,6 +1,13 @@
 {
   "snapshots": [
     {
+      "date": "2026-08-02",
+      "ev_report": "ev_report_2026_08_02.csv",
+      "data": "data_2026_08_02.csv",
+      "timestamp": "2026-08-02T05:46:53.144985+00:00",
+      "precons": "precons_2026_08_02.csv"
+    },
+    {
       "date": "2026-08-01",
       "ev_report": "ev_report_2026_08_01.csv",
       "data": "data_2026_08_01.csv",
@@ -43,13 +50,6 @@
       "precons": "precons_2026_07_27.csv"
     },
     {
-      "date": "2026-07-26",
-      "ev_report": "ev_report_2026_07_26.csv",
-      "data": "data_2026_07_26.csv",
-      "timestamp": "2026-07-26T05:51:14.294576+00:00",
-      "precons": "precons_2026_07_26.csv"
-    },
-    {
       "date": "2026-07-01",
       "ev_report": "ev_report_2026_07_01.csv",
       "data": "data_2026_07_01.csv",
@@ -71,5 +71,5 @@
       "precons": "precons_2026_05_30.csv"
     }
   ],
-  "last_updated": "2026-08-01T05:46:03.708936+00:00"
+  "last_updated": "2026-08-02T05:46:53.144985+00:00"
 }
