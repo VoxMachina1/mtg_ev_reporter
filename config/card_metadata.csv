@@ -6878,6 +6878,7 @@ PLST,The List,Celestial Ancient,DIS-7,62eb7e79-8da6-558b-afba-e000db3eb851,ba11e
 PLST,The List,Supply Runners,JMP-7,0b36c1c1-96a8-5bf8-b6ab-e7f7ab9f3699,4576fbe7-222e-47fa-a074-5fb26626ba05,uncommon,Nonfoil,,black,,,True,Creature — Dog,{4}{W},5.0,W
 PLST,The List,Built to Last,KLD-7,138d787d-fff1-552c-b0b7-d6f72ffd725f,ea88a784-1859-4769-b1a1-400dc9920cc7,common,Nonfoil,,black,,,True,Instant,{W},1.0,W
 PLST,The List,Burrenton Forge-Tender,LRW-7,7de323d5-5e21-549f-a39e-0f8f6d18d21b,faee6591-b28c-4d5c-a516-d9441a60b0e6,uncommon,Nonfoil,,black,,,True,Creature — Kithkin Wizard,{W},1.0,W
+PLST,The List,"Marvo, Deep Operative",MKC-7,0feb6411-d6f6-5254-8bde-c98a7445a4eb,1356512e-6ec1-4d1a-85dc-681e2c776741,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Octopus Rogue,{3}{U}{B},5.0,"B, U"
 PLST,The List,Dispatch,NPH-7,387097e3-e07a-5513-af74-e175b305b592,f71ace1e-c2af-4701-a56d-9d249c0724e5,uncommon,Nonfoil,,black,,,True,Instant,{W},1.0,W
 PLST,The List,Blessed Spirits,ORI-7,33cd20ca-6ba7-5c40-83b2-d70f968d1aa9,4ffa548f-3c72-40a8-9ca9-8e7ae8bab838,uncommon,Nonfoil,,black,,,True,Creature — Spirit,{2}{W},3.0,W
 PLST,The List,"Kirri, Talented Sprout",OTC-7,0c2291b3-f150-552d-971b-c34365c41167,05b26fbe-ea68-4595-99cd-3ea2a0a3d739,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Plant Druid,{1}{R}{G}{W},4.0,"G, R, W"
@@ -6903,6 +6904,7 @@ PLST,The List,"Sophia, Dogged Detective",MKC-8,8582e9fe-c89d-5756-842d-9a052dda6
 PLST,The List,Fanatical Devotion,NEM-8,6ca427a1-05ba-55a9-a567-3d617b045ba0,55ef6c7b-59b8-4acb-ba7d-1e4e517cd3a6,common,Nonfoil,,black,,,True,Enchantment,{2}{W},3.0,W
 PLST,The List,Due Respect,NPH-8,5aa01f90-3873-5d17-a66e-546fbceacbc3,27cbd4d7-e6d8-4c7d-ad5e-727b37cacac1,uncommon,Nonfoil,,black,,,True,Instant,{1}{W},2.0,W
 PLST,The List,Celestial Flare,ORI-8,71f73d42-a507-5c12-b9cb-988b46e79e21,4fb80f90-f686-4d3b-b015-ce20383615bf,common,Nonfoil,,black,,,True,Instant,{W}{W},2.0,W
+PLST,The List,Claim Jumper,OTJ-8,2161f1d6-72b8-5e08-a00c-9aa5becb5bfd,7cf06ce6-8bc0-4511-974f-859cedb727ec,rare,Nonfoil,,black,,,True,Creature — Rabbit Mercenary,{2}{W},3.0,W
 PLST,The List,Famished Paladin,RIX-8,5270f844-3e3d-54c5-aae9-cfaa7dfdd168,26293356-0bb7-4da4-9e0e-3ff4e8417a65,uncommon,Nonfoil,,black,,,True,Creature — Vampire Knight,{1}{W},2.0,W
 PLST,The List,Expose to Daylight,RNA-8,5d6023a5-0f8c-57e2-8aeb-7594934fd478,3d73702b-ae5c-486e-b9a0-2a4e2312bbd1,common,Nonfoil,,black,,,True,Instant,{2}{W},3.0,W
 PLST,The List,Not of This World,ROE-8,05b2dc7f-5b04-5f77-b1a4-a663a955f399,fc263d06-d967-42a9-b696-94cb0c8a40e2,uncommon,Foil,,black,,,True,Kindred Instant — Eldrazi,{7},7.0,
@@ -6951,8 +6953,10 @@ PLST,The List,Bruvac the Grandiloquent,JMP-10,052e3cb4-1bd0-5327-af44-bff615cf5a
 PLST,The List,Eidolon of Rhetoric,JOU-10,41f298cd-f134-5a0b-a548-f2a6d250201a,70f786bc-e7b3-4ebf-9fb7-ce8d25de2b19,uncommon,Foil,enchantment,black,,,True,Enchantment Creature — Spirit,{2}{W},3.0,W
 PLST,The List,Feat of Resistance,KTK-10,59d13ddb-ae3e-5fd2-ac80-91897b6f7e55,f8d0c984-a5e8-4969-b8df-01d99bb9b84c,common,Nonfoil,,black,,,True,Instant,{1}{W},2.0,W
 PLST,The List,Cloudgoat Ranger,LRW-10,880ea956-7b3a-55d0-8414-b1d845b4b552,8ba9b726-1c6e-44e5-82f4-18b4ed962345,uncommon,Nonfoil,,black,,,True,Creature — Giant Warrior Ranger,{3}{W}{W},5.0,W
+PLST,The List,Vesuvan Drifter,MAT-10,7e99246c-2ee6-5400-8d1c-8da08f5fc75f,98593ef6-6aff-406d-9d35-d4e4e4fd7dc2,rare,Nonfoil,,black,,,True,Creature — Shapeshifter,{2}{U},3.0,U
 PLST,The List,Leonin Relic-Warder,MBS-10,1f420455-6ce0-5aa4-b777-40518471729b,76721564-789a-4dec-b781-dc813da8eb85,uncommon,Nonfoil,,black,,,True,Creature — Cat Cleric,{W}{W},2.0,W
 PLST,The List,"Tivit, Seller of Secrets",NCC-10,58b08984-f5f5-58d3-bbc6-f0b08909952a,bd2d7f1e-5409-4d1a-ad13-587b0607a9aa,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Sphinx Rogue,{3}{W}{U}{B},6.0,"B, U, W"
+PLST,The List,Swift Reconfiguration,NEC-10,23a06d59-8b03-5a25-8ecb-a32a9469ad3f,e0dc555a-b8cd-45f8-b6af-4860c0e37e8c,rare,Nonfoil,,black,,,True,Enchantment — Aura,{W},1.0,W
 PLST,The List,"Elesh Norn, Mother of Machines",ONE-10,e4ae1982-080a-5ff1-b1b9-7f969a1ee73d,e034a0ae-23ff-4435-8f4f-d3f7d988a49f,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Phyrexian Praetor,{4}{W},5.0,W
 PLST,The List,Breath of Life,POR-10,4a614f76-ccdd-56f5-92a2-855c0f273bd6,3a14b6ad-5941-4290-930d-781d97d4e76a,common,Nonfoil,,black,,,True,Sorcery,{3}{W},4.0,W
 PLST,The List,"Baldin, Century Herdmaster",SLX-10,d8d17373-fa59-5b3e-8ec1-16151ecca0a9,b80b44be-fc4d-4b32-8ad9-030e3712e4a2,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Human Warrior,{4}{W}{W},6.0,W
@@ -6969,6 +6973,7 @@ PLST,The List,Djeru's Renunciation,HOU-11,d23035a8-c962-592e-8dbc-72c61b6638f3,a
 PLST,The List,Firehoof Cavalry,KTK-11,c79129b4-acf6-5181-8ead-d3fce1e1686d,1bf42d0e-3376-4e5e-823f-2869abb37d09,common,Nonfoil,,black,,,True,Creature — Human Berserker,{W},1.0,"R, W"
 PLST,The List,Crib Swap,LRW-11,8522d126-3472-5a62-b953-1e65442e68ce,9780fd8f-489e-4978-ba98-92732b88e826,uncommon,Nonfoil,,black,,,True,Kindred Instant — Shapeshifter,{2}{W},3.0,W
 PLST,The List,"Morophon, the Boundless",MH1-1,241b1dca-2ee0-5552-9740-e19b97da47c6,9f4b771e-1f3a-406c-b92f-4c0664edacb5,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Shapeshifter,{7},7.0,"B, G, R, U, W"
+PLST,The List,Aerial Extortionist,NCC-11,754f90a6-4476-51ba-8c9d-62bf61817bca,2d270018-fd57-444b-a58d-9bc993ce1005,rare,Nonfoil,,black,,,True,Creature — Bird Soldier,{3}{W}{W},5.0,W
 PLST,The List,Beloved Chaplain,ODY-11,9be04e5f-4fcf-5645-b684-2af6aa8ccf18,5bb72237-05a7-489c-9b24-37b587eaf573,uncommon,Nonfoil,,black,,,True,Creature — Human Cleric,{1}{W},2.0,W
 PLST,The List,The Eternal Wanderer,ONE-11,46109778-572b-5c41-9c3a-b28ee9820436,c391f842-bf99-407d-a369-dddb6eaa4a5a,rare,Nonfoil,,black,,,True,Legendary Planeswalker,{4}{W}{W},6.0,W
 PLST,The List,Consul's Lieutenant,ORI-11,d92af554-5ce2-583e-8ba7-d5d66177fad4,bd8902c5-e058-41d4-a825-e5021c9ba106,uncommon,Nonfoil,,black,,,True,Creature — Human Soldier,{W}{W},2.0,W
@@ -6995,6 +7000,7 @@ PLST,The List,Flutterfox,ELD-12,2395ee53-c42d-5404-b69b-9ae85a607581,323991f7-2c
 PLST,The List,Wretched Gryff,EMN-12,9480c6db-4d85-53bb-9886-b40d2252eda1,c08d4f91-3859-4c3b-8d56-d4bbe36c4de0,common,Nonfoil,,black,,,True,Creature — Eldrazi Hippogriff,{7},7.0,U
 PLST,The List,Magus of the Moat,FUT-12,1c953952-f771-5567-84ed-ed2d9226b524,59264c1f-38f1-408b-a6e9-b7c6dcb46103,rare,Nonfoil,,black,,,True,Creature — Human Wizard,{2}{W}{W},4.0,W
 PLST,The List,Benevolent Ancestor,IMA-12,04c9b48b-8944-52fe-b103-1ade3afda0d6,7e7ff919-60b6-4405-96aa-2dc6e52e2e3c,common,Nonfoil,,black,,,True,Creature — Spirit,{2}{W},3.0,W
+PLST,The List,"Inniaz, the Gale Force",JMP-12,e5a96c36-c45b-53ae-b536-68c50eff14df,01aa7fc8-f9be-485c-bc9c-dc4019d1d1a5,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Djinn,{3}{U}{U},5.0,"U, W"
 PLST,The List,Eddytrail Hawk,KLD-12,c33f062e-7916-5bae-81f8-83f946215b76,a691752f-eaac-4ff2-b32a-05cf565ae5f6,common,Nonfoil,,black,,,True,Creature — Bird,{1}{W},2.0,W
 PLST,The List,Deftblade Elite,LGN-12,a8b3fc41-5f35-5fe2-bc74-7e015a836fd3,5720acf9-48da-41d1-97a8-c022c8a69755,common,Nonfoil,,black,,,True,Creature — Human Soldier,{W},1.0,W
 PLST,The List,Blot Out,MAT-12,ce5b6542-26d9-59fe-bbe1-2fae2751ea52,958cf449-5d60-4da9-bfb5-8f38ab11189e,uncommon,Nonfoil,,black,,,True,Instant,{2}{B},3.0,B
@@ -7225,6 +7231,7 @@ PLST,The List,Pressure Point,FRF-21,b425f0e7-b8c2-5329-84ec-44e44f4bedcb,e54a366
 PLST,The List,Highcliff Felidar,GN2-1,f1aab11c-44bc-5921-bdf7-9f0acb19dba2,a914df4d-1e50-4f3b-8e30-c4d599d07305,mythic,Nonfoil,,black,,,True,Creature — Cat Beast,{5}{W}{W},7.0,W
 PLST,The List,Great Teacher's Decree,IMA-21,2d56ce5b-88b1-5e19-b5e0-9df602305eee,ede3e08d-edfb-4260-8924-6667c72a676a,uncommon,Nonfoil,,black,,,True,Sorcery,{3}{W},4.0,W
 PLST,The List,All Is Dust,MM2-1,d74bdeba-d5d7-5661-a7a5-fe06b3012b67,1e30c6a4-62c4-444a-8c4c-a73d8f59b276,rare,Nonfoil,,black,,,True,Kindred Sorcery — Eldrazi,{7},7.0,
+PLST,The List,Smuggler's Share,NCC-21,837fc0e4-def4-59d1-8571-d16551e5bbf8,b835e0c3-7d63-402e-8752-7e55e974b777,rare,Nonfoil,,black,,,True,Enchantment,{2}{W},3.0,W
 PLST,The List,Komainu Battle Armor,NEC-21,c8c70b66-8255-5a76-86d8-c55750bfece9,5f21d1d1-9500-48c6-bf26-3bcd0c2c732e,rare,Nonfoil,,black,,,True,Artifact Creature — Equipment Dog,{2}{R},3.0,R
 PLST,The List,Earnest Fellowship,ODY-21,7c9847fc-3552-5eb8-94db-df51c747a53a,c30fd526-c039-43c8-ac0e-3147f28b5c48,rare,Nonfoil,,black,,,True,Enchantment,{1}{W},2.0,W
 PLST,The List,Skyhunter Strike Force,ONC-21,fcd0f5c2-3096-5d31-9a6c-2682868c6412,d77b0ae2-e26a-4536-8f19-ed15328c039c,rare,Nonfoil,,black,,,True,Creature — Cat Knight,{2}{W},3.0,W
@@ -7409,6 +7416,7 @@ PLST,The List,Shining Armor,ELD-29,4661b79e-7b95-569f-a877-52a53b8415d8,34390832
 PLST,The List,War Behemoth,KTK-29,e5c5e737-5e2a-511d-b147-923458ab6edb,99c081c6-6d66-4dbb-9e0c-a7232cdc07ac,common,Nonfoil,,black,,,True,Creature — Beast,{5}{W},6.0,W
 PLST,The List,Arrest,MM2-9,730ebc6f-f0f1-5107-9798-255ca406377f,1ac9da8a-0061-4978-b361-ee048a9bf572,common,Nonfoil,,black,,,True,Enchantment — Aura,{2}{W},3.0,W
 PLST,The List,Blighted Agent,NPH-29,bcb0c95e-aa7a-5b1b-9faf-1b88e38ee5fd,02649a16-4a28-4a5f-a24a-3bcdd9d449f7,common,Foil,,black,,,True,Creature — Phyrexian Human Rogue,{1}{U},2.0,U
+PLST,The List,Planeswalker's Mischief,PLS-29,936c9cc4-4489-5139-94f2-b3aebafbcb77,7d8cd6d0-deb1-45de-a925-88d4bd53db1e,rare,Nonfoil,,black,,,True,Enchantment,{2}{U},3.0,U
 PLST,The List,Brain Freeze,SCG-29,d6af5b79-091c-5f75-b771-85700a178faf,bd880fc4-b298-416a-8f2f-a929cb41b33e,uncommon,Nonfoil,,black,,,True,Instant,{1}{U},2.0,U
 PLST,The List,Rumor Gatherer,SNC-29,51bd6331-e470-5d78-902c-476ec88a7fa8,9251f658-bf7a-45e7-a71f-8e359b838921,uncommon,Nonfoil,,black,,,True,Creature — Elf Wizard,{1}{W}{W},3.0,W
 PLST,The List,Master Decoy,TMP-29,1fee5a05-ffa8-53fd-9286-e9c8146bd9ac,63b8530e-74d0-478f-8e7b-4d457cb5124b,common,Nonfoil,,black,,,True,Creature — Human Soldier,{1}{W},2.0,W
@@ -7551,10 +7559,12 @@ PLST,The List,"Nivix, Aerie of the Firemind",DDJ-36,6f05063f-2fcc-5c14-a517-9150
 PLST,The List,Halimar Depths,DDM-36,1e698501-29ae-5a84-a5a5-e7bfd44c2f89,f8793c24-741e-49f8-b331-ec1e2bb7e986,common,Nonfoil,,black,,,True,Land,,0.0,U
 PLST,The List,Aetherize,DDO-36,192f85ba-4db5-5ced-be91-f5ff29e4859b,74823154-01ec-457c-95a4-4ff03d832ea2,uncommon,Nonfoil,,black,,,True,Instant,{3}{U},4.0,U
 PLST,The List,Peace of Mind,EMN-36,a26e9107-8405-538a-823c-0cabd93e8b8c,4d74db37-2df5-44ad-9013-b2000c3d93c8,uncommon,Nonfoil,,black,,,True,Enchantment,{1}{W},2.0,W
+PLST,The List,Jeskai Infiltrator,FRF-36,597e1da9-886d-52d1-bb71-7080b17dd57d,b92419ef-f1a2-42b0-9f77-85c5572f62c8,rare,Nonfoil,,black,,,True,Creature — Human Monk,{2}{U},3.0,U
 PLST,The List,Zulaport Cutthroat,GNT-36,144c1ed0-2a9c-54f0-8c95-949fc647247c,324116a4-db54-4de6-84a6-b03459e2aef2,uncommon,Nonfoil,,black,,,True,Creature — Human Rogue Ally,{1}{B},2.0,B
 PLST,The List,"Odric, Lunarch Marshal",INR-36,9f3a8c61-7598-5df2-a802-acd199723b90,11cd2e1c-c2f0-4790-ad65-409b3d967a85,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Human Soldier,{3}{W},4.0,W
 PLST,The List,Dreamborn Muse,LGN-36,f5a3ea53-47bc-5c98-88bc-e7dcf87b978f,7dd811f0-5011-408e-af80-ebdcbc5d26d9,rare,Nonfoil,,black,,,True,Creature — Spirit,{2}{U}{U},4.0,U
 PLST,The List,Fatespinner,MRD-36,1e7757a5-33fb-5efb-b2db-2abf7670be69,33bd5541-0ffb-4e82-ab17-f64ad555ddb6,rare,Foil,,black,,,True,Creature — Human Wizard,{1}{U}{U},3.0,U
+PLST,The List,Fatespinner,MRD-36,1e7757a5-33fb-5efb-b2db-2abf7670be69,33bd5541-0ffb-4e82-ab17-f64ad555ddb6,rare,Nonfoil,,black,,,True,Creature — Human Wizard,{1}{U}{U},3.0,U
 PLST,The List,Vanish into Eternity,ONE-36,234e4132-2c3b-5747-9b7b-c217894d3b83,7395bc7e-a5dc-4340-9468-8dc5a8029edb,common,Nonfoil,,black,,,True,Instant,{2}{W},3.0,W
 PLST,The List,Topan Freeblade,ORI-36,725f2c96-0cc2-55f4-956b-74a317a6c187,735b33fd-b351-4834-89ce-960eaa2785e2,common,Nonfoil,,black,,,True,Creature — Human Soldier,{1}{W},2.0,W
 PLST,The List,"Braids, Conjurer Adept",PLC-36,a44a98c1-07ae-58ad-9c3e-e9f25d7462cb,f6dfe0e9-4764-406b-9961-6d765a73de8d,rare,Nonfoil,,black,,,True,Legendary Creature — Human Wizard,{2}{U}{U},4.0,U
@@ -7751,6 +7761,7 @@ PLST,The List,Pemmin's Aura,SCG-45,a145bc1b-f49e-5a56-9afe-ce16354b570c,6431d71c
 PLST,The List,Kelpie Guide,STX-45,54993f8e-5d9e-54ee-94c1-d4b76b149625,a1c63b02-b65e-43af-aab0-b15c15334e6f,uncommon,Nonfoil,,black,,,True,Creature — Beast,{2}{U},3.0,U
 PLST,The List,Soltari Monk,TMP-45,e50c9b80-2869-564c-98c2-b9ba03a82692,c0a47eed-c08e-459c-a1f6-991728020bbd,uncommon,Nonfoil,,black,,,True,Creature — Soltari Monk Cleric,{W}{W},2.0,W
 PLST,The List,Tinker,ULG-45,7b1d3fbe-fbb4-55bf-9be6-4b250bf59184,0e1374a3-0465-4edb-b63e-22c8baaad864,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{U},3.0,U
+PLST,The List,Exchange of Words,UNF-45,1f007c4f-1152-54b2-938e-a4f129295abc,965976b0-2027-4b31-a295-f414381637f2,rare,Nonfoil,,black,,,True,Enchantment,{1}{U}{U},3.0,U
 PLST,The List,Ophidian,WTH-45,b95b237e-9575-5674-875b-e01c5b58de61,3858c29e-cf1c-4b35-be74-b16de242afbb,common,Nonfoil,,black,,,True,Creature — Snake,{2}{U},3.0,U
 PLST,The List,Voyager Drake,WWK-45,706ac000-e244-5003-bd7d-5edc3ec17a03,54b5649e-eb73-4fb3-9f26-9c3e6a9558c7,uncommon,Nonfoil,,black,,,True,Creature — Drake,{3}{U},4.0,U
 PLST,The List,Necravolver,APC-46,539be74d-e736-5315-a5bd-ece72ca74838,53df0949-a732-4b2d-b81d-a900353869e2,rare,Nonfoil,,black,,,True,Creature — Volver,{2}{B},3.0,"B, G, W"
@@ -8085,6 +8096,7 @@ PLST,The List,Ertai's Meddling,TMP-61,e0241a17-5c57-50d2-864d-ee6558a755bc,1a319
 PLST,The List,Laboratory Maniac,UMA-61,ffd6051f-450b-5ad4-8908-c250261dadf7,51b080d5-ae4b-4d5e-acf2-c51695d8750a,uncommon,Nonfoil,,black,,,True,Creature — Human Wizard,{2}{U},3.0,U
 PLST,The List,Barrow Ghoul,WTH-61,f9d5f233-a197-5c16-8652-f692ab7a92af,ae10b456-79f0-4208-8ad1-1939403cd847,common,Nonfoil,,black,,,True,Creature — Zombie,{1}{B},2.0,B
 PLST,The List,Rite of Replication,ZEN-61,48560efc-06b2-5479-99aa-4453242edf8b,2645ab63-ec8f-4fcf-b827-9ea0218ccfaa,rare,Nonfoil,,black,,,True,Sorcery,{2}{U}{U},4.0,U
+PLST,The List,Approach of the Second Sun,Q06-1,ad2e1d3b-0add-501d-a214-0dc4945b3f7c,245def62-e8f4-4db9-9b0a-c50979c41348,rare,Nonfoil,,black,,,True,Sorcery,{6}{W},7.0,W
 PLST,The List,Underdark Rift,AFC-62,0608a407-1a8b-5b66-aa93-d954d255e3dc,980b1d7c-305c-4096-b289-3b49911e618a,uncommon,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Blessing of Leeches,BOK-62,e6f14294-3497-522b-aaa5-32268fa3376d,bb7ee03d-60e1-4b03-a298-363f6d8e5fa2,common,Nonfoil,,black,,,True,Enchantment — Aura,{2}{B},3.0,B
 PLST,The List,Phyrexian Rager,CMA-62,a6287fb8-3ca0-58ac-a675-466193c80ffe,a87aa7f3-9582-4499-a1ec-d5385ffd94ed,common,Nonfoil,,black,,,True,Creature — Phyrexian Horror,{2}{B},3.0,B
@@ -8190,6 +8202,7 @@ PLST,The List,Tome Raider,ELD-68,d19ed9f0-9dea-5474-b01a-638f38070410,7d8d7fd5-7
 PLST,The List,Helix Pinnacle,EVE-68,e095c5ed-75bc-5131-8d8d-1604eb2d5eb0,d17bc049-51ee-4393-824b-c37b64e50232,rare,Foil,,black,,,True,Enchantment,{G},1.0,G
 PLST,The List,Helix Pinnacle,EVE-68,e095c5ed-75bc-5131-8d8d-1604eb2d5eb0,d17bc049-51ee-4393-824b-c37b64e50232,rare,Nonfoil,,black,,,True,Enchantment,{G},1.0,G
 PLST,The List,Douse in Gloom,FRF-68,baff487f-3d17-55f9-b1b3-af9ed34cb640,56470b43-1a22-48dc-92ef-32e29809bcf7,common,Nonfoil,,black,,,True,Instant,{2}{B},3.0,B
+PLST,The List,Psychic Battle,INV-68,189baf71-4725-5f26-bff1-c2eb3480484f,b7188655-508f-4803-9fd8-0dba3d226249,rare,Nonfoil,,black,,,True,Enchantment,{3}{U}{U},5.0,U
 PLST,The List,Mistwalker,KHM-68,8b8f1b31-ed51-5ece-8ac2-94b31f6296a3,024c2a7c-6f1d-4242-9740-96128ceb0e5f,common,Nonfoil,,black,,,True,Creature — Shapeshifter,{2}{U},3.0,U
 PLST,The List,Coastal Piracy,MMQ-68,4f66800c-bd8b-506c-bbee-dd9b5dc3ddff,d7af6c36-b5af-44e6-9745-0a092dc2f2da,uncommon,Nonfoil,,black,,,True,Enchantment,{2}{U}{U},4.0,U
 PLST,The List,Ringwarden Owl,ORI-68,eb73d587-c54d-549e-b964-9ea1db33adca,25d12f71-8e69-4a45-9224-bdf8368ec639,common,Nonfoil,,black,,,True,Creature — Bird,{3}{U}{U},5.0,U
@@ -8207,6 +8220,7 @@ PLST,The List,Shinen of Life's Roar,ARC-69,bf6bc487-6a5e-5785-8a1b-34dadff2242c,
 PLST,The List,Honden of Seeing Winds,CHK-69,bd13b03e-60b5-5c90-8bf4-934544fb5a5e,a7099faa-1462-4235-9ced-9c832cda485f,uncommon,Nonfoil,,black,,,True,Legendary Enchantment — Shrine,{4}{U},5.0,U
 PLST,The List,Argivian Restoration,DDF-69,fb5c4e52-e5ab-54b7-b9a6-57c248bcde9c,41af4cf0-0af4-44ac-ba82-50d21d5fde2b,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{U}{U},4.0,U
 PLST,The List,"Tetsuko Umezawa, Fugitive",DOM-69,357658ce-5991-598c-bf43-8d400dff7949,bb4e7850-dce3-4d8e-8013-746c544710c7,uncommon,Nonfoil,legendary,black,,,True,Legendary Creature — Human Rogue,{1}{U},2.0,U
+PLST,The List,Imprisoned in the Moon,INR-69,b5f66d06-cef2-525b-b3d7-51b03acb1333,9da0e2e3-e7bb-409a-a58b-293361595ccc,common,Nonfoil,enchantment,black,,,True,Enchantment — Aura,{2}{U},3.0,U
 PLST,The List,Weldfast Wingsmith,KLD-69,41b0add3-21a1-57b3-a42e-1e5755a78d16,47430681-8b22-4661-9bdb-8185ef4ba166,common,Nonfoil,,black,,,True,Creature — Human Artificer,{3}{U},4.0,U
 PLST,The List,Nest Invader,PCA-69,967a25de-3a89-57d3-8195-2fac7f2cec69,6367090f-9291-4ef6-9864-025ce0eb0eca,common,Nonfoil,,black,,,True,Creature — Eldrazi Drone,{1}{G},2.0,G
 PLST,The List,Storm Crow,POR-69,c94267c9-4ad3-5f57-a5d1-a822653e4013,a26a6daa-499d-4f3e-a75a-2fe4dcf3b629,common,Nonfoil,,black,,,True,Creature — Bird,{1}{U},2.0,U
@@ -8273,6 +8287,7 @@ PLST,The List,Jodah's Avenger,TSR-72,3193ec85-e633-5f71-a8fa-0efdd5def9ae,4f8ec7
 PLST,The List,Unearth,ULG-72,db3e9c43-1f2c-535b-82f7-9b40550fc739,a5a1ec89-c231-409b-91e1-158ce6abf558,common,Nonfoil,,black,,,True,Sorcery,{B},1.0,B
 PLST,The List,Pir's Whim,BBD-73,21060ca6-5892-5a22-a32a-f516e396ffe8,cccfa463-c691-4905-9bc3-06fc9a5bca8e,rare,Nonfoil,,black,,,True,Sorcery,{3}{G},4.0,G
 PLST,The List,Kor Chant,CNS-73,e5349086-13a8-5b9f-a9d9-5dd2be9fe707,b1839b1d-2d69-4c73-bd70-0cebb95dbcc6,common,Nonfoil,,black,,,True,Instant,{2}{W},3.0,W
+PLST,The List,Ponder,DSC-73,ba18c632-d0d1-5ee1-8538-bea8f485a0f6,b1951e0a-893c-4c89-93c7-601b579acb1d,common,Nonfoil,,black,,,True,Sorcery,{U},1.0,U
 PLST,The List,Wishful Merfolk,ELD-73,e460939d-6fb1-5fd4-9feb-57e16a70753c,02f592d6-be22-42cf-b182-7993600a6181,common,Nonfoil,,black,,,True,Creature — Merfolk,{1}{U},2.0,U
 PLST,The List,Sprite Noble,EMA-73,cd7be79a-eab8-504d-bcf4-e76f7b46d916,e6b52ea2-d348-4789-ad69-757209e0a3cf,uncommon,Nonfoil,,black,,,True,Creature — Faerie Noble,{1}{U}{U},3.0,U
 PLST,The List,Bastion of Remembrance,IKO-73,daf89982-4ba5-55a1-bdf4-4d00ec2bb3f4,7ad20d37-575d-490e-bf04-91323a35e89d,uncommon,Nonfoil,,black,,,True,Enchantment,{2}{B},3.0,B
@@ -8564,6 +8579,7 @@ PLST,The List,Wakestone Gargoyle,CNS-88,bf4a35d5-e691-5467-aed7-89c54fbf23f1,4fc
 PLST,The List,Eyeblight's Ending,EMA-88,8b78792b-693c-589f-88fa-38ef00f741b0,90fb9e92-1cce-48cb-a386-c609a8fead2b,common,Nonfoil,,black,,,True,Kindred Instant — Elf,{2}{B},3.0,B
 PLST,The List,Mogg Assassin,EXO-88,6dd4445d-b9b7-522e-b90b-a474ae2095f6,3ac8843e-6d9a-4db8-aa08-f83127cab355,uncommon,Nonfoil,,black,,,True,Creature — Goblin Assassin,{2}{R},3.0,R
 PLST,The List,Goblin Negotiation,FDN-88,5472c492-b6f8-5d58-b074-9e349dffe708,2470167c-acee-4de3-b762-a7ade6fc284e,uncommon,Nonfoil,,black,startercollection,,True,Sorcery,{X}{R}{R},2.0,R
+PLST,The List,Extinction Event,IKO-88,36a5faf8-2556-5713-8be5-c17484103dd0,b11f0049-41c7-4e9a-bd0c-19cae1ed9e78,rare,Nonfoil,,black,,,True,Sorcery,{3}{B},4.0,B
 PLST,The List,Firecat Blitz,JUD-88,82703ebd-971c-58cc-b71d-0ebf16420881,ac345df3-e542-4e42-ad29-b7f3cb20eb0a,uncommon,Nonfoil,tombstone,black,,,True,Sorcery,{X}{R}{R},2.0,R
 PLST,The List,Blade Sliver,LGN-88,49547b7b-6a23-5624-9418-f51b60cd28a2,5b67144b-9b71-45e9-a0f8-90eddb21ce4d,uncommon,Nonfoil,,black,,,True,Creature — Sliver,{2}{R},3.0,R
 PLST,The List,Blood Pact,MID-88,3bd163e2-24a0-50af-af0b-f37bf645302b,fb2fcae2-019f-436c-b5bb-6b29a266cfb9,common,Nonfoil,,black,,,True,Instant,{2}{B},3.0,B
@@ -8653,6 +8669,7 @@ PLST,The List,Voidmage Husher,TSP-92,e933ce0d-09a2-5c55-bbf9-d6327427a45d,e986e1
 PLST,The List,Rescind,USG-92,66398853-fe97-576e-bf63-a36d60a2852e,8bbe081e-fefc-45db-a7d7-a2929f9ad8d9,common,Nonfoil,,black,,,True,Instant,{1}{U}{U},3.0,U
 PLST,The List,Rock Slide,VIS-92,9a0e4a94-8b06-546b-9d86-1b92f533a76f,97413857-4d5d-46ec-a362-4e5e2cc963bb,common,Nonfoil,,black,,,True,Instant,{X}{R},1.0,R
 PLST,The List,Boiling Blood,WTH-92,b93a6c77-2b4c-501b-993d-c2d086e6281d,6ee530f3-118c-45cc-9b42-7f19f5786134,common,Nonfoil,,black,,,True,Instant,{2}{R},3.0,R
+PLST,The List,Rapid Hybridization,CLU-93,9abb1048-c69d-5a15-93a7-bcca7347b1ce,1dd85561-28b9-464c-a1b5-81c3a43a4f38,uncommon,Nonfoil,,black,,,True,Instant,{U},1.0,U
 PLST,The List,"Liliana, the Last Hope",EMN-93,de242d9d-6b18-5ed3-890c-474a1a1fb366,816954f8-1642-40b8-bbc5-26a5b95f4884,mythic,Nonfoil,,black,,,True,Legendary Planeswalker — Liliana,{1}{B}{B},3.0,B
 PLST,The List,Pandemonium,EXO-93,b3757db2-4299-5fcb-8909-748704ba94d4,cf0bb17e-ee14-478b-ad92-ec4524b6b87b,rare,Nonfoil,,black,,,True,Enchantment,{3}{R},4.0,R
 PLST,The List,Searslicer Goblin,FDN-93,ee071de4-56a1-5b7d-aa0b-c7be8a1c6d4c,4b180672-e2db-4b39-a9fe-9ea0d2ad4791,rare,Nonfoil,,black,,,True,Creature — Goblin Warrior,{1}{R},2.0,R
@@ -8663,6 +8680,7 @@ PLST,The List,Lightning Crafter,MOR-93,eaaca137-20b0-5b7a-8012-88c35c8dfc54,1caa
 PLST,The List,Dockside Chef,NEO-93,c51f5379-7cfc-5f32-a1e6-70525c7725da,c44d221c-eb9d-4f3b-96fb-2b7188b9c7d4,uncommon,Nonfoil,enchantment,black,,,True,Enchantment Creature — Human Citizen,{B},1.0,B
 PLST,The List,Ruthless Invasion,NPH-93,0685e4e7-bb8b-569e-9757-b4e614cace99,4135d57b-33d3-4eb3-a68b-42a47591fa5f,common,Nonfoil,,black,,,True,Sorcery,{3}{R/P},4.0,R
 PLST,The List,Zulaport Chainmage,OGW-93,71fe7bfb-454b-550b-be61-e90db519205f,d2f94241-6996-4d6d-9c0c-bd765b64e697,common,Nonfoil,,black,,,True,Creature — Human Shaman Ally,{3}{B},4.0,B
+PLST,The List,Dazzling Sphinx,OTC-93,e669979f-7741-5ac5-a22c-7c727998f49a,77629b3c-2bd3-4f42-9bf0-086ec3e9dcce,rare,Nonfoil,,black,,,True,Creature — Sphinx,{3}{U}{U},5.0,U
 PLST,The List,Lively Dirge,OTJ-93,75832939-4ea0-53c8-b3fb-d26076bdd64a,a8a98a6b-3425-4532-806f-3ca98745aaa5,uncommon,Nonfoil,spree,black,,,True,Sorcery,{1}{B},2.0,B
 PLST,The List,Fusion Elemental,PCA-93,f750cbc7-3ab6-540b-8be4-87189dbd5809,e4132ba7-fc73-4e34-9612-16ec83fd2beb,uncommon,Nonfoil,,black,,,True,Creature — Elemental,{W}{U}{B}{R}{G},5.0,"B, G, R, U, W"
 PLST,The List,Feral Shadow,POR-93,62d072c9-0491-5931-a3c2-a8088b8d8370,6c0b47f3-feaf-40b0-9c21-3492d081d459,common,Nonfoil,,black,,,True,Creature — Nightstalker,{2}{B},3.0,B
@@ -8720,6 +8738,7 @@ PLST,The List,Defiant Ogre,FRF-96,715c7b51-6bb6-5e2e-b8a9-991179f6df93,9b7da91a-
 PLST,The List,Direct Current,GRN-96,31bffa94-dc08-53d1-8565-b1eecaee2361,a1fcb9e7-ef66-46f6-8eff-06cdb8a40ff2,common,Nonfoil,,black,,,True,Sorcery,{1}{R}{R},3.0,R
 PLST,The List,Ainok Tracker,KTK-96,17d2449c-939b-5e13-b91d-4b72d556f239,9bf5b767-b2aa-4086-abdc-6ed5e412590e,common,Nonfoil,,black,,,True,Creature — Dog Scout,{5}{R},6.0,R
 PLST,The List,Diregraf Horde,MID-96,cd90af54-09f5-5865-a7f6-a4ee956bed2f,5f969e42-fd00-4bda-801a-7930d5ef67d5,common,Nonfoil,,black,,,True,Creature — Zombie,{4}{B},5.0,B
+PLST,The List,Brainstorm,MKC-96,e15678b9-5cd4-5fc2-974e-8f45db26f6a1,42a87213-2210-418a-9c48-562c80093a96,common,Nonfoil,,black,,,True,Instant,{U},1.0,U
 PLST,The List,Moggcatcher,NEM-96,d8b16346-1285-5966-a5aa-4eaa425a6c21,b7d72bd6-3229-4a50-886b-fc4226238de2,rare,Nonfoil,,black,,,True,Creature — Human Mercenary,{2}{R}{R},4.0,R
 PLST,The List,Mistform Shrieker,ONS-96,e929f158-c649-52a7-87ad-b80972fab2db,d1f0d34b-ab98-4bb4-8795-58688bcf02b5,uncommon,Nonfoil,,black,,,True,Creature — Illusion,{3}{U}{U},5.0,U
 PLST,The List,Ancient Spider,PLS-96,da2bec65-b48b-5353-ade2-2305ac5cafce,8685e01e-57da-40c0-a64e-da4ce03f2a24,rare,Nonfoil,,black,,,True,Creature — Spider,{2}{G}{W},4.0,"G, W"
@@ -9004,6 +9023,7 @@ PLST,The List,Door to Nothingness,HOP-112,134e943b-1458-5e86-b06f-788a71d79b5c,c
 PLST,The List,Bitterbow Sharpshooters,HOU-112,32fa0b22-888b-51d6-8e14-bb5afacc23b0,753d2393-ce5a-422f-858c-25e3f61d52bd,common,Nonfoil,,black,,,True,Creature — Jackal Archer,{4}{G},5.0,G
 PLST,The List,Combustible Gearhulk,KLD-112,b4635651-8218-59d0-b5b3-175323072dbc,69267915-4f96-4493-a242-4d32a7253775,mythic,Nonfoil,,black,,,True,Artifact Creature — Construct,{4}{R}{R},6.0,R
 PLST,The List,The Meathook Massacre,MID-112,33922497-1a93-5f0e-9e8f-d0a1b0d7b29c,6400b1a3-dc91-499a-b677-93cc67272c86,mythic,Nonfoil,legendary,black,,,True,Legendary Enchantment,{X}{B}{B},2.0,B
+PLST,The List,Nadir Kraken,MKC-112,8b1d8b3f-521d-5263-b783-b3f7f358072f,81690a2f-29a7-4476-a245-e6c8a9d19757,rare,Nonfoil,,black,,,True,Creature — Kraken,{1}{U}{U},3.0,U
 PLST,The List,Trade Routes,MMQ-112,c9bba7f4-db4d-5d47-9cd6-753ddeaf6d65,a07550a2-51dc-420c-87bc-d43195ff110d,rare,Nonfoil,,black,,,True,Enchantment,{1}{U},2.0,U
 PLST,The List,Guul Draz Assassin,ROE-112,05e9a6c1-a42a-5aa5-8d8b-6dfb65623cf3,f06edfd4-3044-41dc-b6a7-77908c2d0dc4,rare,Nonfoil,,black,,,True,Creature — Vampire Assassin,{B},1.0,B
 PLST,The List,Ghoulcaller's Accomplice,SOI-112,ffcaea48-ea0e-54da-8590-89d903f14241,483a25b1-a49d-4b93-9348-97e603ac99b9,common,Nonfoil,,black,,,True,Creature — Human Rogue,{1}{B},2.0,B
@@ -9291,6 +9311,7 @@ PLST,The List,Murderous Compulsion,SOI-126,bcd7c802-0076-5ed3-9ced-587bc3fc2016,
 PLST,The List,Sunset Strikemaster,TDM-126,e4c919fe-cc72-556c-b431-e58038eeaecd,db7e3b43-cbcc-43d3-b59c-2edfd77b8909,uncommon,Nonfoil,,black,,,True,Creature — Human Monk,{1}{R},2.0,R
 PLST,The List,Army Ants,VIS-126,5fd70016-ab02-5fcc-a19a-cc8b44965363,0d4d4cc1-71e3-4046-9165-4f6bb8cb0bc1,uncommon,Nonfoil,,black,,,True,Creature — Insect,{1}{B}{R},3.0,"B, R"
 PLST,The List,Yavimaya's Embrace,APC-127,0ec50283-9dd6-5505-902b-4f083440bcc5,435d3f57-85a9-489c-8afd-6e0c35c56056,rare,Nonfoil,,black,,,True,Enchantment — Aura,{5}{G}{U}{U},8.0,"G, U"
+PLST,The List,Arcane Signet,BLC-127,af42f1c6-5648-5c83-a3b6-84a5f60f13e4,5a34240b-92fd-4e53-89ef-36cb968ed0bd,common,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Bitter Reunion,BRO-127,b2bf24bf-f13d-50a5-913d-86382c4474dc,795e33f8-2a9a-493b-8b53-de28a3f58e68,common,Nonfoil,,black,,,True,Enchantment,{1}{R},2.0,R
 PLST,The List,Strangleroot Geist,DKA-127,f3f73551-7892-5527-a2d6-0534974eecde,8be0b338-c36b-4d4f-b6e1-d377cf8796b0,uncommon,Nonfoil,,black,,,True,Creature — Spirit,{G}{G},2.0,G
 PLST,The List,Ghitu Lavarunner,DOM-127,e6817eff-4bee-59f2-8229-2b5f5eb39f9b,040ba7c4-c890-45b3-98cd-aa4ab7970e0a,common,Nonfoil,,black,,,True,Creature — Human Wizard,{R},1.0,R
@@ -9325,6 +9346,7 @@ PLST,The List,Fireball,IMA-128,eab17d7e-6b3b-590d-b076-dffacbb83c9a,b90d7906-3c0
 PLST,The List,Crush the Weak,KHM-128,d0b15811-e56d-5761-b0f3-79ba87b6443a,97f7e655-ced5-4af4-b413-24f3be708840,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{R},3.0,R
 PLST,The List,Ruinous Gremlin,KLD-128,eebc0c5f-beba-5221-b642-ca58c1ab05c5,e4d2bb69-85b0-4590-ab95-2a67c85fd78f,common,Nonfoil,,black,,,True,Creature — Gremlin,{R},1.0,R
 PLST,The List,Ardent Elementalist,MID-128,6c1f0ce8-6672-577a-99e9-59b4c80ed932,309face2-7f10-4d6e-a0cb-bfaf7fd30992,common,Nonfoil,,black,,,True,Creature — Human Shaman,{3}{R},4.0,R
+PLST,The List,Doom Whisperer,MKC-128,4e5cd30a-636a-5c63-ac0c-8262edfd45d2,b2d2d1eb-628f-49ba-bb61-ce94a0d98fad,mythic,Nonfoil,,black,,,True,Creature — Nightmare Demon,{3}{B}{B},5.0,B
 PLST,The List,Unseal the Necropolis,MOM-128,f68d38c0-fd3f-55cc-b093-afda8949c578,8cb39624-7027-4a5f-8784-5faa0898b15c,common,Nonfoil,,black,,,True,Instant,{2}{B},3.0,B
 PLST,The List,Leaf-Crowned Elder,MOR-128,759f3538-664f-5156-97aa-0e36143ef2cb,5d47a112-9441-4580-9fd8-1a83e35f64b7,rare,Nonfoil,,black,,,True,Creature — Treefolk Shaman,{2}{G}{G},4.0,G
 PLST,The List,Predator's Strike,MRD-128,07c41917-bb73-554a-9143-a0a827f207fc,1719bdf2-8713-4cc0-b9b5-4e3e8bba8678,common,Nonfoil,,black,,,True,Instant,{1}{G},2.0,G
@@ -9364,6 +9386,7 @@ PLST,The List,Illusion // Reality,APC-129,47303fb8-0426-5858-bc41-96b203d4ecc3,d
 PLST,The List,Nezumi Graverobber // Nighteyes the Desecrator,CHK-129,b5680b11-63ba-53d8-b5cc-f5472ac5c6a3,4912a0a5-2fec-4c6b-9545-9ab0c4e25268,uncommon,Nonfoil,,black,,,True,Legendary Creature — Rat Wizard,,2.0,B
 PLST,The List,Maelstrom Nexus,ARB-130,bc128e72-b1b2-5dec-acfd-6060ba94ac03,89ad7892-07c6-4689-b45d-61f15f31fe85,mythic,Foil,,black,,,True,Enchantment,{W}{U}{B}{R}{G},5.0,"B, G, R, U, W"
 PLST,The List,Maelstrom Nexus,ARB-130,bc128e72-b1b2-5dec-acfd-6060ba94ac03,89ad7892-07c6-4689-b45d-61f15f31fe85,mythic,Nonfoil,,black,,,True,Enchantment,{W}{U}{B}{R}{G},5.0,"B, G, R, U, W"
+PLST,The List,Command Tower,BLC-130,63b03fab-b421-50d3-a095-12e71e3064af,0f4b203f-7df6-47e2-aa52-3a802ab0fb3a,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Overrun,CMA-130,da7c5caf-b204-5ee2-a97a-30ce5e4bd67c,cea507a6-1c98-4f96-b718-9fdde63f1e55,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{G}{G}{G},5.0,G
 PLST,The List,Gilt-Leaf Winnower,CMR-130,4a605873-d140-56a5-b215-db60a7226732,58cf44c6-f748-44b6-b123-8571034c1756,uncommon,Nonfoil,,black,,,True,Creature — Elf Warrior,{3}{B}{B},5.0,B
 PLST,The List,Juniper Order Ranger,CSP-130,6bc4673e-8ffe-55cf-b10f-695018fb6bab,1c0d41a3-f293-464a-95e2-b951aa0bc536,uncommon,Nonfoil,,black,,,True,Creature — Human Knight Ranger,{3}{G}{W},5.0,"G, W"
@@ -9384,6 +9407,7 @@ PLST,The List,Firewing Phoenix,UMA-130,0a208012-afdd-5e0a-bfc7-46a6828733d6,4fff
 PLST,The List,Walk the Plank,XLN-130,350dc107-7cbf-5ba9-9cff-774ca145982e,a42aeec8-f3bb-484c-a7db-d6ae07966694,uncommon,Nonfoil,,black,,,True,Sorcery,{B}{B},2.0,B
 PLST,The List,Windrider Eel,E01-30,bf370be2-1b87-5681-8b1a-c8b40cb108c0,4b19497f-b917-416c-b8d9-fe105f96f280,common,Nonfoil,,black,,,True,Creature — Fish,{3}{U},4.0,U
 PLST,The List,Coruscation Mage,BLB-131,601f7deb-74d7-5e3e-86da-bed3a8ab1982,ed807515-a162-4935-ba20-6a72d9509150,uncommon,Nonfoil,,black,,,True,Creature — Otter Wizard,{1}{R},2.0,R
+PLST,The List,Exotic Orchard,BLC-131,2f4545f8-45eb-5955-bc14-656d884e36c7,34140807-3029-46ed-b008-10b0e5c7b9dd,rare,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Sky Hussar,DIS-131,c6f93de7-6809-5916-aa19-c2568b09e7d7,4d02d606-5701-444a-9743-b9cf0e742ccb,uncommon,Nonfoil,,black,,,True,Creature — Human Knight,{3}{W}{U},5.0,"U, W"
 PLST,The List,Mogg War Marshal,DMR-131,15e162ce-c9ea-5b6c-90d5-63f0043430d9,4ebce261-3a53-48f2-a173-0d98c68aff2c,common,Nonfoil,,black,,,True,Creature — Goblin Warrior,{1}{R},2.0,R
 PLST,The List,Flame Jab,EMA-131,053cff33-da91-5fb1-b4c8-1fb8f088b103,4dacce86-be7f-496c-9a70-676dc39ca2c8,uncommon,Nonfoil,,black,,,True,Sorcery,{R},1.0,R
@@ -9432,6 +9456,7 @@ PLST,The List,Fortifying Draught,STX-132,fe3dcf06-7889-5e66-9acf-d015321edba5,d7
 PLST,The List,Wild Ride,TDM-132,464b775b-4e35-55e1-b514-595e2dc1537a,cc0ed18d-c91a-4907-ab9a-a64f48918451,common,Nonfoil,,black,,,True,Sorcery,{R},1.0,R
 PLST,The List,Endless Scream,TMP-132,4cfddcd8-9f83-562e-9331-9017605eac5f,d604c2a5-00f1-4833-a785-4c1cbbe3cad0,common,Nonfoil,,black,,,True,Enchantment — Aura,{X}{B},1.0,B
 PLST,The List,Gamble,UMA-132,76ee722b-2668-552e-8eee-125a16fdbca5,924db286-fb3e-40dd-b5e2-f8128701685d,rare,Nonfoil,,black,,,True,Sorcery,{R},1.0,R
+PLST,The List,"Toxrill, the Corrosive",VOW-132,f492c90c-8f1d-5033-963a-b63179a10b5d,d8f8567a-7fb3-43f5-88c8-f403cc85fc25,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Slug Horror,{5}{B}{B},7.0,"B, U"
 PLST,The List,Honor the God-Pharaoh,WAR-132,9c1e6ecf-23bd-5162-aca0-4361a3b4b62e,b30fd369-68db-41f1-bb1e-eabfe4eb5356,common,Nonfoil,,black,,,True,Sorcery,{2}{R},3.0,R
 PLST,The List,Bojuka Bog,WWK-132,a029229f-15aa-5e1a-839c-44e239e598f6,ef107b3e-aba9-48c1-a44c-b5064461edff,common,Nonfoil,,black,,,True,Land,,0.0,B
 PLST,The List,Boots of Speed,AFR-133,16950f75-d628-541c-8881-50ca2d9c99bd,8467a75f-5013-47c4-ba53-967cb1a593b4,common,Nonfoil,,black,,,True,Artifact — Equipment,{R},1.0,R
@@ -9602,6 +9627,7 @@ PLST,The List,Path of Discovery,RIX-142,4602c58d-f94c-5a70-8ed6-6ddc2620c17c,5c2
 PLST,The List,Twins of Maurer Estate,SOI-142,2486c4f8-7f74-522e-876e-856997031d35,726f760e-90e6-4b24-aa43-c5a0ef4d4432,common,Nonfoil,,black,,,True,Creature — Vampire,{4}{B},5.0,B
 PLST,The List,"Reki, the History of Kamigawa",SOK-142,3f78af65-d3e4-5b76-9049-b25735d97a45,623ec8c3-9173-4dc8-bd93-0b22d852fa60,rare,Foil,,black,,,True,Legendary Creature — Human Shaman,{2}{G},3.0,G
 PLST,The List,Samut's Sprint,WAR-142,09943fd5-71cb-5b7a-9846-9abb02c391f1,060de3c3-8927-4f69-a524-7ae0b3e3620b,common,Nonfoil,,black,,,True,Instant,{R},1.0,R
+PLST,The List,Loran of the Third Path,BLC-143,f9ef2af6-2368-519b-b205-31dcc2471362,10dc06d8-02bf-4227-b6c3-a2bda8df3878,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Human Artificer,{2}{W},3.0,W
 PLST,The List,Stromkirk Captain,DKA-143,a088b1f6-9013-5b42-b5d4-02151eec2cf8,50112fc8-82f7-438b-bd35-12b7b3182bdf,uncommon,Nonfoil,,black,,,True,Creature — Vampire Soldier,{1}{B}{R},3.0,"B, R"
 PLST,The List,Moonhold,EVE-143,f0a6f93d-36f3-5ed2-81c0-d1b126fb1e6f,94bd61bd-3842-41a9-9179-1742863849be,uncommon,Nonfoil,,black,,,True,Instant,{2}{R/W},3.0,"R, W"
 PLST,The List,Prey Upon,GRN-143,e5292b69-f5dd-5670-be59-4acf67db4df3,863b34d3-fb6a-4a2a-8fb6-20041312b1d3,common,Nonfoil,,black,,,True,Sorcery,{G},1.0,G
@@ -9642,6 +9668,7 @@ PLST,The List,Quest for Pure Flame,ZEN-144,e827df03-1c95-5a3b-af19-ca57f9457955,
 PLST,The List,Nimble-Blade Khenra,AKH-145,95dc7b5e-3cb3-5ae9-9293-9a2289dbdce8,f066e3b8-c16f-4e94-9ec0-14be98828bbf,common,Nonfoil,,black,,,True,Creature — Jackal Warrior,{1}{R},2.0,R
 PLST,The List,Grotesque Mutation,BBD-145,ed1a18a7-d63c-561a-b36e-23bd1d39df12,0193a170-80cc-4e3c-913d-a42cf2033345,common,Nonfoil,,black,,,True,Instant,{1}{B},2.0,B
 PLST,The List,Sosuke's Summons,BOK-145,2aa81d73-ff9d-5ceb-82d9-d1542ba8280b,38541b8b-c624-4a8f-8204-b021ef6cb4a2,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{G},3.0,G
+PLST,The List,Profane Transfusion,CMR-145,5ef7d9fb-2aae-53f0-a3ab-a80f886d00ed,67d5197d-031d-4b6b-8aa2-be34d6ca2d9c,mythic,Nonfoil,,black,,,True,Sorcery,{6}{B}{B}{B},9.0,B
 PLST,The List,Unstable Frontier,CON-145,00112e3a-1668-599e-97b3-b50275115b76,4b182723-afb3-4e17-ae55-89be1b9208c9,uncommon,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Dark Depths,CSP-145,fea5beca-617a-583c-b7ce-2435843769fc,9731e38f-ae94-400d-ac30-5f0a7d6abb88,rare,Nonfoil,,black,,,True,Legendary Snow Land,,0.0,
 PLST,The List,Kolaghan Stormsinger,DTK-145,c87feef1-935a-5d96-9bb7-4c215b436bbe,ff301010-c9c9-4abb-9bf2-78d123cff292,common,Nonfoil,,black,,,True,Creature — Human Shaman,{R},1.0,R
@@ -9699,6 +9726,7 @@ PLST,The List,Painter's Studio // Defaced Gallery,DSK-147,e00bbe09-c4bc-5037-98d
 PLST,The List,Crackdown Construct,AER-148,8e69ea23-ca34-5ae0-a8d6-2ff42146315b,4a5f3921-cf23-4c38-8ade-8c26ff32dccf,uncommon,Nonfoil,,black,,,True,Artifact Creature — Construct,{4},4.0,
 PLST,The List,Malignus,AVR-148,5a3fea38-14e0-58b9-a507-7d78ee47fe79,ca52fe78-8840-487b-93f6-14198423d55f,mythic,Nonfoil,,black,,,True,Creature — Elemental Spirit,{3}{R}{R},5.0,R
 PLST,The List,Makindi Sliderunner,BFZ-148,579cca0d-d7a3-517e-bb46-672cf42f9d5a,2df12b9f-2f39-470d-b3c7-76c3228aecc2,common,Nonfoil,,black,,,True,Creature — Beast,{1}{R},2.0,R
+PLST,The List,Promise of Loyalty,BLC-148,658a123e-0321-54db-bd2a-9bf2c3ce346b,66ee6102-2490-4469-8237-ac58bf0ede03,rare,Nonfoil,,black,,,True,Sorcery,{4}{W},5.0,W
 PLST,The List,"Karametra, God of Harvests",BNG-148,05f3f6e8-a82f-521f-b0b1-420d1683baa4,21efbf4f-f084-4abb-9f3d-f303f2dd8f97,mythic,Nonfoil,enchantment,black,,,True,Legendary Enchantment Creature — God,{3}{G}{W},5.0,"G, W"
 PLST,The List,Mouth of Ronom,CSP-148,6fe48992-ccab-5592-9c15-21c45bcaf553,ba447195-77d4-401c-95e1-7b71450983a6,uncommon,Nonfoil,,black,,,True,Snow Land,,0.0,
 PLST,The List,Commencement of Festivities,KLD-148,7a93246b-b73b-5608-bc82-004cb020af1a,473ca339-3ac9-4190-9ec7-65504857244e,common,Nonfoil,,black,,,True,Instant,{1}{G},2.0,G
@@ -9789,6 +9817,7 @@ PLST,The List,Hope of Ghirapur,AER-154,a55f6642-e6a6-5899-bf7c-92fa26ca3bdf,17c6
 PLST,The List,Magic Missile,AFR-154,0b1b392c-6eab-5061-bfb6-d547d0d95fe7,64fe1894-fc7d-4f09-adc1-18b2a3107898,uncommon,Nonfoil,,black,,,True,Sorcery,{1}{R}{R},3.0,R
 PLST,The List,Painful Lesson,BBD-154,0d3811c7-6db2-536b-ae03-a3d6e6cf4ceb,94bc63b7-a6d8-40b9-86f1-111f8421af8c,common,Nonfoil,,black,,,True,Sorcery,{2}{B},3.0,B
 PLST,The List,Rolling Thunder,BFZ-154,c55a4ae8-92ad-53a8-a23e-751a748cff19,ea31b68b-8f0f-484b-9611-40ad2642fc52,uncommon,Nonfoil,,black,,,True,Sorcery,{X}{R}{R},2.0,R
+PLST,The List,Skyclave Apparition,BLC-154,b29607f7-1842-5384-ba8b-3bb88e0feddf,5865cede-e19e-4132-8060-862b00c1052a,rare,Nonfoil,,black,,,True,Creature — Kor Spirit,{1}{W}{W},3.0,W
 PLST,The List,Mirror Gallery,BOK-154,35ffeeef-6300-5567-9845-2dddf63eaa25,55ad7fbd-ef4d-401b-8a42-8fe63ad19cb3,rare,Nonfoil,,black,,,True,Artifact,{5},5.0,
 PLST,The List,Thornweald Archer,CMA-154,5ba9a218-fe8c-50b6-8a83-79dbf795854c,182c14ac-82dd-4588-858a-b720247df410,common,Nonfoil,,black,,,True,Creature — Elf Archer,{1}{G},2.0,G
 PLST,The List,Boggart Shenanigans,DD1-54,e7d85cf1-161a-5621-8cd7-82baa86112cf,103a6910-951c-409d-901d-0fa5e510d22e,uncommon,Nonfoil,,black,,,True,Kindred Enchantment — Goblin,{2}{R},3.0,R
@@ -9989,6 +10018,7 @@ PLST,The List,Karoo,VIS-165,5dd4c37e-d0ad-54db-8eae-e78135be4fb1,16dfb04a-e65d-4
 PLST,The List,Giant Spider,AKH-166,59ec4d37-d441-5391-8366-bf6f8c798391,8f3fc9a4-3e98-4a50-8f34-07c7b14dbc5c,common,Nonfoil,,black,,,True,Creature — Spider,{3}{G},4.0,G
 PLST,The List,Wellwisher,CMA-166,66ea5e19-c621-509d-ba98-f989e57c50a8,4fceaadc-5b40-4f7f-850c-aa87d7e4c38d,common,Nonfoil,,black,,,True,Creature — Elf,{1}{G},2.0,G
 PLST,The List,Volcanic Rush,DTK-166,0474e8ac-9463-55ce-a62f-9fae7bccc4fd,78af4096-a1c5-4329-a938-ad0a588bef35,common,Nonfoil,,black,,,True,Instant,{4}{R},5.0,R
+PLST,The List,Time Stop,FDN-166,8641c228-b43e-549f-a5cd-61b1fbf6b6a6,7691542e-c92d-4e2c-b3c7-cb340ce6c2aa,rare,Nonfoil,,black,,,True,Instant,{4}{U}{U},6.0,U
 PLST,The List,Sunset Pyramid,HOU-166,457ebf3b-8d50-5b91-8c4e-dbc999601402,93165cd6-7a6b-40e6-83fa-97575a03bbb5,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Heroes' Bane,IMA-166,7d5ffe78-227b-53a3-87a9-2c96a0acef62,abdd8bb1-6f8d-438b-994a-e219a760837f,uncommon,Nonfoil,,black,,,True,Creature — Hydra,{3}{G}{G},5.0,G
 PLST,The List,Elven Bow,KHM-166,f525196a-e331-590c-bf9a-7a8cef68c1a9,fd78af69-4b8e-4063-a3bb-48026054cbd2,uncommon,Nonfoil,,black,,,True,Artifact — Equipment,{G},1.0,G
@@ -10170,6 +10200,7 @@ PLST,The List,Boros Elite,GK1-78,dc0c23b7-de5c-569d-ae09-6095014a676a,8a7ab714-1
 PLST,The List,Hypothesizzle,GRN-178,2300961e-0869-556b-8ffa-2af81031d541,ba2447be-3636-4f95-92a6-79be5d61db79,common,Nonfoil,,black,,,True,Instant,{3}{U}{R},5.0,"R, U"
 PLST,The List,Jaspera Sentinel,KHM-178,61174c01-23d5-5b80-9de6-1e17a5072ae3,98dd6832-60a1-4807-acc0-f33c65f58b18,common,Nonfoil,,black,,,True,Creature — Elf Rogue,{G},1.0,G
 PLST,The List,"Dina, Soul Steeper",STX-178,4d5d23f7-e28c-55be-8e59-ca2cb224fdcd,056da29c-8ae8-4e37-93c7-2d367cb51900,uncommon,Nonfoil,legendary,black,,,True,Legendary Creature — Dryad Druid,{B}{G},2.0,"B, G"
+PLST,The List,Space Beleren,UNF-178,c9fb0a7d-70a1-5fc8-8008-d46f92c5d77c,4ddaa8d0-e266-4a9f-a649-0ccc03d4a346,mythic,Nonfoil,,black,,,True,Legendary Planeswalker — Jace,{2}{W}{U},4.0,"U, W"
 PLST,The List,Blossom Dryad,XLN-178,962b9073-cfd3-5701-957e-b39477df5a2c,31a892e5-ac50-40e7-ac30-3710ed0f8eee,common,Nonfoil,,black,,,True,Creature — Dryad,{2}{G},3.0,G
 PLST,The List,Disruptive Stormbrood // Petty Revenge,TDM-178,0cadc70d-d321-5cb2-af33-1fc6bf8e3b4d,72adc822-38d5-4a46-ad47-090fa8ea40c7,uncommon,Nonfoil,,black,,,True,Creature — Dragon,{4}{G},5.0,"B, G"
 PLST,The List,Disruptive Stormbrood // Petty Revenge,TDM-178,e012c767-5563-5b17-b3f2-7e48243a2e1d,72adc822-38d5-4a46-ad47-090fa8ea40c7,uncommon,Nonfoil,,black,,,True,Sorcery — Omen,{1}{B},5.0,"B, G"
@@ -10412,6 +10443,7 @@ PLST,The List,"Bruse Tarl, Roving Rancher",OTJ-198,19052f84-9c44-5a88-bd01-05ca5
 PLST,The List,Vampire Champion,RIX-198,e05583da-4f44-5c29-8e76-cd188ac293a8,39f8a1fa-31c4-4427-9259-0a976a8aed03,common,Nonfoil,,black,,,True,Creature — Vampire Soldier,{3}{B},4.0,B
 PLST,The List,New Horizons,XLN-198,d34223c4-af3c-5055-8f99-d4417954f91d,757b02e0-a95d-4df7-b6f2-2ebed18aa013,common,Nonfoil,,black,,,True,Enchantment — Aura,{2}{G},3.0,G
 PLST,The List,Haywire Mite,BRO-199,b029cd32-4bd3-5c05-88c6-87c33fff2445,0e8eb992-9dc3-4258-aee3-8b03e44a74f3,uncommon,Nonfoil,,black,,,True,Artifact Creature — Insect,{1},1.0,G
+PLST,The List,Leadership Vacuum,C19-9,b4fe732c-d483-5ad8-a1e5-409877b772d2,d1869426-3dad-4ffb-8ddb-e018f02d6d68,uncommon,Nonfoil,,black,,,True,Instant,{2}{U},3.0,U
 PLST,The List,Taunting Kobold,CLB-199,0ac007d1-83a1-5e00-856f-af2c02ff6b97,27b332b0-de6e-445d-88ae-011a67bf99d4,uncommon,Nonfoil,,black,,,True,Creature — Kobold,{R},1.0,R
 PLST,The List,"Muldrotha, the Gravetide",DOM-199,1f0513eb-a3e4-51d0-9d2a-83c3b8efc6ea,cf3f12dd-5b96-4eee-bd2d-a221757c24d3,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Elemental Avatar,{3}{B}{G}{U},6.0,"B, G, U"
 PLST,The List,The Royal Scions,ELD-199,d3b7d5ea-3623-52a6-a769-b0bfdbbba0ec,872101c9-62fb-4836-8dff-bd6adcec2183,mythic,Nonfoil,,black,,,True,Legendary Planeswalker — Will Rowan,{1}{U}{R},3.0,"R, U"
@@ -10582,6 +10614,7 @@ PLST,The List,Dragonlord Dromoka,DTK-217,e06ccde8-18e3-5490-b8fb-2c0cc247161b,61
 PLST,The List,Fortify,MM2-17,923928ee-d426-59d7-bcec-63f4bea446ad,37cd415d-cbf1-4665-8ea0-0d4179587e87,common,Nonfoil,,black,,,True,Instant,{2}{W},3.0,W
 PLST,The List,Daring Saboteur,NCC-217,53f71443-7b20-5360-9d22-95bf8b01f929,93a78e9a-33ff-44d2-91d7-1f190996ceb9,uncommon,Nonfoil,,black,,,True,Creature — Human Pirate,{1}{U},2.0,U
 PLST,The List,Rites of Initiation,ODY-217,20395335-1979-50f4-b650-b80087f17293,f396a4f1-482e-47b6-8770-d416f25a6475,common,Nonfoil,,black,,,True,Instant,{R},1.0,R
+PLST,The List,"Breena, the Demagogue",OTC-217,2ef2219b-f70f-554b-aa50-e6c9c3a3f9c9,0cde880b-ecd7-4f1c-a851-c52304b68e85,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Bird Warlock,{1}{W}{B},3.0,"B, W"
 PLST,The List,Guttersnipe,TDC-217,6ba4e03d-3f04-5cca-a32e-3e1db8c87036,44c581ec-3277-4557-bd47-df3d7d3a9cef,uncommon,Nonfoil,,black,,,True,Creature — Goblin Shaman,{2}{R},3.0,R
 PLST,The List,Spectral Force,TSP-217,c9eef6cd-afa8-5e18-9155-bf11db6ae549,d5e81cf6-0e2f-430f-9350-2bdc0c99ac1b,rare,Nonfoil,,black,,,True,Creature — Elemental Spirit,{3}{G}{G},5.0,G
 PLST,The List,Admiral Beckett Brass,XLN-217,3974efdf-210c-5a50-9157-5d3c14f2ba85,0004311b-646a-4df8-a4b4-9171642e9ef4,mythic,Nonfoil,,black,,,True,Legendary Creature — Human Pirate,{1}{U}{B}{R},4.0,"B, R, U"
@@ -10861,11 +10894,13 @@ PLST,The List,Cloud Elemental,MM2-42,1e6f7a26-cd92-5547-a526-10410fbf3930,5af48c
 PLST,The List,Circuit Mender,NEO-242,96561765-d513-56f8-9a2b-fa839c238823,8f25cff7-fdda-4922-835f-7274205a5046,uncommon,Nonfoil,,black,,,True,Artifact Creature — Insect,{3},3.0,
 PLST,The List,Shield of the Oversoul,SHM-242,67ecc281-434d-5b8d-b0f4-3ee1ba27e16e,32422f3b-9e21-4740-a344-2b3369cbc713,common,Nonfoil,,black,,,True,Enchantment — Aura,{2}{G/W},3.0,"G, W"
 PLST,The List,Peace Strider,BBD-243,a5b8888c-b726-5dc3-9248-add55acf52ac,834b616f-7470-4c90-b35d-2b5f164b3b54,common,Nonfoil,,black,,,True,Artifact Creature — Construct,{4},4.0,
+PLST,The List,Adarkar Wastes,DMU-243,df026d7b-379a-558c-a1b8-d39ef37a8ace,7b06c8a8-6e6d-40a2-b843-e3d6aac3f399,rare,Nonfoil,,black,,,True,Land,,0.0,"U, W"
 PLST,The List,Memorial to Genius,DOM-243,53f1b0eb-2d32-56f8-a793-289b7339fc17,fc79ac9c-5320-432d-9667-405e89b367b7,uncommon,Nonfoil,,black,,,True,Land,,0.0,U
 PLST,The List,Dwarven Mine,ELD-243,9ff1e0e1-0c5e-5423-8378-c880327cd611,a2e4e574-7def-4980-967c-8acae22cb1a7,common,Nonfoil,,black,,,True,Land — Mountain,,0.0,R
 PLST,The List,Boros Guildgate,GRN-243,57209dfb-3d2d-5e62-95ff-e1b125eb7267,95940c4c-d600-4086-b5d8-fd84ce5cc2b5,common,Nonfoil,,black,,,True,Land — Gate,,0.0,"R, W"
 PLST,The List,Containment Construct,NEO-243,25dcf46c-b152-53e5-93c9-d649cfcff8cd,25a0e18d-f0d0-430d-a092-e6660bd9171b,uncommon,Nonfoil,,black,,,True,Artifact Creature — Construct,{2},2.0,
 PLST,The List,Surgical Skullbomb,ONE-243,5bfd6081-5a80-5fbd-881c-26173abacbea,6ec403a9-bd05-405e-860b-c3ed510f8683,common,Nonfoil,,black,,,True,Artifact,{1},1.0,U
+PLST,The List,Thief of Sanity,OTC-243,18e08eb6-8aa7-5400-b598-8e960d1731e6,7709fa8a-82cd-4ffe-a033-731c550c694f,rare,Nonfoil,,black,,,True,Creature — Specter,{1}{U}{B},3.0,"B, U"
 PLST,The List,Azorius Guildgate,RNA-243,70ad04d7-286d-541f-b64e-62b40e8b44a5,c11f10dc-0636-4a48-8294-11c0c84480fa,common,Nonfoil,,black,,,True,Land — Gate,,0.0,"U, W"
 PLST,The List,Wheel of Sun and Moon,SHM-243,de47f62c-5f2b-5412-a9ee-c2ce78a4aac8,aecbd704-bb01-45b4-b36a-03d4df809ecd,rare,Nonfoil,,black,,,True,Enchantment — Aura,{G/W}{G/W},2.0,"G, W"
 PLST,The List,"Mishra, Artificer Prodigy",TSP-243,74952750-98ad-5537-8bd6-7ffbbff5790d,fe36a72e-0dc0-4275-9e0e-39a8994aa76b,rare,Nonfoil,,black,,,True,Legendary Creature — Human Artificer,{1}{U}{B}{R},4.0,"B, R, U"
@@ -10876,6 +10911,8 @@ PLST,The List,"Toski, Bearer of Secrets",BLC-244,764bb20a-b591-5b62-ad1c-efaa6aa
 PLST,The List,"Sosuke, Son of Seshiro",CHK-244,8c73e0c3-82ba-5f37-9797-1aa815b69357,c6f244dc-5361-4a89-8278-8b15e413c72e,uncommon,Foil,,black,,,True,Legendary Creature — Snake Warrior,{2}{G}{G},4.0,G
 PLST,The List,"Neheb, the Eternal",CMM-244,b96a74a6-714f-5fd0-87a0-de02d054617e,e5867cdc-f7a8-4577-a969-4b5fedfeb3cb,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Zombie Minotaur Warrior,{3}{R}{R},5.0,R
 PLST,The List,Marchesa's Decree,CN2-44,a85b886c-29ac-5533-844f-b51338dd3a4a,0528de36-46c6-496c-8514-2944423b3e64,uncommon,Nonfoil,,black,,,True,Enchantment,{3}{B},4.0,B
+PLST,The List,Caves of Koilos,DMU-244,ded393d6-ce2d-56e0-ba53-361dafcc7e8b,04936a6a-d032-411e-a18f-ee9ef2293a29,rare,Nonfoil,,black,,,True,Land,,0.0,"B, W"
+PLST,The List,Commander's Sphere,DSC-244,2405b709-b470-5553-83fb-fcc8c4483bdb,9d6fa4ca-8e5c-4f24-8287-88e825ebaceb,common,Nonfoil,,black,,,True,Artifact,{3},3.0,
 PLST,The List,"Dromar, the Banisher",INV-244,8f8a1df2-54ef-5b9a-9711-ca10d664add0,607e45c7-2931-4d05-96fa-4adf7ab55daf,rare,Nonfoil,,black,,,True,Legendary Creature — Dragon,{3}{W}{U}{B},6.0,"B, U, W"
 PLST,The List,Words of War,ONS-244,7743b69f-7eb0-53ca-ad58-b307a710ba3b,351063a2-0e62-45db-9ed7-04d313ddb5bf,rare,Nonfoil,,black,,,True,Enchantment,{2}{R},3.0,R
 PLST,The List,Third Path Iconoclast,OTC-244,e4fdfef2-0ac7-52c6-a185-6e5821ce88eb,ecf68113-d9ca-4c0a-826f-986459ce0018,uncommon,Nonfoil,,black,,,True,Creature — Human Monk,{U}{R},2.0,"R, U"
@@ -10945,6 +10982,7 @@ PLST,The List,Vanquisher's Banner,XLN-251,54102878-62c6-563d-9eac-4bcc9a5be241,a
 PLST,The List,Barkchannel Pathway // Tidechannel Pathway,KHM-251,e1553981-a57c-5654-a78e-4390b312010b,f3600e4c-fd03-496f-84cf-a9417147a787,rare,Nonfoil,,black,,,True,Land,,0.0,"G, U"
 PLST,The List,Barkchannel Pathway // Tidechannel Pathway,KHM-251,2860c2dd-8ce2-50f9-af31-4fc0ccbe90cd,f3600e4c-fd03-496f-84cf-a9417147a787,rare,Nonfoil,,black,,,True,Land,,0.0,"G, U"
 PLST,The List,Frogify,2XM-52,1d7d16c7-c29d-5c2f-847f-a4bdbe4fcdcf,276d69a1-4b13-47c6-8ae1-d8d6ad62a409,common,Nonfoil,,black,,,True,Enchantment — Aura,{1}{U},2.0,U
+PLST,The List,Fabled Passage,BLB-252,fbf01fee-3eed-5189-8886-d81fc53b268e,84d63b9c-d820-4903-a892-16be1141e267,rare,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Thrummingbird,CM2-52,f924dad9-8043-5d16-a167-4d4d916c7bed,e4adf2d0-5a76-498e-88d4-474d6934a2f5,uncommon,Nonfoil,,black,,,True,Creature — Phyrexian Bird Horror,{1}{U},2.0,U
 PLST,The List,Murktide Regent,MH2-52,8e2c2713-8616-5344-81a9-c12581acad04,a8747d77-0f4c-4db9-9f11-639c961d14d5,mythic,Nonfoil,,black,,,True,Creature — Dragon,{5}{U}{U},7.0,U
 PLST,The List,Muscle Burst,ODY-252,ce71fee2-518a-530a-91c0-9c5a74364bf9,7fc8f124-5735-4cb6-863a-25c2f3b962b1,common,Nonfoil,,black,,,True,Instant,{1}{G},2.0,G
@@ -11002,6 +11040,7 @@ PLST,The List,Unclaimed Territory,XLN-258,5ac223bf-e250-5b92-8d91-0c9cea948cee,7
 PLST,The List,Branchloft Pathway // Boulderloft Pathway,ZNR-258,75691783-ea7f-5a4b-beb7-48f978317121,655724d5-ee5f-49f5-92d3-7186ed2789d8,rare,Nonfoil,,black,,,True,Land,,0.0,"G, W"
 PLST,The List,Branchloft Pathway // Boulderloft Pathway,ZNR-258,c2d9b103-eb5f-5315-93a7-2d46afff255d,655724d5-ee5f-49f5-92d3-7186ed2789d8,rare,Nonfoil,,black,,,True,Land,,0.0,"G, W"
 PLST,The List,Brushland,BRO-259,0c436580-8ac5-55a2-9552-f264f1eb13f8,6de242ab-fab3-43f0-b8b4-6f323109eeaf,rare,Nonfoil,,black,,,True,Land,,0.0,"G, W"
+PLST,The List,Arcane Sanctum,DSC-259,7b714e38-185f-5717-b0fc-914895418d76,af8c6d4d-8db6-4be6-a496-0743b3530383,uncommon,Nonfoil,,black,,,True,Land,,0.0,"B, U, W"
 PLST,The List,Nut Collector,ODY-259,19e3aca3-d8fa-5d0f-a900-7c2691767a99,1b866327-a857-485b-9399-4e61828e1d76,rare,Nonfoil,,black,,,True,Creature — Human Druid,{5}{G},6.0,G
 PLST,The List,Lotus Bloom,TSP-259,fe84491c-e064-5704-a273-8f8c96b3a8fe,030b7ddc-dcf0-433a-b09e-27f117430e7b,rare,Nonfoil,,black,,,True,Artifact,,0.0,
 PLST,The List,Brightclimb Pathway // Grimclimb Pathway,ZNR-259,9480446e-4f38-502c-8f07-b4dfe70e0514,6a91d75c-7cdb-4b2a-abdd-c9feae8cb42e,rare,Nonfoil,,black,,,True,Land,,0.0,"B, W"
@@ -11053,6 +11092,7 @@ PLST,The List,Ancient Amphitheater,LRW-266,b7b0e2dd-4fd6-559c-bea6-290565ec37f8,
 PLST,The List,Vapor Snag,MM2-66,45858a88-9c36-57cd-bf25-2ec1cce76f7f,63b67070-38af-42e3-8d23-a081b06033fc,common,Nonfoil,,black,,,True,Instant,{U},1.0,U
 PLST,The List,Tower of Eons,MRD-266,2d9e51c6-8aad-5ada-949e-3daade765249,33457415-fda0-4ac9-907f-307e7a4a4a60,rare,Nonfoil,,black,,,True,Artifact,{4},4.0,
 PLST,The List,Desperate Lunge,WAR-266,3df85b7d-5db7-5d9f-abbc-4c842839e9e7,61c7dcfa-780e-4849-9f9c-c4a64f4ad974,common,Nonfoil,,black,,,True,Instant,{1}{W},2.0,W
+PLST,The List,Underground River,BRO-267,19ac52e9-2003-5c33-9be3-329cac241a40,904f3dc9-8935-4982-be62-6d5d5dd79b97,rare,Nonfoil,,black,,,True,Land,,0.0,"B, U"
 PLST,The List,Araumi of the Dead Tide,CMR-267,d3ca6628-3f15-59e2-829a-eb2c9afddb54,d114adbf-d9c2-40fe-8f8c-5268c3232f7b,uncommon,Nonfoil,legendary,black,,,True,Legendary Creature — Merfolk Wizard,{1}{U}{B},3.0,"B, U"
 PLST,The List,Rakdos Cackler,GK2-67,1fa85b7a-c603-556f-874c-f6f6d54cf17f,1cc68af6-8e08-4b3c-8eb4-d045666b21a7,uncommon,Nonfoil,,black,,,True,Creature — Devil,{B/R},1.0,"B, R"
 PLST,The List,Shimmerdrift Vale,KHM-267,bf79722a-94c1-540c-9765-60892484a93b,a673adea-8454-4382-8413-fc1fa823f747,common,Nonfoil,snow,black,,,True,Snow Land,,0.0,
@@ -11132,6 +11172,7 @@ PLST,The List,Hans Eriksson,CMR-279,bc9ae948-a0aa-569d-907d-e6a507343cb9,ec4a08c
 PLST,The List,Spy Kit,CN2-79,29d06146-0a6e-597e-8684-b0049975cc61,f8253037-5495-4fc9-9844-8aae9575c348,uncommon,Nonfoil,,black,,,True,Artifact — Equipment,{2},2.0,
 PLST,The List,Island,MKM-279,b4de6468-ce7f-5420-b757-30807c2ba4f3,3f02cfaf-1c0b-4168-a809-ea9541bf62b2,common,Nonfoil,,black,,,True,Basic Land — Island,,0.0,U
 PLST,The List,Dismember,MM2-79,f9a2ecf7-c998-59f6-9ca3-63241f726b23,4ccd8394-cbc9-4346-9b48-f6be447b3e08,uncommon,Nonfoil,,black,,,True,Instant,{1}{B/P}{B/P},3.0,B
+PLST,The List,Command Beacon,OTC-279,52e12993-194a-56e9-87ca-95bfb4086874,f0ccfbe0-f0bc-4f1e-bab7-a1fc0e6dcf82,rare,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Terramorphic Expanse,TSP-279,21260b64-88a4-5a67-845c-2be72a32ea93,85d416ad-5715-4795-9c28-5e385bd70062,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,"Okina, Temple to the Grandfathers",CHK-280,c9d1b11c-2133-5d77-9200-55dfa5c9b9f3,d2b833dd-64d9-48df-b24e-475811e5037c,rare,Nonfoil,,black,,,True,Legendary Land,,0.0,G
 PLST,The List,"Imoti, Celebrant of Bounty",CMR-280,03952a15-3690-5755-a2ce-df983d5b9556,e1b2036c-0991-43b1-9b1a-532cae4ac90d,uncommon,Nonfoil,legendary,black,,,True,Legendary Creature — Snake Druid,{3}{G}{U},5.0,"G, U"
@@ -11144,6 +11185,7 @@ PLST,The List,"Jared Carthalion, True Heir",CMR-281,93395a83-9175-5154-8482-0a6c
 PLST,The List,Tsabo Tavoc,INV-281,4c94ff62-1247-55ee-bb8f-24b2f294bf04,fae30ebf-1c73-4319-b4b1-27b71cb42b69,rare,Nonfoil,,black,,,True,Legendary Creature — Phyrexian Horror,{5}{B}{R},7.0,"B, R"
 PLST,The List,Restless Prairie,LCI-281,888c6a54-edbe-503e-a225-81da6de9177e,fb36f34f-11b0-495a-8304-c98b692e3bc8,rare,Nonfoil,,black,,,True,Land,,0.0,"G, W"
 PLST,The List,Dauthi Voidwalker,MH2-81,5fc1444b-37c3-5f46-8bf5-dd995d4c07c3,ffc49988-f7ec-4fea-8585-d2a59a3b5891,rare,Nonfoil,,black,,,True,Creature — Dauthi Rogue,{B}{B},2.0,B
+PLST,The List,Prairie Stream,MKC-281,906af1de-95b2-5cc6-ada7-aaf9a23a8d0c,5158b6ab-15c2-4abb-93ce-e07d7ca74d4b,rare,Nonfoil,,black,,,True,Land — Plains Island,,0.0,"U, W"
 PLST,The List,Vesuva,TSP-281,63923a59-d8f2-53f3-bb73-ec18afce2b10,d79b95aa-8a05-4c9a-9387-120791c3c1d5,rare,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Vernal Bloom,USG-281,3a111a0a-1cdd-5f4d-9a1c-724a534644eb,547cb570-5e32-4e7c-8cbb-21712ddc4a05,rare,Nonfoil,,black,,,True,Enchantment,{3}{G},4.0,G
 PLST,The List,Castaway's Despair,XLN-281,27075253-ae96-57a7-9379-4750b1a9cf57,c860fde8-9c2b-42a3-986c-1f9d35598211,common,Nonfoil,,black,,,True,Enchantment — Aura,{3}{U},4.0,U
@@ -11189,6 +11231,7 @@ PLST,The List,Symbiotic Beast,ONS-287,d6110428-51d8-5cfd-ab03-4c6938a76465,78b93
 PLST,The List,Burning-Tree Emissary,GK2-88,a2bebba6-31fd-5df0-b254-93446aa3fab2,e481fee2-e509-4d87-a25d-2af27b964a27,uncommon,Nonfoil,,black,,,True,Creature — Human Shaman,{R/G}{R/G},2.0,"G, R"
 PLST,The List,Seaside Citadel,MKC-288,e2e16ff2-d7a1-5392-ac95-9e9856aa44f5,eb5aeb6d-0e02-4441-9c5f-ec0889d77e39,uncommon,Nonfoil,,black,,,True,Land,,0.0,"G, U, W"
 PLST,The List,Urza's Factory,TSR-288,1dfb17bf-e9af-5288-bb46-2bdc56400d7e,c02a54a6-9247-4460-83e5-d10fbd1554e6,uncommon,Nonfoil,,black,,,True,Land — Urza's,,0.0,
+PLST,The List,Myriad Landscape,DSC-289,a1727b83-a910-5f10-ba9d-204219cffbf7,bafabaa6-7a36-4cb3-81e5-c7bfa87c61e2,uncommon,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Plagued Rusalka,MM2-89,66e0b920-8c6e-5e73-9153-f4632da23ffc,6c3b29dd-2c2f-492d-aa23-140d44152bd9,common,Nonfoil,,black,,,True,Creature — Spirit,{B},1.0,B
 PLST,The List,Fool's Tome,TMP-289,1d0a8abd-a9ac-5151-abf9-cfd5e1446dba,670e1d46-c5d4-48b6-a189-3c64076288dd,rare,Nonfoil,,black,,,True,Artifact — Book,{4},4.0,
 PLST,The List,Swarm of Rats,P02-89,051a16e5-cfa9-5b8e-ad3b-0403be288717,a90b89a1-afac-41de-9ca6-c49a02886b5e,common,Nonfoil,,black,,,True,Creature — Rat,{1}{B},2.0,B
@@ -11198,6 +11241,7 @@ PLST,The List,Yavimaya Barbarian,INV-290,ebd3e2fc-8183-5e07-a309-fc4c5aa89af8,d7
 PLST,The List,Zebra Unicorn,MIR-290,d7f55978-986e-5f22-91bf-3857455bedd8,32626cfc-c05e-4da0-9a5b-9d602c7bbb2e,uncommon,Nonfoil,,black,,,True,Creature — Unicorn,{2}{G}{W},4.0,"G, W"
 PLST,The List,Crenellated Wall,MMQ-290,78780cce-78c0-5eae-831d-f2fbc97fed40,b059ab1d-dfb1-44e7-a236-f6600e454147,uncommon,Nonfoil,,black,,,True,Artifact Creature — Wall,{4},4.0,
 PLST,The List,Farseek,NCC-290,fd6990af-ab46-5b1c-b3cc-7d72633c6c19,34800c89-a964-4db3-be7c-11b607a5f6c9,common,Nonfoil,,black,,,True,Sorcery,{1}{G},2.0,G
+PLST,The List,Drowned Catacomb,OTC-290,9e98ff2f-7d61-5484-accd-d2ed1961e879,af99bfed-6e42-41b8-b57c-f15c2e861d57,rare,Nonfoil,,black,,,True,Land,,0.0,"B, U"
 PLST,The List,Claws of Gix,USG-290,0343d03d-bd72-5f0d-994a-0e448acba1e7,317e0ac2-9c4a-40e6-8d00-c39dc2d454b7,uncommon,Nonfoil,,black,,,True,Artifact,{0},0.0,
 PLST,The List,Canyon Jerboa,ZNR-290,4380d2c0-33ea-5470-a59a-a3753dffffcf,4037f40c-bfcf-4555-8d87-6ac8ce159673,uncommon,Nonfoil,"inverted, showcase",black,,,True,Creature — Mouse,{2}{W},3.0,W
 PLST,The List,Crooked Scales,MMQ-291,11bf6f5d-98c4-5f72-ac13-828064a6c7e1,3352ba84-22cc-40e3-ae76-ca5cef8c2dfb,rare,Nonfoil,,black,,,True,Artifact,{4},4.0,
@@ -11215,6 +11259,7 @@ PLST,The List,Scuttling Death,MM2-94,c44cb035-6ca0-5ca1-b8bd-49604fbda918,5b2617
 PLST,The List,Lotus Petal,TMP-294,0fb081d6-ff53-547f-838d-7db3bc148861,153983dd-54dc-420d-9249-665b0d669614,common,Nonfoil,,black,,,True,Artifact,{0},0.0,
 PLST,The List,Endoskeleton,USG-294,46edbbc2-b589-5dbf-8dfc-3193ae206858,94f40e11-959c-4086-bbf9-45f28e8c818f,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Earthquake,P02-94,c6894278-37a3-5e93-8f30-498ed96e4287,efdb0248-e37c-4ff3-9256-37ff343dd68a,rare,Nonfoil,,black,,,True,Sorcery,{X}{R},1.0,R
+PLST,The List,Reliquary Tower,DSC-295,0158c3f8-167c-5841-b7d7-deacf2113109,ed0ac581-ec60-42c6-b802-fc4729d50774,uncommon,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Venomspout Brackus,ONS-295,38a5c50a-00d2-5f68-908f-42b8be724917,26019c5d-5caf-4fb2-b35c-e3d37b8bb9e2,uncommon,Nonfoil,,black,,,True,Creature — Beast,{6}{G},7.0,G
 PLST,The List,Beanstalk Giant // Fertile Footsteps,ELD-295,74d8fa62-d6b5-5d9d-b71f-5ea3b21824a0,035975da-7a65-4cef-9bd3-d1e1f6102f38,uncommon,Nonfoil,showcase,black,,,True,Creature — Giant,{6}{G},7.0,G
 PLST,The List,Beanstalk Giant // Fertile Footsteps,ELD-295,c6a110a8-28ce-5d88-afc5-2e63808886d3,035975da-7a65-4cef-9bd3-d1e1f6102f38,uncommon,Nonfoil,showcase,black,,,True,Sorcery — Adventure,{2}{G},7.0,G
@@ -11237,6 +11282,7 @@ PLST,The List,Spinerock Knoll,DSC-300,fafec025-32f9-5428-a1c8-4d76989a7b60,007d5
 PLST,The List,Pearl Medallion,TMP-300,6c2e63a9-a6b1-53f6-92ba-b023ee238fb6,498dbe23-6996-4f08-841b-d31c8bf54afc,rare,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Dawnhart Rejuvenator,MID-301,c4120eba-3e30-513b-bb4e-5109e07d2f49,110dd279-0aa1-43a7-a2de-42abde34220f,common,Nonfoil,showcase,black,,,True,Creature — Human Warlock,{3}{G},4.0,G
 PLST,The List,Ersatz Gnomes,MIR-301,bbfd4316-1bd9-5366-b0fc-cbfb9c5d278d,a09770a1-0c59-4fd8-892a-a3ceda27d3a2,uncommon,Nonfoil,,black,,,True,Artifact Creature — Gnome,{3},3.0,
+PLST,The List,Isolated Chapel,OTC-301,99cf9dda-6a88-5882-9d92-d0ce18c99da5,fe5c382c-56a0-4606-9030-3f66e186befd,rare,Nonfoil,,black,,,True,Land,,0.0,"B, W"
 PLST,The List,Cloister Gargoyle,AFR-302,42c006ad-d0b2-5804-a932-7e15e0099b5e,37bfe275-b912-4e69-8c4c-1c18e1967b09,uncommon,Nonfoil,showcase,black,,,True,Artifact Creature — Gargoyle,{2}{W},3.0,W
 PLST,The List,Silence,TSR-302,8f29700d-0193-53c9-b26d-2345fa446a40,93da2d78-db29-40dd-8ba2-e7bd89628aac,special,Nonfoil,,black,,,True,Instant,{W},1.0,W
 PLST,The List,Mishra's Helix,USG-302,1dab8b9f-ef4d-513b-a955-e7210fcc7138,91612d4d-9568-4c81-b1dc-3da9502c295d,rare,Nonfoil,,black,,,True,Artifact,{5},5.0,
@@ -11255,8 +11301,11 @@ PLST,The List,Phyrexian Colossus,USG-305,51fb3c3d-0560-578f-a323-c95b27620ec1,ab
 PLST,The List,Kodama's Reach,MOC-306,52ed50d0-4507-5e3d-ab7f-5aa8afaed67f,651b834e-b39c-4833-8b2f-6456ac06062c,common,Nonfoil,,black,,,True,Sorcery — Arcane,{2}{G},3.0,G
 PLST,The List,Sapphire Medallion,TMP-306,fb7e3cbb-a011-56c3-84cd-8b54e917ff3a,1e29ed45-472f-4cd8-b3f1-382606dc7c50,rare,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,"Baral, Chief of Compliance",TSR-306,5c70e712-6e77-5b89-82cf-0fa6158d1ca2,5092017c-dce2-49cd-b850-15c2ef689a4f,special,Nonfoil,,black,,,True,Legendary Creature — Human Wizard,{1}{U},2.0,U
+PLST,The List,Glacial Fortress,BLC-307,ccd3bea1-22e9-5647-9b60-969ce42decd5,ff07df55-dadf-45ac-bd21-41aa58909c22,rare,Nonfoil,,black,,,True,Land,,0.0,"U, W"
+PLST,The List,Temple of Deceit,DSC-307,d19b454f-b134-5a79-a7ea-1e38249d1c6b,646a980c-9226-412a-ba58-c2b52a721c99,rare,Nonfoil,,black,,,True,Land,,0.0,"B, U"
 PLST,The List,Doom Cannon,ONS-307,cd764247-4552-59bb-aaa8-686b8023f0b7,9e77c2da-199e-4475-8954-c805146d7b86,rare,Nonfoil,,black,,,True,Artifact,{6},6.0,
 PLST,The List,Opulent Palace,OTC-307,4f5a008e-e25b-50a9-bd8f-02a422f1c39c,71bf0f4d-ad10-4a5f-8429-0f48ae593089,uncommon,Nonfoil,,black,,,True,Land,,0.0,"B, G, U"
+PLST,The List,Temple of Enlightenment,DSC-308,c9a6334b-2a74-5566-bfe4-b738896306dc,6fc87136-b602-4b96-830e-3262998959f0,rare,Nonfoil,,black,,,True,Land,,0.0,"U, W"
 PLST,The List,Planar Portal,INV-308,a5a46ab8-01a9-5c9a-9105-3fb77a4441c4,228f3008-68ac-4404-9585-9babae569697,rare,Nonfoil,,black,,,True,Artifact,{6},6.0,
 PLST,The List,Scroll Rack,TMP-308,da9ffa0a-86bb-511b-8614-17ff0cb522d2,7bae726c-40b3-4f68-8ca7-0400a92d0495,rare,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Decanter of Endless Water,CLB-309,707fe526-d692-5ef1-a145-72e4d36dacf1,e8be8435-8fb4-47d2-8e7c-0350f354ddbd,common,Nonfoil,,black,,,True,Artifact,{3},3.0,
@@ -11265,6 +11314,7 @@ PLST,The List,Power Armor,INV-309,2e231d56-5a89-52fd-9101-4f7bf8bede16,42e41ae2-
 PLST,The List,Smokestack,USG-309,6a9ec248-3faf-5afa-a467-ea2b2a51ff26,e272f599-a15e-47be-802e-fc6b4ab77f1f,rare,Nonfoil,,black,,,True,Artifact,{4},4.0,
 PLST,The List,Marble Diamond,MIR-310,85aaf23f-da74-55e6-a0a9-384fc35240f9,a140ae4f-e5a8-4060-a96e-180eb08b889b,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,W
 PLST,The List,War Room,MKC-310,cc626610-5329-5f89-9f74-754dd042a46f,caf2dc02-9989-4e5f-8b9b-76ff416f8070,rare,Nonfoil,,black,,,True,Land,,0.0,
+PLST,The List,Temple of Silence,DSC-312,5ce72954-6260-53c8-9bbc-ef035261d9db,f87aedfe-b5b6-4f97-b58d-da0144443e28,rare,Nonfoil,,black,,,True,Land,,0.0,"B, W"
 PLST,The List,Lingering Souls,MM3-12,6237231c-acd2-5620-8dcd-54b31af42013,8fcdbeda-f6cf-49c1-86cf-fa4ca2cbc201,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{W},3.0,"B, W"
 PLST,The List,Tek,INV-313,4c044a1f-2cff-5e5b-a212-e5c074679d28,9b9f5065-503f-4ff9-9d90-5cd2a86d26e7,rare,Nonfoil,,black,,,True,Artifact Creature — Dragon,{5},5.0,
 PLST,The List,Barbarian Ring,ODY-313,666ef2f9-5ebd-50c0-88e9-f3e9d45cefd4,ddf3091c-dc2e-4608-83c1-6ad712c68f54,uncommon,Nonfoil,,black,,,True,Land,,0.0,R
@@ -11288,6 +11338,7 @@ PLST,The List,Wall of Roots,NCC-319,c86ded71-f373-5155-a1a1-e21291828437,0432692
 PLST,The List,High Market,MMQ-320,ee021553-8f1d-539c-ae70-0f67a9dc2c5d,7ab4104c-7826-410c-b250-4000f7dc86eb,rare,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Canopy Vista,LCC-321,ae47ade6-f0c7-51db-afa6-819a31db5f04,79ca8982-826a-4c23-9e3a-04721d2e6466,rare,Nonfoil,,black,,,True,Land — Forest Plains,,0.0,"G, W"
 PLST,The List,Rootborn Defenses,MM3-21,d3f346f4-82f2-5632-9e39-4eac6b1e92a4,0748ebc9-5696-4540-bdc9-47148a38677e,common,Nonfoil,,black,,,True,Instant,{2}{W},3.0,W
+PLST,The List,Path of Ancestry,BLC-322,748a5092-b06e-59b9-9a03-564e04282c9a,48e56000-5f03-431a-bc1f-7359aaf439c1,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Peat Bog,MMQ-322,071080b7-3d7a-56fc-bb2f-ab80533d43b4,289344f8-9e1b-4f5f-ab10-451aabb9570a,common,Nonfoil,,black,,,True,Land,,0.0,B
 PLST,The List,Riptide Laboratory,ONS-322,5e0efa24-3acf-57b2-a96a-c6d985e82f6f,18caf94d-d382-43c4-9a32-d824b4bee8d7,rare,Nonfoil,,black,,,True,Land,,0.0,U
 PLST,The List,Diabolic Servitude,PD3-22,4b1ff4b4-5ed9-52b9-ac34-0db109c432b7,e2b78688-66d7-4b29-8191-3962c48cee09,uncommon,Nonfoil,,black,,,True,Enchantment,{3}{B},4.0,B
@@ -11300,11 +11351,13 @@ PLST,The List,"Alela, Artful Provocateur",ELD-324,1c8e0bce-d926-59f1-bd78-0e466e
 PLST,The List,Soul Warden,MM3-24,40884819-9520-59c3-a22a-924162208173,37fee9ca-a9bc-4369-b71f-69f4183d1c1e,common,Nonfoil,,black,,,True,Creature — Human Cleric,{W},1.0,W
 PLST,The List,Dire Wolf Prowler,AFR-325,0fe52156-4ba1-5a42-bb6a-76571a943826,bf3919bb-f44a-44fb-a0cb-46f207ed7b5a,common,Nonfoil,showcase,black,,,True,Creature — Wolf,{2}{G},3.0,G
 PLST,The List,Crystal Vein,MIR-325,d31c82ef-a2ed-5b93-9dd1-0026226a3fc5,c7c51eae-2c45-4f12-859d-56bd83247c2e,uncommon,Nonfoil,,black,,,True,Land,,0.0,
+PLST,The List,Sunken Hollow,OTC-325,b3e393c8-308d-5069-a737-605e8c3d5503,0fb7d469-d01a-4633-b06e-70050a5448bc,rare,Nonfoil,,black,,,True,Land — Island Swamp,,0.0,"B, U"
 PLST,The List,"Chulane, Teller of Tales",ELD-326,08d42e78-5a22-518d-9a90-f91243c85862,f5c8b2c5-91c6-4471-a8ff-d74de74bfaa7,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Human Druid,{2}{G}{W}{U},5.0,"G, U, W"
 PLST,The List,Sandstone Needle,MMQ-326,b898841a-c83d-5ef5-bd7b-3fc13c71bd91,e3fa18bf-0caa-46e4-b0a6-7d3fc242ca02,common,Nonfoil,,black,,,True,Land,,0.0,R
 PLST,The List,Shivan Gorge,USG-326,2cad2142-02f1-51c2-8cae-8370c5934ea0,e027d1dc-8c7f-4c09-b47b-f68d5a382d95,rare,Nonfoil,,black,,,True,Legendary Land,,0.0,R
 PLST,The List,Referee Squad,MOM-327,82543509-e46b-5fe1-a09f-132caf70b38f,0b3b9a31-d823-435d-9adb-d8d2ec8b3ac1,uncommon,Nonfoil,,black,,,True,Creature — Homunculus,{2}{U},3.0,U
 PLST,The List,Unholy Grotto,ONS-327,cb861c66-9993-5add-9f70-c19abb272186,a8a7f3c1-3afb-4fd3-8b33-d3e66e388af5,rare,Nonfoil,,black,,,True,Land,,0.0,B
+PLST,The List,Evolving Wilds,LCC-328,9cc9ea1e-c1fd-5bc2-8205-119eed966954,513a97a3-dfdd-4e32-9c4c-3d174d797963,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Mountain Valley,MIR-328,65b5b474-5cd6-57a3-956b-39bcd61057d7,d0ce47a5-b4f9-4092-9257-c1aa3c5a3eb1,uncommon,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Wake the Reflections,MM3-28,74a87733-0485-5538-b2d7-5ad354a33842,5344937a-7dcd-4b68-b639-dd4f3b6ad899,common,Nonfoil,,black,,,True,Sorcery,{W},1.0,W
 PLST,The List,Saprazzan Skerry,MMQ-328,a24013ec-1f8d-5148-b69b-2b09e27e9be4,eee26fe3-f0cf-48a8-ad2c-46aa4b5d0b61,common,Nonfoil,,black,,,True,Land,,0.0,U
@@ -11336,6 +11389,7 @@ PLST,The List,Temple of Plenty,BLC-343,0a6b0d10-6c88-58b5-b0fa-f178a0aae33f,ba75
 PLST,The List,Bushmeat Poacher,GN3-44,e416e3c0-f95b-59b6-b705-3b89e1ec961e,a68472cd-65f0-465d-a8fd-a4fbfc689181,common,Nonfoil,,black,,,True,Creature — Human Soldier,{3}{B},4.0,B
 PLST,The List,Mystical Teachings,MM3-44,7a203ed5-82bc-5a90-81a0-74a4061af9bc,dcc77acd-5596-43a2-9a3f-452d985ef4a5,common,Nonfoil,,black,,,True,Instant,{3}{U},4.0,"B, U"
 PLST,The List,"Kess, Dissident Mage",NCC-344,b8ceceea-ab91-5d4a-9e49-a4f4b2a7a736,cd202533-a076-44f6-b65c-716d817f94bc,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Human Wizard,{1}{U}{B}{R},4.0,"B, R, U"
+PLST,The List,Terramorphic Expanse,BLC-345,515c7530-07a3-5fc3-9c37-fe1b97e965ba,28c2c62c-3767-42b1-bdb7-e8769fe6d543,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Baldur's Gate,CLB-345,ad19ac6e-4586-5e95-b5b8-9fae4882dfcf,096012fb-a92b-4842-aee3-56d6598e9419,rare,Nonfoil,legendary,black,,,True,Legendary Land — Gate,,0.0,
 PLST,The List,Thraben Charm,MH3-45,e0ba9c37-a4b2-520e-943d-41b14297f404,f4710dd6-9ff4-459e-93bf-5c41351e87a4,common,Nonfoil,,black,,,True,Instant,{1}{W},2.0,W
 PLST,The List,Thought Vessel,CMR-346,ed42e3c2-a70b-5419-b1a2-0772979e41a0,671d3d4b-e4ab-4d40-a3fd-1db1e52501a7,uncommon,Foil,,black,,,True,Artifact,{2},2.0,
@@ -11373,6 +11427,7 @@ PLST,The List,"Bria, Riptide Rogue",BLB-379,2d82cb1f-b5ea-51ae-8114-c09fab5087f7
 PLST,The List,Skullclamp,MOC-379,14d05be9-7501-5c24-a271-698ed69e3e0c,cb3d9604-ed75-49b6-be67-bd66cddaa971,uncommon,Nonfoil,,black,,,True,Artifact — Equipment,{1},1.0,
 PLST,The List,Starnheim Aspirant,KHM-380,1a31c3b6-e2b4-5539-901c-1fe333fbfc1e,9dd231f8-3675-4849-a9f7-66b9ba035c24,uncommon,Nonfoil,,black,,,True,Creature — Human Cleric,{2}{W},3.0,W
 PLST,The List,Accursed Marauder,MH3-80,3bc122b8-707a-5f2b-a505-5e5c5b8b407d,280c563e-a7d5-4cb5-94c8-3d4d165cf8a6,common,Nonfoil,,black,,,True,Creature — Zombie Warrior,{1}{B},2.0,B
+PLST,The List,Skyclave Relic,MOC-380,ed184b24-7150-5e31-ae94-8a5d46c0ee05,e3160e30-2e25-4ceb-9224-5ddca7342f0d,rare,Nonfoil,,black,,,True,Artifact,{3},3.0,
 PLST,The List,Warchanter Skald,KHM-381,7ab1e8d8-55eb-530e-abb8-41e110781734,655630c9-c10c-461f-92be-4ea9299ec638,uncommon,Nonfoil,,black,themepack,,True,Creature — Dwarf Cleric,{2}{W},3.0,W
 PLST,The List,Pit Keeper,MM3-81,f471af73-ed85-550b-aa35-1984574e4329,4273650b-7b7a-4534-be80-87a6f2d57b1f,common,Nonfoil,,black,,,True,Creature — Human Wizard,{1}{B},2.0,B
 PLST,The List,Youthful Valkyrie,KHM-382,0ff1bc1a-34a2-5950-9c79-6f7468c8e05a,566d79a0-cff4-4c60-9d11-b24ca3131290,uncommon,Nonfoil,,black,themepack,,True,Creature — Angel,{1}{W},2.0,W
@@ -11506,6 +11561,7 @@ PLST,The List,Spirit Mantle,M12-35,f47d2ce4-e4cc-5aaa-b43a-aba635d044a4,30840f4d
 PLST,The List,Universal Automaton,MH1-235,ffaf47f9-f72e-5e45-b4bb-bb9818da4cc6,5f5edfc7-3281-4240-bc14-fbd4bbe9ae82,common,Nonfoil,,black,,,True,Artifact Creature — Shapeshifter,{1},1.0,
 PLST,The List,Stonehorn Dignitary,M12-37,fd9e7751-3e55-54b3-98a7-fedc12ccaacc,98c157c4-2fc5-44ce-9cd7-c611edf439f8,common,Nonfoil,,black,,,True,Creature — Rhino Soldier,{3}{W},4.0,W
 PLST,The List,Timely Reinforcements,M12-40,ee3323b6-3c05-5d1a-8117-ea37faf4a9b7,475d9dc3-19dd-4dd4-b7ea-e8b87db02d42,uncommon,Nonfoil,,black,,,True,Sorcery,{2}{W},3.0,W
+PLST,The List,Silent Clearing,MH1-246,0c91c77c-1751-5d30-b7a0-9c3a93b60f40,ebe3272f-93ad-4042-b782-3d37eac37266,rare,Nonfoil,,black,,,True,Land,,0.0,"B, W"
 PLST,The List,Jace's Archivist,M12-59,77103547-a614-5aac-b34b-6f79c73bbe0f,ed9b0baa-9f68-4874-8546-a9a0ff993f45,rare,Nonfoil,,black,,,True,Creature — Vedalken Wizard,{1}{U}{U},3.0,U
 PLST,The List,Bloodlord of Vaasgoth,M12-82,f7eccd65-09e8-578b-8ffb-cb1963a87818,5db7d259-8127-490d-837f-93093355280a,mythic,Nonfoil,,black,,,True,Creature — Vampire Warrior,{3}{B}{B},5.0,B
 PLST,The List,Healer of the Pride,M13-19,18ea1b56-f63a-5994-a53b-1962ef445f2c,224ff4ac-0f2e-4771-b551-18690f26bee2,uncommon,Nonfoil,,black,,,True,Creature — Cat Cleric,{3}{W},4.0,W
@@ -11566,6 +11622,7 @@ PLST,The List,Angel of Serenity,C15-58,4685ac2f-d6c9-5631-bb09-a9fd86ec7a2e,0b54
 PLST,The List,Aura of Silence,C15-60,a15d1957-ef11-5e92-a2d8-baad1e28b4f9,b6b0b957-cebe-4767-9e6c-b0d33f45efec,uncommon,Nonfoil,,black,,,True,Enchantment,{1}{W}{W},3.0,W
 PLST,The List,Invisibility,M15-61,d1a6b1ee-06e5-5282-be43-16fc2c7eceaf,4ad1dc5c-ed9f-44a9-bd39-1d7498d01cd8,common,Nonfoil,,black,,,True,Enchantment — Aura,{U}{U},2.0,U
 PLST,The List,Dawnglare Invoker,C15-67,328e35dd-fcc3-5611-bdbe-752b76724875,37128dc6-86a7-408d-a1e8-6728d584fbf9,common,Nonfoil,,black,,,True,Creature — Kor Wizard,{2}{W},3.0,W
+PLST,The List,Master of Predicaments,M15-67,f8ac3874-98da-57af-a8cd-db627f28c2cc,d62ea584-2b80-4a0d-83ba-fb13c34e4924,rare,Nonfoil,,black,,,True,Creature — Sphinx,{3}{U}{U},5.0,U
 PLST,The List,Military Intelligence,M15-69,a4b5f42a-f2e8-5c0f-bb1b-fd6b784b99c5,3800ca73-99ee-49bb-ac8a-ccb55c5c25eb,uncommon,Nonfoil,,black,,,True,Enchantment,{1}{U},2.0,U
 PLST,The List,Ghostblade Eidolon,C15-70,3d41c5c8-acd9-5709-8743-f417a7424091,fa9701d9-da46-4af6-8b84-09546a718afe,uncommon,Nonfoil,enchantment,black,,,True,Enchantment Creature — Spirit,{2}{W},3.0,W
 PLST,The List,Mind Sculpt,M15-70,5f586390-a523-50ba-b5fc-2f15aa85df93,17665a33-f2f3-4647-8fe7-73a2b6f86c3b,common,Nonfoil,,black,,,True,Sorcery,{1}{U},2.0,U
@@ -11597,6 +11654,7 @@ PLST,The List,Stalking Tiger,W17-28,6187b91c-694d-58d2-ba8a-81ef1b985290,a6c66f5
 PLST,The List,Hungry Lynx,C17-31,161c2820-0117-50ea-9e5a-9c67466ac5d3,9f067c0a-a9f1-4afd-b2b5-da07b2650f32,rare,Nonfoil,,black,,,True,Creature — Cat,{1}{G},2.0,G
 PLST,The List,Qasali Slingers,C17-33,6152c9d8-6306-52e1-94eb-8940256492ea,aad24af7-119d-42fd-9246-e559336fb63d,rare,Nonfoil,,black,,,True,Creature — Cat Warrior,{4}{G},5.0,G
 PLST,The List,Traverse the Outlands,C17-34,78430eff-e0fa-50e4-a043-331946f37198,43e5b269-14ef-4b47-8cca-92a132d9eea2,rare,Nonfoil,,black,,,True,Sorcery,{4}{G},5.0,G
+PLST,The List,Fractured Identity,C17-37,7acba392-82bc-533e-b4eb-c86c7e636778,c2fbca4a-c7a9-4faf-bb4e-d28e66042dc3,rare,Nonfoil,,black,,,True,Sorcery,{3}{W}{U},5.0,"U, W"
 PLST,The List,"Wasitora, Nekoru Queen",C17-49,893e3ba7-460a-5616-85d6-0015e2135ee5,c7e64fad-909d-474b-8f2f-7a8d1e8aa607,rare,Nonfoil,,black,,,True,Legendary Creature — Cat Dragon,{2}{B}{R}{G},5.0,"B, G, R"
 PLST,The List,Heirloom Blade,C17-52,a5188ba8-0d5a-5ae2-8dc2-e7bc3e36f8c7,0fc611aa-9418-41c1-ad6d-f2232b3c35c0,uncommon,Nonfoil,,black,,,True,Artifact — Equipment,{3},3.0,
 PLST,The List,Herald's Horn,C17-53,33d9595d-c1a5-51f2-a1f7-562e1cc5891f,d6fa81d5-2ae1-433a-812b-9cf8ecb89a09,uncommon,Nonfoil,,black,,,True,Artifact,{3},3.0,
@@ -11645,6 +11703,7 @@ PLST,The List,"Ghired, Conclave Exile",C19-42,c1e98457-c8df-52bf-9dba-ffd0568ff6
 PLST,The List,Anticipate,M19-44,4312c384-efd0-5c4d-812c-41e0599d095e,4923cbc2-5d79-4dce-99c3-c686785f49ed,common,Nonfoil,,black,,,True,Instant,{1}{U},2.0,U
 PLST,The List,"Marisi, Breaker of the Coil",C19-46,70b81a1c-ac7e-55ff-bce0-3e489103e11c,345f0b32-d897-48ae-9a17-a5927301d18b,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Cat Warrior,{1}{R}{G}{W},4.0,"G, R, W"
 PLST,The List,Divination,M19-51,0d1b9b0e-bd21-58e0-b2d9-2e066d6b9c78,95d1e5bd-9360-4ba5-83b5-38a9bf8bb5b9,common,Nonfoil,,black,,,True,Sorcery,{2}{U},3.0,U
+PLST,The List,Aeon Engine,C19-52,52132750-00b4-5e6d-9c82-529078698e3e,a9802aee-912f-438c-a91f-cadeae6e9add,rare,Nonfoil,,black,,,True,Artifact,{5},5.0,
 PLST,The List,Empowered Autogenerator,C19-54,9287fc5f-2582-512a-90bf-50dce122d4e1,b21548a7-ef2c-4002-97f3-73266a5ad5f5,rare,Nonfoil,,black,,,True,Artifact,{4},4.0,
 PLST,The List,Essence Scatter,M19-54,34d577c7-56f6-5d29-80f4-3a51662bb3a8,ebe5399a-cff9-4f16-8105-18c40863a3f9,common,Nonfoil,,black,,,True,Instant,{1}{U},2.0,U
 PLST,The List,Frilled Sea Serpent,M19-56,d8d59067-d1de-5aae-80f8-1b033fb01a65,ffe41c6f-252e-4cc9-8313-e3cfc12424e4,common,Nonfoil,,black,,,True,Creature — Serpent,{4}{U}{U},6.0,U
@@ -11791,6 +11850,7 @@ PLST,The List,Vengeful Rebirth,MM2-188,e6fc04b8-5135-5671-b471-1712e6232c2a,a8bd
 PLST,The List,Bad Deal,M21-89,504f8b15-ea74-524f-9ae2-5b048a1c8434,8c957811-e041-4287-9a1f-1788948ec386,uncommon,Nonfoil,,black,,,True,Sorcery,{4}{B}{B},6.0,B
 PLST,The List,Combine Chrysalis,MH2-191,fd432b94-31a8-5fd8-afcf-dffe27d29854,3a695520-157e-41fb-a38a-82cce9ba0ad4,uncommon,Nonfoil,,black,,,True,Artifact,{G}{U},2.0,"G, U"
 PLST,The List,Ravenous Leucrocota,CN2-192,9420bccd-5d92-5335-8e49-b8209f4b2d4f,7770a846-5b5c-417f-9957-ada2c1c06a14,common,Nonfoil,,black,,,True,Creature — Beast,{3}{G},4.0,G
+PLST,The List,Ethersworn Sphinx,MH2-195,49b16a55-2fef-511d-9ca2-934713b7c813,c05ba178-e1dd-4fed-a8f8-44f52902d57b,uncommon,Nonfoil,,black,,,True,Artifact Creature — Sphinx,{7}{W}{U},9.0,"U, W"
 PLST,The List,Akroan Hoplite,CN2-197,97883738-994c-59eb-b7c4-2bf1d68a5a54,7f82800a-2382-432d-ab85-e19c7b40f736,uncommon,Nonfoil,,black,,,True,Creature — Human Soldier,{R}{W},2.0,"R, W"
 PLST,The List,Garth One-Eye,MH2-197,78e4812a-5237-5494-96e6-419501a7c467,e228dffa-8fa2-4f6a-9b44-493eeb9b1cf1,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Human Wizard,{W}{U}{B}{R}{G},5.0,"B, G, R, U, W"
 PLST,The List,Oreskos Explorer,C21-98,5fd394f1-7889-5945-b0f1-045edf0d1879,541a205a-7f44-43e4-b72a-2d1f2bdb2057,uncommon,Nonfoil,,black,,,True,Creature — Cat Scout,{1}{W},2.0,W
@@ -11950,20 +12010,27 @@ PLST,The List,Gift of Orzhova,MM3-209,ea351a65-fcf0-56fc-9431-56d078399a07,2a1ab
 PLST,The List,"Grenzo, Havoc Raiser",M3C-213,05dc216a-8494-5c8d-9cdc-ff7e1a24cb1e,9bc97501-93ed-4235-bfe7-745ac57653da,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Goblin Rogue,{R}{R},2.0,R
 PLST,The List,Arena of Glory,MH3-215,5544bbfd-094b-5cbc-bc88-535fc65375d3,7230f119-b663-483c-aa9b-eb22259fcc2d,rare,Nonfoil,,black,,,True,Land,,0.0,R
 PLST,The List,Basilisk Collar,MM3-216,6e8e96d4-4e00-5b7d-8a45-5b6da6339790,fda957e5-e01d-4b85-84bb-fdf9e070df70,rare,Nonfoil,,black,,,True,Artifact — Equipment,{1},1.0,
+PLST,The List,Contaminated Landscape,MH3-218,de6f56cd-7451-5d61-b171-b270c224c387,5f7f2661-b37e-4588-bb48-89f0fbd0ed69,common,Nonfoil,,black,,,True,Land,,0.0,"B, U, W"
 PLST,The List,Izzet Signet,MM3-223,e0b82285-9210-5dda-84d9-749f4f8c293a,4b274648-a1fc-4c2f-af95-f990b8c6dc43,uncommon,Foil,,black,,,True,Artifact,{2},2.0,"R, U"
 PLST,The List,Poison Dart Frog,M3C-238,c83d2fe2-0225-5a27-b1db-5ae00456a99e,cac29a5e-7f06-4d9d-9ee8-14dd525e2c54,common,Nonfoil,,black,ripplefoil,,True,Creature — Frog,{1}{G},2.0,G
 PLST,The List,"Selvala, Heart of the Wilds",M3C-246,4c6a05d9-fe87-5457-a50b-b84fbfaab040,513d6a59-77fd-4a97-82c3-beebc1e7946f,mythic,Nonfoil,legendary,black,ripplefoil,,True,Legendary Creature — Elf Scout,{1}{G}{G},3.0,G
 PLST,The List,Decree of Justice,MH3-263,ad080889-b07c-5be1-a0f3-ca4c7d3363df,45903917-5a7f-4e91-9722-7d5795d47ebe,uncommon,Nonfoil,,black,,,True,Sorcery,{X}{X}{2}{W}{W},4.0,W
 PLST,The List,Sire of Stagnation,M3C-272,85e593bd-264a-5b9b-834f-f1ab77f8001a,bf60850a-0390-475e-b23f-171632e09625,mythic,Nonfoil,devoid,black,ripplefoil,,True,Creature — Eldrazi,{4}{U}{B},6.0,"B, U"
+PLST,The List,Coalition Relic,M3C-286,5c742312-e49a-535a-854a-d75460d758e0,3d1b788e-c982-42f8-9076-20fccb820228,rare,Nonfoil,,black,ripplefoil,,True,Artifact,{3},3.0,
 PLST,The List,Ruby Medallion,MH3-295,46607ef7-7a14-5466-acc0-c0785a1bfcb3,77cc4574-acc0-4f03-bd3b-af7a47f19053,rare,Nonfoil,,black,,,True,Artifact,{2},2.0,
 PLST,The List,Idol of Oblivion,M3C-297,773c6845-e670-51e3-b42e-9c784a42fb62,f8692db5-6f2d-4330-9e23-1c3246898a35,uncommon,Nonfoil,,black,ripplefoil,,True,Artifact,{2},2.0,
+PLST,The List,Mirage Mirror,M3C-300,bfc2fcc3-7ff2-55c0-abd0-58a10c220f45,fc57bd2a-785c-4025-b713-f07c204c68c0,rare,Nonfoil,,black,ripplefoil,,True,Artifact,{3},3.0,
+PLST,The List,Talisman of Progress,M3C-313,a40f571c-d613-51fb-accb-a2569ba6968e,45e6f929-be9f-4b24-af3b-fae185693a4d,uncommon,Nonfoil,,black,ripplefoil,,True,Artifact,{2},2.0,"U, W"
+PLST,The List,Wayfarer's Bauble,M3C-315,f8970a7c-264d-522c-ba9e-dd8fe05e4ea5,a0eac775-5652-406e-9a06-8d20d693098c,common,Nonfoil,,black,ripplefoil,,True,Artifact,{1},1.0,
 PLST,The List,Adarkar Wastes,M3C-316,500516b9-e960-5014-beea-4d81b6bd0ed0,66782316-c1c5-47dc-a693-f4c213ee0834,rare,Nonfoil,,black,,,True,Land,,0.0,"U, W"
 PLST,The List,Brushland,M3C-324,6bde327b-56d5-5c41-89a2-f0754b88db91,808c2748-65c5-407f-bb09-1e82dd1a4efb,rare,Nonfoil,,black,,,True,Land,,0.0,"G, W"
 PLST,The List,Forgotten Cave,M3C-343,70b59ce2-71f2-53c0-a532-0dab83d0725e,bd75c360-931e-4bce-8e25-dd1d361efcc3,common,Nonfoil,,black,,,True,Land,,0.0,R
 PLST,The List,Karplusan Forest,M3C-351,dfe1b068-1205-5bde-b60b-7ba0437d7729,ca558afb-e5ff-43f9-8726-272d77e2cc50,rare,Nonfoil,,black,,,True,Land,,0.0,"G, R"
+PLST,The List,Mystic Gate,M3C-359,bbf0955e-60e5-59c3-ae42-32f1858c57d6,aeede3be-9191-4f74-81d8-f487b5658315,rare,Nonfoil,,black,ripplefoil,,True,Land,,0.0,"U, W"
 PLST,The List,Overflowing Basin,M3C-362,b049df9d-1194-5789-b9dc-c543ebdbffb0,35bc5710-4bcb-4194-bde5-c8f6fc032a15,rare,Nonfoil,,black,,,True,Land,,0.0,"G, U"
 PLST,The List,Path of Ancestry,M3C-363,15b8e060-3509-5f08-bbbf-576dce3e6ea8,34353930-c69b-4ef3-a6d5-c2e6673ea132,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Reliquary Tower,M3C-368,063ee19d-31a3-5e7e-bc7d-8c97eb77fd59,064e88cb-b9ae-4b70-a788-7a0c2e215f1c,uncommon,Nonfoil,,black,,,True,Land,,0.0,
+PLST,The List,"Yavimaya, Cradle of Growth",M3C-409,c3dea965-e5b5-5d37-ba5f-4ff33b0b7ba2,ef59fa4b-a116-431c-a946-31007f0f034d,rare,Nonfoil,legendary,black,ripplefoil,,True,Legendary Land,,0.0,
 PLST,The List,Wicked Pact,ME4-102,fc0fe777-fc82-5c9b-a0e0-a6ee061dc721,6c329e5b-e903-4cc2-bd35-5bdc77615013,uncommon,Nonfoil,,black,,,True,Sorcery,{1}{B}{B},3.0,B
 PLST,The List,Alluring Scent,ME4-141,7511ff75-87f2-51ca-b28c-badd38f8bb69,c5335684-2ec8-423b-97ba-0fc99cfd94f8,common,Nonfoil,,black,,,True,Sorcery,{1}{G}{G},3.0,G
 PLST,The List,Blasting Station,5DN-107,6d29154c-a911-5a88-8a25-c98005e7c1bb,f28263e6-ee21-415e-b633-377af6f40d5b,uncommon,Foil,,black,,,True,Artifact,{3},3.0,
@@ -12200,6 +12267,7 @@ PLST,The List,Spawning Grounds,C18-163,08f2a8a1-8622-57d8-bef1-8215e4bffdc6,30b0
 PLST,The List,Wild Growth,C18-165,b4de38f3-8ba1-5108-8412-0781e18d69eb,4ffdc806-876a-4403-bab2-c7350da4bf4a,common,Nonfoil,,black,,,True,Enchantment — Aura,{G},1.0,G
 PLST,The List,Yavimaya Elder,C18-166,5b34a950-c02d-5e36-8f84-1b3062c519e4,3ef804c8-281b-411a-8908-ecbf80c455cd,common,Nonfoil,,black,,,True,Creature — Human Druid,{1}{G}{G},3.0,G
 PLST,The List,Deathreap Ritual,C18-174,9fe88680-8272-59ef-a04c-4b8d9abfa409,d5158343-febf-43d0-80e2-a30a27a9c49b,uncommon,Nonfoil,,black,,,True,Enchantment,{2}{B}{G},4.0,"B, G"
+PLST,The List,Enigma Sphinx,C18-178,2a63637e-30ba-5f12-894a-eee1c59f2229,835e569b-93ef-40a8-89fe-6b40c8adb866,rare,Nonfoil,,black,,,True,Artifact Creature — Sphinx,{4}{W}{U}{B},7.0,"B, U, W"
 PLST,The List,Esper Charm,C18-179,af5f9e04-7424-5d51-8788-a4beecce4043,6804aa61-c2f7-4cd9-a348-8313a4305b5e,uncommon,Nonfoil,,black,,,True,Instant,{W}{U}{B},3.0,"B, U, W"
 PLST,The List,Maverick Thopterist,C18-185,991fa6d5-1945-5806-bdd4-523cd1cb9afe,e2718058-16d5-49cb-8b05-b7a39ce7aa62,uncommon,Nonfoil,,black,,,True,Creature — Human Artificer,{3}{U}{R},5.0,"R, U"
 PLST,The List,Mortify,C18-186,c105ac7b-0722-50c7-84d1-c2759019d0f9,8d29e7a2-bcb3-41d0-b467-2a6263bf5223,uncommon,Nonfoil,,black,,,True,Instant,{1}{W}{B},3.0,"B, W"
@@ -12265,6 +12333,7 @@ PLST,The List,Lightning Greaves,C19-217,7b43a318-c16d-51b1-a380-d077b2f496e7,ef5
 PLST,The List,Mimic Vat,C19-219,e67d7b66-1710-5eb7-aff7-95e30e969fbb,5eb1ee9b-16a6-4d2a-89bb-c9f28953d3c5,rare,Nonfoil,,black,,,True,Artifact,{3},3.0,
 PLST,The List,Satyr Enchanter,M19-223,db67b27b-94b1-536b-97ef-e9fa4219100c,4f910c5b-3de9-40e8-a1d5-dfe6b3725404,uncommon,Nonfoil,,black,,,True,Creature — Satyr Druid,{1}{G}{W},3.0,"G, W"
 PLST,The List,"Vaevictis Asmadi, the Dire",M19-225,d8b9ba42-8226-5411-9d40-4a05ac8f46e1,85f99ec3-5ab9-43a6-ae92-2501f04d6b6c,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Elder Dragon,{3}{B}{R}{G},6.0,"B, G, R"
+PLST,The List,Chaos Wand,M19-228,c905980d-3531-57fa-8927-20ccdc947daf,2a9ae558-e6cd-4cf6-b204-8ff6f6914d0a,rare,Nonfoil,,black,,,True,Artifact,{3},3.0,
 PLST,The List,Diamond Mare,M19-231,36f99d76-2456-5340-a00b-610e73d9387b,e2a4cdab-5dd7-4119-bfdc-21980db58058,uncommon,Nonfoil,,black,,,True,Artifact Creature — Horse,{2},2.0,
 PLST,The List,Fountain of Renewal,M19-235,d3f50331-deaa-52ee-916f-567db3d95c46,6f730cc5-828a-4015-a33b-a6c86a50e477,uncommon,Nonfoil,,black,,,True,Artifact,{1},1.0,
 PLST,The List,Meteor Golem,M19-241,47b0a796-0b19-5516-a178-d1a88f8fc0ce,2add2ff0-4412-4710-aff7-ed82b1f684a8,uncommon,Nonfoil,,black,,,True,Artifact Creature — Golem,{7},7.0,
@@ -12354,6 +12423,7 @@ PLST,The List,Radiant Fountain,M21-248,02583d9b-83a4-554c-8337-bbcf8e3c8bb3,41ca
 PLST,The List,Temple of Epiphany,M21-252,45c7e15b-8676-56e2-9832-7b09bfc8e69b,446ae4aa-6eba-4872-8a07-c8767c3b02c5,rare,Foil,,black,,,True,Land,,0.0,"R, U"
 PLST,The List,Sol Ring,C21-263,421fe39e-672c-5630-9a78-9d03e904aceb,38d347b7-dc17-417a-ab07-29fe99b9a101,uncommon,Nonfoil,,black,,,True,Artifact,{1},1.0,
 PLST,The List,Talisman of Creativity,C21-269,c850ec96-43f5-506a-9834-ec9c65e2ead4,35805e27-fc26-4eb1-943c-f5b6c2185e03,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,"R, U"
+PLST,The List,Venser's Journal,C21-273,d6072363-012b-546e-bcf0-4e7a4d5b6e2d,94eceb0c-8c59-45b7-9caa-6f6027733e73,rare,Nonfoil,,black,,,True,Artifact — Book,{5},5.0,
 PLST,The List,Command Tower,C21-284,e8ec1b41-575c-5b66-a86f-6ca74e4285f9,6576ee65-45e4-4291-a10a-8631366f0e8f,common,Nonfoil,,black,,,True,Land,,0.0,
 PLST,The List,Desert of the Fervent,C21-286,5afc3f27-15a9-5653-a1e8-53fd4f62828e,db790b02-0a85-4e1b-8837-56aaf57fc25e,common,Nonfoil,,black,,,True,Land — Desert,,0.0,R
 PLST,The List,Exotic Orchard,C21-288,dc361735-ed1c-5c4d-9862-2b97b50287c0,6287b2e4-d2d3-4ba4-abc9-b2525dd726d7,rare,Nonfoil,,black,,,True,Land,,0.0,
@@ -23666,6 +23736,66 @@ SLC,Secret Lair Countdown,Wasteland,50,852b0e67-8f81-5518-b3a9-208862e8d75d,96ad
 SLC,Secret Lair Countdown,"Xantcha, Sleeper Agent",51,5569b1b1-355c-50e0-91d6-98a4ea198c0b,1a3dd206-ac71-4e33-a326-5485a3308a4a,rare,Foil,"inverted, legendary",borderless,halofoil,,True,Legendary Creature — Phyrexian Minion,{1}{B}{R},3.0,"B, R"
 SLC,Secret Lair Countdown,"Yarok, the Desecrated",52,472c1ec8-a434-54be-81f1-583904448051,af247608-1935-4bb5-be13-20b7974a5245,mythic,Foil,"inverted, legendary",borderless,halofoil,,True,Legendary Creature — Elemental Horror,{2}{B}{G}{U},5.0,"B, G, U"
 SLC,Secret Lair Countdown,Zo-Zu the Punisher,53,b01c65db-7410-50d5-a144-f8cef107ee04,09d43f17-cec1-4a2e-96d7-34e67f2d5fde,rare,Foil,"inverted, legendary",borderless,halofoil,,True,Legendary Creature — Goblin Warrior,{1}{R}{R},3.0,R
+SLC,Secret Lair Countdown,Molten Duplication,54,833a676f-4794-587a-8082-a334b57da787,6f67598f-1a3c-4f24-8a37-2a437247e7af,mythic,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{1}{R},2.0,R
+SLC,Secret Lair Countdown,Molten Duplication,54,833a676f-4794-587a-8082-a334b57da787,6f67598f-1a3c-4f24-8a37-2a437247e7af,mythic,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{1}{R},2.0,R
+SLC,Secret Lair Countdown,Fierce Guardianship,55,b8284bdf-7d84-5d04-8391-1f7aa98843a5,686ef3ed-9056-4d54-985c-56bc6d1a3232,rare,Foil,showcase,borderless,universesbeyond,,True,Instant,{2}{U},3.0,U
+SLC,Secret Lair Countdown,Fierce Guardianship,55,b8284bdf-7d84-5d04-8391-1f7aa98843a5,686ef3ed-9056-4d54-985c-56bc6d1a3232,rare,Nonfoil,showcase,borderless,universesbeyond,,True,Instant,{2}{U},3.0,U
+SLC,Secret Lair Countdown,Unbreakable Formation,56,829923c5-c923-503c-9976-5fe37e6f345c,46986f2d-f9dd-4109-a48b-2c3ce418afca,rare,Foil,,borderless,universesbeyond,True,True,Instant,{2}{W},3.0,W
+SLC,Secret Lair Countdown,Unbreakable Formation,56,829923c5-c923-503c-9976-5fe37e6f345c,46986f2d-f9dd-4109-a48b-2c3ce418afca,rare,Nonfoil,,borderless,universesbeyond,True,True,Instant,{2}{W},3.0,W
+SLC,Secret Lair Countdown,Timber Protector,57,ad54bb87-9658-5e5c-b4aa-886520b8c7e2,fa791e67-05ff-4d54-b1e5-72edc6531e3b,rare,Foil,,borderless,universesbeyond,True,True,Creature — Treefolk Warrior,{4}{G},5.0,G
+SLC,Secret Lair Countdown,Timber Protector,57,ad54bb87-9658-5e5c-b4aa-886520b8c7e2,fa791e67-05ff-4d54-b1e5-72edc6531e3b,rare,Nonfoil,,borderless,universesbeyond,True,True,Creature — Treefolk Warrior,{4}{G},5.0,G
+SLC,Secret Lair Countdown,Biorhythm,58,7ee6b9dc-9a89-5250-987d-08bffed5e796,f29d10ee-4d7c-450f-90f2-4ff1f28271f8,rare,Foil,inverted,borderless,universesbeyond,True,True,Sorcery,{6}{G}{G},8.0,G
+SLC,Secret Lair Countdown,Biorhythm,58,7ee6b9dc-9a89-5250-987d-08bffed5e796,f29d10ee-4d7c-450f-90f2-4ff1f28271f8,rare,Nonfoil,inverted,borderless,universesbeyond,True,True,Sorcery,{6}{G}{G},8.0,G
+SLC,Secret Lair Countdown,Tainted Pact,59,b536ade6-a48b-5821-bf9c-86bac6ed86e8,b9f1a168-cd43-418c-bf49-ab1c252927d7,mythic,Foil,inverted,borderless,universesbeyond,,True,Instant,{1}{B},2.0,B
+SLC,Secret Lair Countdown,Tainted Pact,59,b536ade6-a48b-5821-bf9c-86bac6ed86e8,b9f1a168-cd43-418c-bf49-ab1c252927d7,mythic,Nonfoil,inverted,borderless,universesbeyond,,True,Instant,{1}{B},2.0,B
+SLC,Secret Lair Countdown,With Great Power . . .,60,a3a89b28-fcf4-5a22-83d9-c1f7254a9158,b35cd8f6-de1e-46a9-8909-54ad28e71305,rare,Foil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment — Aura,{3}{W},4.0,W
+SLC,Secret Lair Countdown,With Great Power . . .,60,a3a89b28-fcf4-5a22-83d9-c1f7254a9158,b35cd8f6-de1e-46a9-8909-54ad28e71305,rare,Nonfoil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment — Aura,{3}{W},4.0,W
+SLC,Secret Lair Countdown,Vigor,61,c0701775-e3f1-50fc-8c00-3c2cc818ac02,5d1994a0-9323-4108-addf-9ad8aaa80ca6,rare,Foil,inverted,borderless,universesbeyond,,True,Creature — Elemental Incarnation,{3}{G}{G}{G},6.0,G
+SLC,Secret Lair Countdown,Vigor,61,c0701775-e3f1-50fc-8c00-3c2cc818ac02,5d1994a0-9323-4108-addf-9ad8aaa80ca6,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Creature — Elemental Incarnation,{3}{G}{G}{G},6.0,G
+SLC,Secret Lair Countdown,"Mjölnir, Storm Hammer",62,10d00c7a-62cb-502d-8c41-9e53195ae74e,315b5a40-5566-4b08-8f2b-1e171aeb4b2d,rare,Foil,"inverted, legendary",borderless,universesbeyond,,True,Legendary Artifact — Equipment,{4},4.0,
+SLC,Secret Lair Countdown,"Mjölnir, Storm Hammer",62,10d00c7a-62cb-502d-8c41-9e53195ae74e,315b5a40-5566-4b08-8f2b-1e171aeb4b2d,rare,Nonfoil,"inverted, legendary",borderless,universesbeyond,,True,Legendary Artifact — Equipment,{4},4.0,
+SLC,Secret Lair Countdown,"Doctor Strange, Master of Magic",63,b7b18a69-2e26-548d-987c-af3f6c554fff,dce65d5f-6fd4-469f-97fd-636be341d793,rare,Foil,"inverted, legendary",borderless,universesbeyond,,,Legendary Creature — Human Sorcerer Hero,{2}{W}{U},4.0,"U, W"
+SLC,Secret Lair Countdown,"Doctor Strange, Master of Magic",63,b7b18a69-2e26-548d-987c-af3f6c554fff,dce65d5f-6fd4-469f-97fd-636be341d793,rare,Nonfoil,"inverted, legendary",borderless,universesbeyond,,,Legendary Creature — Human Sorcerer Hero,{2}{W}{U},4.0,"U, W"
+SLC,Secret Lair Countdown,Champion's Helm,64,0c84b02b-48dc-54d5-b832-0692d0e2cbd0,284f705e-01a3-4fc0-a7c0-7f13d8b3f98a,rare,Foil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{3},3.0,
+SLC,Secret Lair Countdown,Champion's Helm,64,0c84b02b-48dc-54d5-b832-0692d0e2cbd0,284f705e-01a3-4fc0-a7c0-7f13d8b3f98a,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{3},3.0,
+SLC,Secret Lair Countdown,Force of Virtue,65,d81c1b78-2b96-53b9-a4dc-1342cf78370d,7d0f4947-847e-4816-a2ab-3d337b9f7ae8,rare,Foil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment,{2}{W}{W},4.0,W
+SLC,Secret Lair Countdown,Force of Virtue,65,d81c1b78-2b96-53b9-a4dc-1342cf78370d,7d0f4947-847e-4816-a2ab-3d337b9f7ae8,rare,Nonfoil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment,{2}{W}{W},4.0,W
+SLC,Secret Lair Countdown,Heroic Intervention,66,9469c785-08e3-5c9b-8bfd-d95e82d4abe6,9ae40924-d2cc-4be1-b130-8bb6f4a39d65,rare,Foil,inverted,borderless,universesbeyond,,True,Instant,{1}{G},2.0,G
+SLC,Secret Lair Countdown,Heroic Intervention,66,9469c785-08e3-5c9b-8bfd-d95e82d4abe6,9ae40924-d2cc-4be1-b130-8bb6f4a39d65,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Instant,{1}{G},2.0,G
+SLC,Secret Lair Countdown,Fighter Class,67,6f6f3c73-311b-59ce-8edf-3c2ac09893c3,d617fd56-b594-4baf-a4c2-318724044a52,rare,Foil,enchantment,borderless,universesbeyond,True,True,Enchantment — Class,{R}{W},2.0,"R, W"
+SLC,Secret Lair Countdown,Fighter Class,67,6f6f3c73-311b-59ce-8edf-3c2ac09893c3,d617fd56-b594-4baf-a4c2-318724044a52,rare,Nonfoil,enchantment,borderless,universesbeyond,True,True,Enchantment — Class,{R}{W},2.0,"R, W"
+SLC,Secret Lair Countdown,Court of Bounty,68,2cf7b1b4-c7f2-57fb-9d55-7c3be4bacfae,39835a90-ab3a-458a-ad59-e7cd61e893fe,rare,Foil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment,{2}{G}{G},4.0,G
+SLC,Secret Lair Countdown,Court of Bounty,68,2cf7b1b4-c7f2-57fb-9d55-7c3be4bacfae,39835a90-ab3a-458a-ad59-e7cd61e893fe,rare,Nonfoil,"enchantment, inverted",borderless,universesbeyond,,True,Enchantment,{2}{G}{G},4.0,G
+SLC,Secret Lair Countdown,Devastation,69,dab7ba66-84a7-58b3-85a7-52033cabf89c,7befa177-b610-4711-9219-5c8c53b98012,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{5}{R}{R},7.0,R
+SLC,Secret Lair Countdown,Devastation,69,dab7ba66-84a7-58b3-85a7-52033cabf89c,7befa177-b610-4711-9219-5c8c53b98012,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{5}{R}{R},7.0,R
+SLC,Secret Lair Countdown,Unholy Heat,70,3a2e780d-a4c1-57ba-bdd0-d62cfebcf550,111be579-a9a8-41ed-a558-ffb87ad64b15,rare,Foil,,borderless,universesbeyond,True,True,Instant,{R},1.0,R
+SLC,Secret Lair Countdown,Unholy Heat,70,3a2e780d-a4c1-57ba-bdd0-d62cfebcf550,111be579-a9a8-41ed-a558-ffb87ad64b15,rare,Nonfoil,,borderless,universesbeyond,True,True,Instant,{R},1.0,R
+SLC,Secret Lair Countdown,Villainous Wrath,71,aaf3e100-6b14-5c8a-a32d-8963efe2cd8e,2a70155f-332e-49cc-808a-686785815c1d,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{3}{B}{B},5.0,B
+SLC,Secret Lair Countdown,Villainous Wrath,71,aaf3e100-6b14-5c8a-a32d-8963efe2cd8e,2a70155f-332e-49cc-808a-686785815c1d,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{3}{B}{B},5.0,B
+SLC,Secret Lair Countdown,Damning Verdict,72,ca7bead0-770d-56d0-bbfb-f520580978c9,3f8284fa-c436-41b8-8598-4ebd3b6363d1,rare,Foil,inverted,borderless,universesbeyond,True,True,Sorcery,{3}{W}{W},5.0,W
+SLC,Secret Lair Countdown,Damning Verdict,72,ca7bead0-770d-56d0-bbfb-f520580978c9,3f8284fa-c436-41b8-8598-4ebd3b6363d1,rare,Nonfoil,inverted,borderless,universesbeyond,True,True,Sorcery,{3}{W}{W},5.0,W
+SLC,Secret Lair Countdown,Primal Might,73,195bd0e9-c261-563d-85e5-2c618346a887,39625009-60e0-4605-8cef-9d06378e9c91,rare,Foil,,borderless,universesbeyond,True,True,Sorcery,{X}{G},1.0,G
+SLC,Secret Lair Countdown,Primal Might,73,195bd0e9-c261-563d-85e5-2c618346a887,39625009-60e0-4605-8cef-9d06378e9c91,rare,Nonfoil,,borderless,universesbeyond,True,True,Sorcery,{X}{G},1.0,G
+SLC,Secret Lair Countdown,Damn,74,04bfde95-a4c3-54d4-9561-f51ffe65a6e7,f6eed11d-5f22-45dd-a966-f61813dcc40e,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{B}{B},2.0,"B, W"
+SLC,Secret Lair Countdown,Damn,74,04bfde95-a4c3-54d4-9561-f51ffe65a6e7,f6eed11d-5f22-45dd-a966-f61813dcc40e,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{B}{B},2.0,"B, W"
+SLC,Secret Lair Countdown,Genesis Wave,75,b62863ce-b1fd-574e-af67-b134ac94448d,bc9db0b1-de3b-4a99-b989-19acbc025018,rare,Foil,,borderless,universesbeyond,True,True,Sorcery,{X}{G}{G}{G},3.0,G
+SLC,Secret Lair Countdown,Genesis Wave,75,b62863ce-b1fd-574e-af67-b134ac94448d,bc9db0b1-de3b-4a99-b989-19acbc025018,rare,Nonfoil,,borderless,universesbeyond,True,True,Sorcery,{X}{G}{G}{G},3.0,G
+SLC,Secret Lair Countdown,Fiery Confluence,76,9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c,a7c9f8b3-9596-46a8-b636-a47312eb9503,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{2}{R}{R},4.0,R
+SLC,Secret Lair Countdown,Fiery Confluence,76,9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c,a7c9f8b3-9596-46a8-b636-a47312eb9503,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{2}{R}{R},4.0,R
+SLC,Secret Lair Countdown,Rogue's Gloves,77,b5a28489-be9b-5338-9156-4e230a6f7513,abf821ab-0c58-4706-81d4-3afd576af149,rare,Foil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{2},2.0,
+SLC,Secret Lair Countdown,Rogue's Gloves,77,b5a28489-be9b-5338-9156-4e230a6f7513,abf821ab-0c58-4706-81d4-3afd576af149,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{2},2.0,
+SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Foil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"U, W"
+SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Nonfoil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"U, W"
+SLC,Secret Lair Countdown,Snuff Out,79,30c01783-14be-52aa-9273-d24b55fbf319,c2074fd8-a351-4af0-b8b3-0c31898d9fa0,rare,Foil,inverted,borderless,universesbeyond,,True,Instant,{3}{B},4.0,B
+SLC,Secret Lair Countdown,Snuff Out,79,30c01783-14be-52aa-9273-d24b55fbf319,c2074fd8-a351-4af0-b8b3-0c31898d9fa0,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Instant,{3}{B},4.0,B
+SLC,Secret Lair Countdown,Titanic Ultimatum,80,7d295605-fc12-5fec-8648-123ad34f7391,d3c8b53d-3a0f-4d94-8a27-8bc99626e403,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{R}{R}{G}{G}{G}{W}{W},7.0,"G, R, W"
+SLC,Secret Lair Countdown,Titanic Ultimatum,80,7d295605-fc12-5fec-8648-123ad34f7391,d3c8b53d-3a0f-4d94-8a27-8bc99626e403,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{R}{R}{G}{G}{G}{W}{W},7.0,"G, R, W"
+SLC,Secret Lair Countdown,Opposition Agent,81,146724d5-63bd-546b-8800-07b1f970c440,e8960592-350c-4a4e-b897-5fcc4508b5a9,rare,Foil,inverted,borderless,universesbeyond,,True,Creature — Human Rogue,{2}{B},3.0,B
+SLC,Secret Lair Countdown,Opposition Agent,81,146724d5-63bd-546b-8800-07b1f970c440,e8960592-350c-4a4e-b897-5fcc4508b5a9,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Creature — Human Rogue,{2}{B},3.0,B
+SLC,Secret Lair Countdown,Collective Effort,82,fa8920b9-7c07-500b-913b-7d2d474ef0df,1cf94ce8-d945-4566-88b4-77af36dd9f67,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{1}{W}{W},3.0,W
+SLC,Secret Lair Countdown,Collective Effort,82,fa8920b9-7c07-500b-913b-7d2d474ef0df,1cf94ce8-d945-4566-88b4-77af36dd9f67,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{1}{W}{W},3.0,W
+SLC,Secret Lair Countdown,Lightning Bolt,83,52004857-98ae-50ea-98bc-c4fca67878d1,bba5ea18-4e58-42a8-b613-2178706476a6,rare,Foil,,borderless,universesbeyond,True,True,Instant,{R},1.0,R
+SLC,Secret Lair Countdown,Lightning Bolt,83,52004857-98ae-50ea-98bc-c4fca67878d1,bba5ea18-4e58-42a8-b613-2178706476a6,rare,Nonfoil,,borderless,universesbeyond,True,True,Instant,{R},1.0,R
 SLC,Secret Lair Countdown,Shivan Dragon,1993,2ee15fa7-6e75-5f99-966a-bc0fe602a0a5,c535f7f8-a57e-4ef1-91b4-5e3281bd4407,rare,Foil,inverted,borderless,,,True,Creature — Dragon,{4}{R}{R},6.0,R
 SLC,Secret Lair Countdown,Shivan Dragon,1993,2ee15fa7-6e75-5f99-966a-bc0fe602a0a5,c535f7f8-a57e-4ef1-91b4-5e3281bd4407,rare,Nonfoil,inverted,borderless,,,True,Creature — Dragon,{4}{R}{R},6.0,R
 SLC,Secret Lair Countdown,Mishra's Factory,1994,ed7687c8-a5b0-59ff-8dfe-aee11210e1a2,c9eb1309-5e60-4b8f-b63c-ebe62030db5c,rare,Foil,inverted,borderless,,,True,Land,,0.0,
@@ -30572,6 +30702,10 @@ PMEI,Media and Collaboration Promos,"Picard, Steadfast Captain",2026-22,78081672
 PMEI,Media and Collaboration Promos,"Spock, Logical Choice",2026-23,a43a5df8-280d-55e1-a9d4-9ae65f16365d,55fac713-7136-4ea4-9f21-0f6a821af22c,mythic,Foil,"extendedart, legendary",black,"mediainsert, universesbeyond",,True,Legendary Creature — Vulcan Human Scientist,{3}{U}{U},5.0,U
 PMEI,Media and Collaboration Promos,"Benjamin Sisko, Besieged",2026-24,57e8fa92-53a5-5f11-bd2f-d1051371a666,d99ba62f-bb47-464b-81bb-7b262339bf7b,mythic,Foil,"extendedart, legendary",black,"mediainsert, universesbeyond",,True,Legendary Creature — Human Officer,{4}{G}{G},6.0,G
 PMEI,Media and Collaboration Promos,"Hulk, Gamma Goliath",2026-25,f68588d6-104d-5c98-92c9-f159545d9ea4,2fd034aa-35b3-4122-bd7d-f7a466b5c3fd,rare,Foil,legendary,black,"mediainsert, resale, universesbeyond",,True,Legendary Creature — Gamma Berserker Hero,{3}{R}{G},5.0,"G, R"
+PMEI,Media and Collaboration Promos,"Doctor Doom, King of Latveria",2026-26,cf8c0ac0-b2c8-5157-b3c7-2c9bced58e0e,91a7f124-79af-45c2-a43d-7004bbda3045,mythic,Foil,"inverted, legendary",black,"mediainsert, universesbeyond",,True,Legendary Creature — Human Noble Villain,{1}{U}{B}{R},4.0,"B, R, U"
+PMEI,Media and Collaboration Promos,Mind Stone,2026-27,162ef62c-f78a-55f2-85e5-cf91206963d2,562d9f6f-1ce1-46d6-8f5a-bfb1b83429ab,rare,Foil,,black,mediainsert,,True,Artifact,{2},2.0,
+PMEI,Media and Collaboration Promos,"Venom, Eddie Brock",2026-28,5b1ce627-8d93-51d4-a780-b8242b4ad139,529d3638-7045-4c66-a606-4cbae2382f8c,rare,Foil,legendary,black,"mediainsert, resale, universesbeyond",,True,Legendary Creature — Symbiote Villain,{4}{B}{B},6.0,B
+PMEI,Media and Collaboration Promos,Villainous Hideout,2026-29,ae00b94d-9a08-566c-83ce-802ffa24ba79,dc904edb-acab-4ad4-9ff3-c44d91fd3d72,rare,Foil,,black,"mediainsert, resale, universesbeyond",,True,Land,,0.0,
 AA1,Arena Anthology 1,Azorius Signet,1,9084b3c3-b262-579b-b47b-e142f35b353b,1f880968-565b-41ad-a64b-3dd3ef100051,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,"U, W"
 AA1,Arena Anthology 1,Boros Signet,2,c3d8d2cc-40c7-51a8-899d-53658f949e8d,57629f57-e765-4fd1-9273-f08495e46bc8,uncommon,Nonfoil,,black,,,True,Artifact,{2},2.0,"R, W"
 AA1,Arena Anthology 1,Champion's Helm,3,34a96700-5269-5917-9b1e-e0d7336ee168,66d2a400-916f-4316-b831-1dfc479e9683,rare,Nonfoil,,black,,,True,Artifact — Equipment,{3},3.0,
@@ -46464,6 +46598,34 @@ F17,Friday Night Magic 2017,Aether Hub,6,0b5151a5-ada5-5045-a7a9-ecbe69593f69,a4
 F17,Friday Night Magic 2017,Reverse Engineer,7,1532a8f9-73b7-569e-ade5-603e9d22bd2d,9307ffe1-a24c-4a33-8948-a88cc1c7dc32,rare,Foil,,black,"fnm, tourney",,True,Sorcery,{3}{U}{U},5.0,U
 F17,Friday Night Magic 2017,Fatal Push,8,2707dffe-44f9-5177-a67f-b0e98c0117c0,86d1119d-7585-4699-8649-e3743c02d7a9,rare,Foil,,black,"fnm, tourney",,True,Instant,{B},1.0,B
 F17,Friday Night Magic 2017,Renegade Rallier,9,b69ab4f9-d835-5859-bd35-a89d227d347d,8d33e2f5-c2f5-4e69-924f-c8c9ed1ae1a7,rare,Foil,,black,"fnm, tourney",,True,Creature — Human Warrior,{1}{G}{W},3.0,"G, W"
+MDD,Marvel: Darkhold Destiny,Penance Stare,28,a1f7a3f3-3add-5229-a330-8c4e366804c2,7082199e-318e-4e4e-9102-61e79af8a10c,uncommon,Foil,,black,,,,Instant,{W},1.0,W
+MDD,Marvel: Darkhold Destiny,Penance Stare,28,a1f7a3f3-3add-5229-a330-8c4e366804c2,7082199e-318e-4e4e-9102-61e79af8a10c,uncommon,Nonfoil,,black,,,,Instant,{W},1.0,W
+MDD,Marvel: Darkhold Destiny,The Darkhold,92,45a05111-04a3-5755-840d-82b1d6925bf5,fca11cb7-0896-4927-8f11-0e9dec2de416,mythic,Foil,legendary,black,,,,Legendary Artifact — Book,{1}{B}{B},3.0,B
+MDD,Marvel: Darkhold Destiny,The Darkhold,92,45a05111-04a3-5755-840d-82b1d6925bf5,fca11cb7-0896-4927-8f11-0e9dec2de416,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Book,{1}{B}{B},3.0,B
+MDD,Marvel: Darkhold Destiny,"Hela, Mistress of Darkness // Dark Tutor",106,8195f395-41b9-5350-ac97-469309af82ca,7750d4bb-0463-43fd-bdf3-a14271cace20,mythic,Foil,legendary,black,,,,Legendary Creature — God Sorcerer Villain,{4}{B}{B},6.0,B
+MDD,Marvel: Darkhold Destiny,"Hela, Mistress of Darkness // Dark Tutor",106,8195f395-41b9-5350-ac97-469309af82ca,7750d4bb-0463-43fd-bdf3-a14271cace20,mythic,Nonfoil,legendary,black,,,,Legendary Creature — God Sorcerer Villain,{4}{B}{B},6.0,B
+MDD,Marvel: Darkhold Destiny,"Hela, Mistress of Darkness // Dark Tutor",106,26662953-8cfd-5c83-af93-124e1abb6240,7750d4bb-0463-43fd-bdf3-a14271cace20,mythic,Foil,legendary,black,,,,Sorcery — Vengeance,{1}{B}{B},6.0,B
+MDD,Marvel: Darkhold Destiny,"Hela, Mistress of Darkness // Dark Tutor",106,26662953-8cfd-5c83-af93-124e1abb6240,7750d4bb-0463-43fd-bdf3-a14271cace20,mythic,Nonfoil,legendary,black,,,,Sorcery — Vengeance,{1}{B}{B},6.0,B
+MDD,Marvel: Darkhold Destiny,Hela's Arcanum,107,d56f5e33-1cd9-5163-96ea-0828fe59a38c,738f0bc9-075c-45de-a1c3-7509b8bdb55b,rare,Foil,,black,,,,Instant — Arcane,{3}{B}{B},5.0,B
+MDD,Marvel: Darkhold Destiny,Hela's Arcanum,107,d56f5e33-1cd9-5163-96ea-0828fe59a38c,738f0bc9-075c-45de-a1c3-7509b8bdb55b,rare,Nonfoil,,black,,,,Instant — Arcane,{3}{B}{B},5.0,B
+MDD,Marvel: Darkhold Destiny,Rise from the Nether,161,34d62290-7537-5360-9297-fa4d50b6987a,bccc5d74-f9bf-4a75-9a45-e2a32f5651f1,uncommon,Foil,,black,,,,Sorcery — Arcane,{6}{R},7.0,R
+MDD,Marvel: Darkhold Destiny,Rise from the Nether,161,34d62290-7537-5360-9297-fa4d50b6987a,bccc5d74-f9bf-4a75-9a45-e2a32f5651f1,uncommon,Nonfoil,,black,,,,Sorcery — Arcane,{6}{R},7.0,R
+MDD,Marvel: Darkhold Destiny,"Magik, Illyana Rasputin // Darkchild, Demon Uncaged",242,51188f86-d154-5b09-a222-2ab31d32cb5b,60e252e3-88ea-49f2-a14f-ae9d0712bafe,mythic,Foil,legendary,black,,,,Legendary Creature — Mutant Sorcerer Hero,{1}{B}{R},3.0,"B, R"
+MDD,Marvel: Darkhold Destiny,"Magik, Illyana Rasputin // Darkchild, Demon Uncaged",242,51188f86-d154-5b09-a222-2ab31d32cb5b,60e252e3-88ea-49f2-a14f-ae9d0712bafe,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Mutant Sorcerer Hero,{1}{B}{R},3.0,"B, R"
+MDD,Marvel: Darkhold Destiny,"Magik, Illyana Rasputin // Darkchild, Demon Uncaged",242,6f150b1b-8e6d-50c9-9c87-42a18b0fe62a,60e252e3-88ea-49f2-a14f-ae9d0712bafe,mythic,Foil,legendary,black,,,,Legendary Creature — Mutant Demon Sorcerer,{3}{B}{R},5.0,"B, R"
+MDD,Marvel: Darkhold Destiny,"Magik, Illyana Rasputin // Darkchild, Demon Uncaged",242,6f150b1b-8e6d-50c9-9c87-42a18b0fe62a,60e252e3-88ea-49f2-a14f-ae9d0712bafe,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Mutant Demon Sorcerer,{3}{B}{R},5.0,"B, R"
+MDD,Marvel: Darkhold Destiny,Temple of Khonshu,288,f1ec9f62-d13b-5c53-8995-5e4e33b62d3b,2369ddb5-fa0b-46a0-a393-f213ec86818d,common,Foil,,black,,,,Land,,0.0,"B, W"
+MDD,Marvel: Darkhold Destiny,Temple of Khonshu,288,f1ec9f62-d13b-5c53-8995-5e4e33b62d3b,2369ddb5-fa0b-46a0-a393-f213ec86818d,common,Nonfoil,,black,,,,Land,,0.0,"B, W"
+MDD,Marvel: Darkhold Destiny,Plains,292,2303448d-df86-5f81-837f-b9992b814c21,09ac862f-0a51-44dd-b86f-9412b8218b13,common,Foil,,black,,,True,Basic Land — Plains,,0.0,W
+MDD,Marvel: Darkhold Destiny,Plains,292,2303448d-df86-5f81-837f-b9992b814c21,09ac862f-0a51-44dd-b86f-9412b8218b13,common,Nonfoil,,black,,,True,Basic Land — Plains,,0.0,W
+MDD,Marvel: Darkhold Destiny,Island,294,a1fb1bed-92ea-5d65-ba7a-cb6de9c6b72b,1335d293-3dd2-4f13-bd2c-22181f4528ee,common,Foil,,black,,,True,Basic Land — Island,,0.0,U
+MDD,Marvel: Darkhold Destiny,Island,294,a1fb1bed-92ea-5d65-ba7a-cb6de9c6b72b,1335d293-3dd2-4f13-bd2c-22181f4528ee,common,Nonfoil,,black,,,True,Basic Land — Island,,0.0,U
+MDD,Marvel: Darkhold Destiny,Swamp,296,911034f5-3f3d-55f4-b624-681a890b4992,b233b117-9369-45c1-80c5-cc857386b6be,common,Foil,,black,,,True,Basic Land — Swamp,,0.0,B
+MDD,Marvel: Darkhold Destiny,Swamp,296,911034f5-3f3d-55f4-b624-681a890b4992,b233b117-9369-45c1-80c5-cc857386b6be,common,Nonfoil,,black,,,True,Basic Land — Swamp,,0.0,B
+MDD,Marvel: Darkhold Destiny,Mountain,298,ae12c9ab-bc24-51f4-bb43-5f74070fe694,85177bd7-6c50-48da-b692-ae5fe7bd357c,common,Foil,,black,,,True,Basic Land — Mountain,,0.0,R
+MDD,Marvel: Darkhold Destiny,Mountain,298,ae12c9ab-bc24-51f4-bb43-5f74070fe694,85177bd7-6c50-48da-b692-ae5fe7bd357c,common,Nonfoil,,black,,,True,Basic Land — Mountain,,0.0,R
+MDD,Marvel: Darkhold Destiny,Forest,301,a1c56cb6-ce51-5ab2-9685-46e23016fed6,2e781bfd-f8cb-4d20-b977-4359f3a21311,common,Foil,,black,,,True,Basic Land — Forest,,0.0,G
+MDD,Marvel: Darkhold Destiny,Forest,301,a1c56cb6-ce51-5ab2-9685-46e23016fed6,2e781bfd-f8cb-4d20-b977-4359f3a21311,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
 LGN,Legions,"Akroma, Angel of Wrath",1,d047cdf7-3205-5261-83ec-80a202ce2748,814245de-6105-43ef-acbf-d12d304b6331,rare,Foil,,black,,,,Legendary Creature — Angel,{5}{W}{W}{W},8.0,W
 LGN,Legions,"Akroma, Angel of Wrath",1,d047cdf7-3205-5261-83ec-80a202ce2748,814245de-6105-43ef-acbf-d12d304b6331,rare,Nonfoil,,black,,,,Legendary Creature — Angel,{5}{W}{W}{W},8.0,W
 LGN,Legions,Akroma's Devoted,2,3f83b84d-9fa6-550e-85bb-6599b721a8e6,798893df-e720-471d-822d-50284de23efd,uncommon,Foil,,black,,,,Creature — Human Cleric,{3}{W},4.0,W
@@ -59439,6 +59601,39 @@ PFRA,Reality Fracture Promos,"Vraska, the Cutting Glare",278p,8e0287a4-328d-5691
 PFRA,Reality Fracture Promos,"Vraska, the Cutting Glare",278p,8e0287a4-328d-5691-9a39-56d592841565,a29d33b2-cabf-4623-8729-576a9a588781,rare,Nonfoil,legendary,black,"planeswalkerstamped, promopack, stamped",,,Legendary Creature — Gorgon Assassin,{B}{B}{G},3.0,"B, G"
 PFRA,Reality Fracture Promos,"Karn, Argent Defender",279p,4678fe54-54c7-5cc5-b8d6-e4ab4d12bd88,7401018a-068b-42ca-a718-fde107492640,rare,Foil,legendary,black,"planeswalkerstamped, promopack, stamped",,,Legendary Artifact Creature — Golem,{2},2.0,
 PFRA,Reality Fracture Promos,"Karn, Argent Defender",279p,4678fe54-54c7-5cc5-b8d6-e4ab4d12bd88,7401018a-068b-42ca-a718-fde107492640,rare,Nonfoil,legendary,black,"planeswalkerstamped, promopack, stamped",,,Legendary Artifact Creature — Golem,{2},2.0,
+YFRA,Alchemy: Reality Fracture,"Oko, Lord of the Fae",1,7c213db6-165f-5d2e-9c97-f6e57a0dfbf2,c76f89d7-f5b0-407e-aa21-709f3a985062,mythic,Nonfoil,,black,,,,Legendary Planeswalker — Oko,{1}{W}{W},3.0,W
+YFRA,Alchemy: Reality Fracture,Prophet of the Planeswalker,2,6b4b04cf-2017-5411-af06-88fcc585daf6,b2d189b0-0669-4507-927e-a0c7ce34e559,uncommon,Nonfoil,,black,,,,Creature — Human Cleric,{1}{W},2.0,W
+YFRA,Alchemy: Reality Fracture,"Valgavoth, the Lifeline",3,1f9335f7-f062-569c-a2fc-b456e5682e5e,e1badd54-6e41-4c0d-980a-c7ea0f17c50a,rare,Nonfoil,,black,,,,Legendary Creature — Insect Angel,{2}{W},3.0,W
+YFRA,Alchemy: Reality Fracture,Asymmetry Sage,4,2c153711-f92a-52a6-91bb-7033ec7c3363,aa00369e-52fc-4e88-97cd-24ab2fc84f81,uncommon,Nonfoil,,black,,,,Creature — Human Wizard,{U},1.0,U
+YFRA,Alchemy: Reality Fracture,Crux of the Theory,5,3c2a5b87-84a2-524b-a3f9-447ee960040b,3af0d515-70fe-4e14-a7f9-915f148fafb8,uncommon,Nonfoil,,black,,,,Enchantment,{1}{U},2.0,U
+YFRA,Alchemy: Reality Fracture,Echogoyfs,6,68d5e970-362c-5da3-8985-74069417af07,b563b44a-f717-420d-b401-ff0fdcdbc4f9,rare,Nonfoil,,black,,,,Creature — Lhurgoyf,{U},1.0,U
+YFRA,Alchemy: Reality Fracture,Jace's Saga,7,89b6ed37-d471-5924-a8c6-ca080af1ef12,342d5ee0-2681-4232-936a-63e080c34c80,rare,Nonfoil,,black,,,,Enchantment Land — Saga,,0.0,U
+YFRA,Alchemy: Reality Fracture,Paradox Kraken,8,4c0e6f10-fb0d-589b-b5b1-64405d8d9470,b569e5ae-8072-4cad-890f-d03e5389ce95,rare,Nonfoil,,black,,,,Creature — Kraken,{4}{U}{U},6.0,U
+YFRA,Alchemy: Reality Fracture,Remnants of Beleren,9,08ba3a4c-391a-5595-8fde-d1f28b12b3f5,48377cda-798e-48c6-b653-7156468faf14,mythic,Nonfoil,,black,,,,Artifact,{1}{U},2.0,U
+YFRA,Alchemy: Reality Fracture,Avoided Stairwurm,10,a2c0e3de-eac9-5880-b73f-6251ea680e90,0824af60-39fa-4d04-9add-b8cf684df1e4,rare,Nonfoil,,black,,,,Artifact Creature — Wurm,{B},1.0,B
+YFRA,Alchemy: Reality Fracture,Bend Mortal Limits,11,f1f479a6-5c1c-5f27-a1b5-d797c7c5732b,82576c26-3f07-4906-a051-e02165de4b2f,uncommon,Nonfoil,,black,,,,Sorcery,{B},1.0,B
+YFRA,Alchemy: Reality Fracture,Boisterous Clique,12,40897180-18ec-53b6-877d-0c9657f7a4b1,4474b1fc-5c62-41cf-90cd-e781bd7fa804,rare,Nonfoil,,black,,,,Creature — Faerie Warlock,{1}{B}{B},3.0,B
+YFRA,Alchemy: Reality Fracture,Searing Soloist,13,ddaa3854-9a40-5075-87bd-25370b853bce,bebc14ff-cb46-431c-9d01-c8c76c80e8d6,rare,Nonfoil,,black,,,,Creature — Orc Bard,{2}{R}{R},4.0,R
+YFRA,Alchemy: Reality Fracture,Sparks Ablaze,14,09ed9109-f9ef-5523-a37f-025fd7a05a5d,f7f073e7-b18e-4040-a028-d62b153b841a,uncommon,Nonfoil,,black,,,,Instant,{R},1.0,R
+YFRA,Alchemy: Reality Fracture,"Etali, Primal Garden",15,52f9e831-7506-5bfe-8d16-83ced6d9f87f,f6b0982a-68fd-4ce9-9d71-edb76ef82016,rare,Nonfoil,,black,,,,Legendary Creature — Elder Dinosaur,{6}{G},7.0,G
+YFRA,Alchemy: Reality Fracture,Nylea's Oracle,16,92311e87-6682-5023-8396-f8f2babf8b19,1be3000a-cad9-4173-8802-041f3fe5d38b,rare,Nonfoil,,black,,,,Creature — Centaur Druid,{G}{G},2.0,G
+YFRA,Alchemy: Reality Fracture,Selfless Germinator,17,7a968b5c-77e1-5d23-a635-5f370466ae82,09ed236e-f4e8-4e75-86be-3900196cfe5b,uncommon,Nonfoil,,black,,,,Creature — Treefolk Druid,{G},1.0,G
+YFRA,Alchemy: Reality Fracture,Banescale Serpent,18,0740a38c-6fc0-5b33-acce-7593bf77e7c3,150f57ed-ae07-49e1-ab0a-f14c01f0d7f3,rare,Nonfoil,,black,,,,Creature — Serpent,{3}{U}{R},5.0,"R, U"
+YFRA,Alchemy: Reality Fracture,The Bloodbile Swarm,19,a002da6f-a2a5-54bd-bc5f-a29b0b825e76,46d22d0d-544f-4ce4-8bc4-bf5f4f1aec0a,rare,Nonfoil,,black,,,,Legendary Creature — Elemental Insect,{3}{B}{R},5.0,"B, R"
+YFRA,Alchemy: Reality Fracture,Change the Narrative,20,56d861aa-6fff-54c9-9159-5a1762a34326,6772d2a4-5a90-44c7-afec-514d5c398c9d,rare,Nonfoil,,black,,,,Enchantment,{1}{W}{U},3.0,"U, W"
+YFRA,Alchemy: Reality Fracture,Diabolic Formula,21,9776cc09-082e-55f7-979f-f4e9cf190b30,de044570-8a01-4c32-83ca-01735daf894c,rare,Nonfoil,,black,,,,Enchantment,{U}{B},2.0,"B, U"
+YFRA,Alchemy: Reality Fracture,"Dina, Flesh Sower",22,4bee04c7-7270-541e-8997-623228cd3d31,73f247bd-02a7-4a0c-a4f0-3a945bb8b883,uncommon,Nonfoil,,black,,,,Legendary Creature — Dryad Cleric,{G}{W},2.0,"G, W"
+YFRA,Alchemy: Reality Fracture,Enter the Eternities,23,e424b61b-3138-5585-ba5b-42d7721dfec5,1e09568e-8927-454b-99a5-4776fa51fa31,mythic,Nonfoil,,black,,,,Sorcery,{G}{U},2.0,"G, U"
+YFRA,Alchemy: Reality Fracture,Flourishing Forces,24,0d479533-6b0e-59e6-a8ef-6125db7fbcb7,817b5f83-14eb-4352-b551-04dbb06c8032,rare,Nonfoil,,black,,,,Sorcery,{G}{W}{W},3.0,"G, W"
+YFRA,Alchemy: Reality Fracture,"Killian, Spotlight Chaser",25,e8b0d503-74b8-58bd-b76c-98bb2786791d,7b61ec1a-cc52-4007-93f5-d7051974e04c,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Bard,{B}{R},2.0,"B, R"
+YFRA,Alchemy: Reality Fracture,"Quintorius, Fate Splitter",26,7e225212-4608-5aa9-85d3-d3cb29ca2b9e,818c927e-8128-437e-bec7-2f195d58f981,mythic,Nonfoil,,black,,,,Legendary Planeswalker — Quintorius,{3}{W}{U},5.0,"U, W"
+YFRA,Alchemy: Reality Fracture,"Rootha, Ardent Artisan // Next Iteration",27,7146b33a-72b0-5f98-83a6-182cd5745b20,e6715141-7e4e-4bf4-bd13-0e496d1c2e28,uncommon,Nonfoil,,black,,,,Legendary Creature — Orc Artificer,{R}{G},2.0,"G, R"
+YFRA,Alchemy: Reality Fracture,"Rootha, Ardent Artisan // Next Iteration",27,2b51ed0a-89f0-591c-b9cc-bd401120f918,e6715141-7e4e-4bf4-bd13-0e496d1c2e28,uncommon,Nonfoil,,black,,,,Sorcery,{X}{R},2.0,"G, R"
+YFRA,Alchemy: Reality Fracture,Salvaged Imitations,28,c70130fe-06d3-57be-928a-b4eabf128c1c,c2f7c018-e93e-483b-8e5b-bbd2204c2247,rare,Nonfoil,,black,,,,Sorcery,{X}{R}{G},2.0,"G, R"
+YFRA,Alchemy: Reality Fracture,Zimone the Calculating // Simple Subtraction,29,044d27a3-e423-5d68-a596-d94b93636cff,45695988-6b78-468a-b12b-bcb92c405761,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Warlock,{U}{B},2.0,"B, U"
+YFRA,Alchemy: Reality Fracture,Zimone the Calculating // Simple Subtraction,29,8734d5e8-31d4-5595-9cac-0e4bbea46dba,45695988-6b78-468a-b12b-bcb92c405761,uncommon,Nonfoil,,black,,,,Instant,{1}{U},2.0,"B, U"
+YFRA,Alchemy: Reality Fracture,Willbound Quill,30,670b5f25-013a-5579-99c5-bbbc54f623df,32493b0a-8671-4b80-a5af-ea2d17cbc3e1,mythic,Nonfoil,,black,,,,Artifact,{4},4.0,
+YFRA,Alchemy: Reality Fracture,Potential Horizon,31,bce0a48a-a454-50a7-8a4a-6ff5fa3f10ee,b9a24075-31e3-42cb-a187-ff108890aa48,rare,Nonfoil,,black,,,,Land,,0.0,
 PZEN,Zendikar Promos,Terra Stomper,A5,d8c4e19e-4572-5edd-8532-6ab5081b7bf7,e093b461-49c4-4fff-bc1b-cab3f05d9615,rare,Foil,,black,"resale, setpromo",,True,Creature — Beast,{3}{G}{G}{G},6.0,G
 PZEN,Zendikar Promos,Day of Judgment,9★,2c3945f8-afa0-52ff-899c-bcdfbc4f513b,6ba873f7-a7a4-44aa-84a6-44501424dc7a,rare,Foil,,black,"buyabox, setpromo",,True,Sorcery,{2}{W}{W},4.0,W
 PZEN,Zendikar Promos,Rampaging Baloths,178★,157bbd59-a0bb-55a9-a30f-49475b8a7a91,aac9448c-c802-476a-87ef-e1d745fd862a,mythic,Foil,,black,"datestamped, prerelease, setpromo",,True,Creature — Beast,{4}{G}{G},6.0,G
@@ -68046,14 +68241,10 @@ BRO,The Brothers' War,Hall of Tagsin,371,1b500c45-9741-5329-b4fb-5025d5be25ae,de
 BRO,The Brothers' War,Hall of Tagsin,371,1b500c45-9741-5329-b4fb-5025d5be25ae,de42a4e7-317e-480e-9d38-da1c42c47521,rare,Nonfoil,extendedart,black,boosterfun,,,Land,,0.0,
 BRO,The Brothers' War,Mishra's Foundry,372,cf38aff6-92f1-5ab5-babc-7bb0198fee70,f493bc22-2e38-4459-81f1-37cd1ce921cf,rare,Foil,extendedart,black,boosterfun,,,Land,,0.0,
 BRO,The Brothers' War,Mishra's Foundry,372,cf38aff6-92f1-5ab5-babc-7bb0198fee70,f493bc22-2e38-4459-81f1-37cd1ce921cf,rare,Nonfoil,extendedart,black,boosterfun,,,Land,,0.0,
-BRO,The Brothers' War,Rescue Retriever,373,5f38f91c-3102-5120-bf3c-4d45a646a6c3,22dde654-5bde-47f9-8e90-4f38dddc07b3,rare,Foil,extendedart,black,boosterfun,,,Creature — Dog Soldier,{3}{W}{W},5.0,W
 BRO,The Brothers' War,Rescue Retriever,373,5f38f91c-3102-5120-bf3c-4d45a646a6c3,22dde654-5bde-47f9-8e90-4f38dddc07b3,rare,Nonfoil,extendedart,black,boosterfun,,,Creature — Dog Soldier,{3}{W}{W},5.0,W
-BRO,The Brothers' War,Geology Enthusiast,374,fe567e51-0b96-5551-b347-abfdf0ea4cda,dae85295-9bad-4f5b-9935-7242632e9008,rare,Foil,extendedart,black,boosterfun,,,Creature — Human Artificer,{3}{U}{U},5.0,U
 BRO,The Brothers' War,Geology Enthusiast,374,fe567e51-0b96-5551-b347-abfdf0ea4cda,dae85295-9bad-4f5b-9935-7242632e9008,rare,Nonfoil,extendedart,black,boosterfun,,,Creature — Human Artificer,{3}{U}{U},5.0,U
-BRO,The Brothers' War,Terror Ballista,375,69bb1966-c092-5656-8c4c-b925cbe0ae13,56ef8698-982d-4c35-b3a0-99788fc2f8a0,rare,Foil,extendedart,black,boosterfun,,,Artifact Creature — Construct,{7},7.0,B
 BRO,The Brothers' War,Terror Ballista,375,69bb1966-c092-5656-8c4c-b925cbe0ae13,56ef8698-982d-4c35-b3a0-99788fc2f8a0,rare,Nonfoil,extendedart,black,boosterfun,,,Artifact Creature — Construct,{7},7.0,B
 BRO,The Brothers' War,Artificer's Dragon,376,c4a8e16e-d4cc-5e46-945e-7717007d6b04,55e71c3b-4c97-4eac-9ac9-c97cd6253849,rare,Nonfoil,extendedart,black,boosterfun,,,Artifact Creature — Dragon,{6},6.0,R
-BRO,The Brothers' War,Woodcaller Automaton,377,135aeec4-f811-5944-afca-a45f163cbae1,37065a61-3883-49fa-a931-8f1566451795,rare,Foil,extendedart,black,boosterfun,,,Artifact Creature — Construct,{10},10.0,G
 BRO,The Brothers' War,Woodcaller Automaton,377,135aeec4-f811-5944-afca-a45f163cbae1,37065a61-3883-49fa-a931-8f1566451795,rare,Nonfoil,extendedart,black,boosterfun,,,Artifact Creature — Construct,{10},10.0,G
 BRO,The Brothers' War,Mishra's Foundry,378,dfa66ff6-f403-5e8a-837b-9fa1bbdb6dcf,e91f9a1e-809b-4bc0-afca-c0c3755d130f,rare,Foil,,black,buyabox,,,Land,,0.0,
 BRO,The Brothers' War,Queen Kayla bin-Kroog,379,9862ad68-fe97-55e9-9884-9dc2c236eef1,65d8c862-47e9-4cc5-833c-0e762ee2a670,rare,Foil,,black,bundle,,,Legendary Creature — Human Noble,{1}{R}{W},3.0,"R, W"
@@ -78223,6 +78414,24 @@ SLD,Secret Lair Drop,Throes of Chaos,2703,674ff0e5-9b5e-51a0-afe9-b5579afda34b,d
 SLD,Secret Lair Drop,Throes of Chaos,2703,674ff0e5-9b5e-51a0-afe9-b5579afda34b,d5623bcd-abc8-40fb-a6cf-d517fcb3dd4f,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{3}{R},4.0,R
 SLD,Secret Lair Drop,Mind's Eye,2704,4899ec7f-1525-5d25-a46d-b29d0735ee5d,65b8f30a-8e2a-478c-acb0-91201a31f016,rare,Foil,inverted,borderless,universesbeyond,,True,Artifact,{5},5.0,
 SLD,Secret Lair Drop,Mind's Eye,2704,4899ec7f-1525-5d25-a46d-b29d0735ee5d,65b8f30a-8e2a-478c-acb0-91201a31f016,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Artifact,{5},5.0,
+SLD,Secret Lair Drop,Thoughtseize,2705,9539dc29-7514-5d01-b9a7-7be15ab210ad,a1e6beeb-a72a-48fa-9c69-75510773f446,rare,Foil,,black,,,True,Sorcery,{B},1.0,B
+SLD,Secret Lair Drop,Thoughtseize,2705,9539dc29-7514-5d01-b9a7-7be15ab210ad,a1e6beeb-a72a-48fa-9c69-75510773f446,rare,Nonfoil,,black,,,True,Sorcery,{B},1.0,B
+SLD,Secret Lair Drop,Desperate Ritual,2706,f4df38fd-2d22-5fb9-b712-2d2a2521a3b9,cad9f66c-6e18-470a-890d-9a38e68bc9d8,rare,Foil,,black,,,True,Instant — Arcane,{1}{R},2.0,R
+SLD,Secret Lair Drop,Desperate Ritual,2706,f4df38fd-2d22-5fb9-b712-2d2a2521a3b9,cad9f66c-6e18-470a-890d-9a38e68bc9d8,rare,Nonfoil,,black,,,True,Instant — Arcane,{1}{R},2.0,R
+SLD,Secret Lair Drop,Pyroblast,2707,0b43ec57-cd9c-50b0-9bc0-2bf0cc19bdc4,df13dd0a-f313-426d-9227-f81aacbed791,rare,Foil,,black,,,True,Instant,{R},1.0,R
+SLD,Secret Lair Drop,Pyroblast,2707,0b43ec57-cd9c-50b0-9bc0-2bf0cc19bdc4,df13dd0a-f313-426d-9227-f81aacbed791,rare,Nonfoil,,black,,,True,Instant,{R},1.0,R
+SLD,Secret Lair Drop,Tribute to the World Tree,2708,f58730d8-2aab-5738-8fd0-db3155380435,4f80e176-9106-42ce-be93-a63a9a80faef,rare,Foil,,black,,,True,Enchantment,{G}{G}{G},3.0,G
+SLD,Secret Lair Drop,Tribute to the World Tree,2708,f58730d8-2aab-5738-8fd0-db3155380435,4f80e176-9106-42ce-be93-a63a9a80faef,rare,Nonfoil,,black,,,True,Enchantment,{G}{G}{G},3.0,G
+SLD,Secret Lair Drop,Attrition,2709,61d30fde-1e56-50b8-a761-7904ddd4295d,4840345d-9fc2-4bcc-ac7f-fc452fc1f334,rare,Foil,inverted,borderless,,,True,Enchantment,{1}{B}{B},3.0,B
+SLD,Secret Lair Drop,Attrition,2709,61d30fde-1e56-50b8-a761-7904ddd4295d,4840345d-9fc2-4bcc-ac7f-fc452fc1f334,rare,Nonfoil,inverted,borderless,,,True,Enchantment,{1}{B}{B},3.0,B
+SLD,Secret Lair Drop,Bitter Ordeal,2710,3d219f60-dddd-570a-b9d9-22500d5ec57e,bb302418-8a43-4a44-ba2c-a7d607b0f51e,rare,Foil,inverted,borderless,,,True,Sorcery,{2}{B},3.0,B
+SLD,Secret Lair Drop,Bitter Ordeal,2710,3d219f60-dddd-570a-b9d9-22500d5ec57e,bb302418-8a43-4a44-ba2c-a7d607b0f51e,rare,Nonfoil,inverted,borderless,,,True,Sorcery,{2}{B},3.0,B
+SLD,Secret Lair Drop,Ophiomancer,2711,177a55e4-ac19-51ab-9a1c-8887bacaa08b,da04690b-82e2-48e5-bb80-55d6ae28be94,rare,Foil,inverted,borderless,,,True,Creature — Human Shaman,{2}{B},3.0,B
+SLD,Secret Lair Drop,Ophiomancer,2711,177a55e4-ac19-51ab-9a1c-8887bacaa08b,da04690b-82e2-48e5-bb80-55d6ae28be94,rare,Nonfoil,inverted,borderless,,,True,Creature — Human Shaman,{2}{B},3.0,B
+SLD,Secret Lair Drop,Sign in Blood,2712,7b8e01b5-0ec4-5605-b688-c6598c1617ba,52a4ae24-0c0f-4f74-acec-38c21188bb3f,rare,Foil,inverted,borderless,,,True,Sorcery,{B}{B},2.0,B
+SLD,Secret Lair Drop,Sign in Blood,2712,7b8e01b5-0ec4-5605-b688-c6598c1617ba,52a4ae24-0c0f-4f74-acec-38c21188bb3f,rare,Nonfoil,inverted,borderless,,,True,Sorcery,{B}{B},2.0,B
+SLD,Secret Lair Drop,Soul Spike,2713,28c84a90-f458-5fa8-8cbf-c875cb64e4aa,55292a78-f0d5-4dc9-97b6-16923839725b,rare,Foil,inverted,borderless,,,True,Instant,{5}{B}{B},7.0,B
+SLD,Secret Lair Drop,Soul Spike,2713,28c84a90-f458-5fa8-8cbf-c875cb64e4aa,55292a78-f0d5-4dc9-97b6-16923839725b,rare,Nonfoil,inverted,borderless,,,True,Instant,{5}{B}{B},7.0,B
 SLD,Secret Lair Drop,Shivan Dragon,2759,75aaf4ce-df1f-5bb8-a696-46c73032fc9c,294ca89d-549a-4302-9284-df5b4e833a69,rare,Foil,inverted,borderless,,,True,Creature — Dragon,{4}{R}{R},6.0,R
 SLD,Secret Lair Drop,Shivan Dragon,2759,75aaf4ce-df1f-5bb8-a696-46c73032fc9c,294ca89d-549a-4302-9284-df5b4e833a69,rare,Nonfoil,inverted,borderless,,,True,Creature — Dragon,{4}{R}{R},6.0,R
 SLD,Secret Lair Drop,"Animar, Soul of Elements",2760,4ab449a5-e242-5b43-a96d-931cdf35e71d,521cfb69-806d-4ad7-9c14-963e370d9eff,mythic,Foil,"inverted, legendary",borderless,,,True,Legendary Creature — Elemental,{G}{U}{R},3.0,"G, R, U"
@@ -78607,6 +78816,8 @@ SLD,Secret Lair Drop,Whispersilk Cloak,7182,c6f94a81-7962-5ff4-8242-af3af9f5c107
 SLD,Secret Lair Drop,Whispersilk Cloak,7182,c6f94a81-7962-5ff4-8242-af3af9f5c107,6f6cdd9d-98ca-4949-bf19-43e770f4658e,rare,Nonfoil,inverted,borderless,"sldbonus, universesbeyond",,True,Artifact — Equipment,{3},3.0,
 SLD,Secret Lair Drop,Camaraderie,7183,67f3ff6b-592d-58d2-8793-5402bb4f5020,49d9b42b-e68d-40f3-9f56-6a1b7677a704,rare,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{4}{G}{W},6.0,"G, W"
 SLD,Secret Lair Drop,Camaraderie,7183,67f3ff6b-592d-58d2-8793-5402bb4f5020,49d9b42b-e68d-40f3-9f56-6a1b7677a704,rare,Nonfoil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{4}{G}{W},6.0,"G, W"
+SLD,Secret Lair Drop,Ponder,7184,a64ab925-2a50-53d8-8e16-4e938bb9d1f3,26d1b781-774b-4e38-8c14-3b10a3931d4b,rare,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{U},1.0,U
+SLD,Secret Lair Drop,Ponder,7184,a64ab925-2a50-53d8-8e16-4e938bb9d1f3,26d1b781-774b-4e38-8c14-3b10a3931d4b,rare,Nonfoil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{U},1.0,U
 SLD,Secret Lair Drop,Ponder,7185,6fbf0e23-3827-5a03-aa79-54bfc6ef9ac4,a8b41b7b-0fd8-4d19-b07f-a5e4d540dfd8,rare,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{U},1.0,U
 SLD,Secret Lair Drop,Ponder,7185,6fbf0e23-3827-5a03-aa79-54bfc6ef9ac4,a8b41b7b-0fd8-4d19-b07f-a5e4d540dfd8,rare,Nonfoil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{U},1.0,U
 SLD,Secret Lair Drop,Ponder,7186,0f008c13-5c44-5c65-8c58-50489880c951,bfae4942-d110-4ea2-b56e-fc95a439fb49,rare,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Sorcery,{U},1.0,U
@@ -117748,6 +117959,7 @@ PW26,Wizards Play Network 2026,Solemn Simulacrum,19,1554d6ae-839b-5de1-ba12-88d2
 PW26,Wizards Play Network 2026,Solemn Simulacrum,19,1554d6ae-839b-5de1-ba12-88d2c66f28c3,dceabd88-d8e0-4e19-a625-e8c5b1a2a33a,rare,Nonfoil,extendedart,black,"playpromo, universesbeyond, wizardsplaynetwork",,True,Artifact Creature — Golem,{4},4.0,
 PW26,Wizards Play Network 2026,Burst Lightning,20,944843e2-0c5d-5c33-b9f3-a8173e6b675f,4a2552ae-a1ef-4558-860f-7b1c0e749f9c,rare,Foil,extendedart,black,"playpromo, standardshowdown, universesbeyond, wizardsplaynetwork",,True,Instant,{R},1.0,R
 PW26,Wizards Play Network 2026,Burst Lightning,20,944843e2-0c5d-5c33-b9f3-a8173e6b675f,4a2552ae-a1ef-4558-860f-7b1c0e749f9c,rare,Nonfoil,extendedart,black,"playpromo, standardshowdown, universesbeyond, wizardsplaynetwork",,True,Instant,{R},1.0,R
+PW26,Wizards Play Network 2026,Crystal Ball,21,d2df678c-1115-5cca-9d32-44201470f943,64bf92e9-406d-4c73-a082-17b4c12bf666,rare,Foil,,black,"playpromo, wizardsplaynetwork",,True,Artifact,{3},3.0,
 PW26,Wizards Play Network 2026,Crystal Ball,21,d2df678c-1115-5cca-9d32-44201470f943,64bf92e9-406d-4c73-a082-17b4c12bf666,rare,Nonfoil,,black,"playpromo, wizardsplaynetwork",,True,Artifact,{3},3.0,
 PW26,Wizards Play Network 2026,Tragic Trajectory,22,15ce743b-b106-53ec-997c-f051c1fc51a2,a2625812-a7b5-4956-9a2b-9a783ead783e,rare,Foil,,black,"playpromo, standardshowdown, wizardsplaynetwork",,True,Sorcery,{B},1.0,B
 PW26,Wizards Play Network 2026,Leyline of Anticipation,23,806b598f-4222-5fc5-94d8-5d0ff66160a2,ee146904-a45b-4ecc-b2f6-3f72430e09e8,rare,Foil,enchantment,black,"playpromo, wizardsplaynetwork",,True,Enchantment,{2}{U}{U},4.0,U
@@ -123665,6 +123877,8 @@ LEB,Limited Edition Beta,Mountain,299,7cdc091f-c424-5b3c-998d-d2752919cf7d,af9ad
 LEB,Limited Edition Beta,Forest,300,74d92721-f3a0-544c-8f34-ca0de97a9872,b5a922eb-49c7-45f0-92bc-671d7a8758f4,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
 LEB,Limited Edition Beta,Forest,301,e2f95b85-7bf3-5dce-8555-2d9fb844890b,89ad91fc-50c2-44e0-b88e-2c13610377f9,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
 LEB,Limited Edition Beta,Forest,302,24aa6993-b0c7-5f2d-b99f-d6eefb5b66ed,b4075bbc-dbad-4a1e-a992-70aed713a459,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
+MDC,Darkhold Destiny Commander,"Gargantos, the Endbringer",399,1ffabf22-1087-5637-b140-eda1ca0ef4ef,60b48730-3590-4c8c-b0e8-6007bb36d6b6,rare,Foil,legendary,black,,,,Legendary Creature — Elder God Horror,{2}{B}{G},4.0,"B, G"
+MDC,Darkhold Destiny Commander,"Gargantos, the Endbringer",399,1ffabf22-1087-5637-b140-eda1ca0ef4ef,60b48730-3590-4c8c-b0e8-6007bb36d6b6,rare,Nonfoil,legendary,black,,,,Legendary Creature — Elder God Horror,{2}{B}{G},4.0,"B, G"
 MM3,Modern Masters 2017,Attended Knight,1,15844e0d-9a41-505e-8f09-59bcaf3f9650,eac22a3b-4536-4372-a854-bc7f0919830b,common,Foil,,black,,,True,Creature — Human Knight,{2}{W},3.0,W
 MM3,Modern Masters 2017,Attended Knight,1,15844e0d-9a41-505e-8f09-59bcaf3f9650,eac22a3b-4536-4372-a854-bc7f0919830b,common,Nonfoil,,black,,,True,Creature — Human Knight,{2}{W},3.0,W
 MM3,Modern Masters 2017,Banishing Stroke,2,2f86fa48-502d-5bc6-959a-ee10ec41a57f,4eea01e5-d3ea-4d05-8d17-cae7b982d882,uncommon,Foil,miracle,black,,,True,Instant,{5}{W},6.0,W
