@@ -7555,6 +7555,7 @@ PLST,The List,Unwavering Initiate,AKH-36,7a35985d-23e5-5a47-b289-d62d098effd5,c8
 PLST,The List,Whirlpool Warrior,APC-36,7f7aac63-3857-54e6-955a-f7a7f77b8451,f2c94b0c-cab1-448f-8437-144caa7dc39c,rare,Nonfoil,,black,,,True,Creature — Merfolk Warrior,{2}{U},3.0,"R, U"
 PLST,The List,"Nagao, Bound by Honor",CHK-36,29cfbc8f-30e2-53bd-9023-efa3a65c8248,ba0c957c-f706-4a59-807f-f9f3fd56e5bc,uncommon,Nonfoil,,black,,,True,Legendary Creature — Human Samurai,{3}{W},4.0,W
 PLST,The List,Treasonous Ogre,CNS-36,a5f2cff6-83f3-53dd-8472-456611d16dd8,823f356c-0ca9-4880-9f84-b22e2891948b,uncommon,Foil,,black,,,True,Creature — Ogre Shaman,{3}{R},4.0,R
+PLST,The List,Treasonous Ogre,CNS-36,a5f2cff6-83f3-53dd-8472-456611d16dd8,823f356c-0ca9-4880-9f84-b22e2891948b,uncommon,Nonfoil,,black,,,True,Creature — Ogre Shaman,{3}{R},4.0,R
 PLST,The List,"Nivix, Aerie of the Firemind",DDJ-36,6f05063f-2fcc-5c14-a517-91503ceccc44,06d829a9-7403-41e6-b676-cc0997aac33d,uncommon,Nonfoil,,black,,,True,Land,,0.0,"R, U"
 PLST,The List,Halimar Depths,DDM-36,1e698501-29ae-5a84-a5a5-e7bfd44c2f89,f8793c24-741e-49f8-b331-ec1e2bb7e986,common,Nonfoil,,black,,,True,Land,,0.0,U
 PLST,The List,Aetherize,DDO-36,192f85ba-4db5-5ced-be91-f5ff29e4859b,74823154-01ec-457c-95a4-4ff03d832ea2,uncommon,Nonfoil,,black,,,True,Instant,{3}{U},4.0,U
@@ -8266,6 +8267,7 @@ PLST,The List,Crooked Custodian,SNC-71,273bd0c6-92dc-59b4-992e-d06e934fde17,2904
 PLST,The List,"Thassa, Deep-Dwelling",THB-71,e6d90f45-4153-5fd4-81d6-14e8920ecc0c,cc8f9e7c-b1e0-4548-a069-b51f11cd4ed4,mythic,Nonfoil,"enchantment, legendary",black,,,True,Legendary Enchantment Creature — God,{3}{U},4.0,U
 PLST,The List,Legacy's Allure,TMP-71,49a66c19-36b9-5e0b-9a80-4fcef58e4f75,4955a3de-4b56-4341-a26e-59aeb02f154f,uncommon,Nonfoil,,black,,,True,Enchantment,{U}{U},2.0,U
 PLST,The List,Paradox Haze,TSP-71,5bb24934-b989-5722-9c3a-060ae4ae0708,09dc5495-e992-4709-b04f-7ac980b6e99f,uncommon,Foil,,black,,,True,Enchantment — Aura,{2}{U},3.0,U
+PLST,The List,Paradox Haze,TSP-71,5bb24934-b989-5722-9c3a-060ae4ae0708,09dc5495-e992-4709-b04f-7ac980b6e99f,uncommon,Nonfoil,,black,,,True,Enchantment — Aura,{2}{U},3.0,U
 PLST,The List,Negate,ZNR-71,a22e295e-daf5-5b76-a75b-719a867bae0a,1dc492d5-ec52-4ab3-813e-acb40b0b6d5a,common,Foil,,black,,,True,Instant,{1}{U},2.0,U
 PLST,The List,Wild Research,APC-72,c82a06a8-4878-5fb2-baca-3821b1a59290,74ffcf3f-7c37-4934-943a-428841e776c3,rare,Nonfoil,,black,,,True,Enchantment,{2}{R},3.0,"R, U, W"
 PLST,The List,Jungle Wayfinder,BBD-72,bb9968bf-d289-516b-8621-b212b64004a9,912e221b-528f-4ce5-acf3-f93b385bff4a,common,Nonfoil,,black,,,True,Creature — Elf Warrior,{2}{G},3.0,G
@@ -10333,6 +10335,7 @@ PLST,The List,Cruel Celebrant,WAR-188,a9075f01-feba-5fc3-905c-07ffa08d1fbc,9a5c8
 PLST,The List,Stinging Shot,AKH-189,2552b767-aab5-5337-9d41-52f19ca57751,2e5aa787-0d7f-4347-9276-c66be3d8ed3b,common,Nonfoil,,black,,,True,Instant,{G},1.0,G
 PLST,The List,Seek the Wilds,BFZ-189,c192b2b4-f846-51aa-b208-26253a3c278e,31f20c0e-acd6-40fc-8b1a-163a3f661396,common,Nonfoil,,black,,,True,Sorcery,{1}{G},2.0,G
 PLST,The List,"Krark, the Thumbless",CMR-189,c559f2ef-118d-5887-af3d-110607386fbf,24614006-d99f-44b6-8ec1-29b48a1713d0,rare,Foil,legendary,black,,,True,Legendary Creature — Goblin Wizard,{1}{R},2.0,R
+PLST,The List,"Krark, the Thumbless",CMR-189,c559f2ef-118d-5887-af3d-110607386fbf,24614006-d99f-44b6-8ec1-29b48a1713d0,rare,Nonfoil,legendary,black,,,True,Legendary Creature — Goblin Wizard,{1}{R},2.0,R
 PLST,The List,Yavimaya Sapherd,DOM-189,1ca542e4-6131-58d7-8b68-0eb106c7dd39,ae7eb7e9-288e-447e-919d-a91a40717eb6,common,Nonfoil,,black,,,True,Creature — Fungus,{2}{G},3.0,G
 PLST,The List,Guardian Shield-Bearer,DTK-189,e648ed91-b289-5a42-847d-1e2ca6c84327,59d6e5dd-1243-4135-b6a7-adb9e3a847c9,common,Nonfoil,,black,,,True,Creature — Human Soldier,{1}{G},2.0,G
 PLST,The List,Endling,MH1-89,c78da81a-4387-5862-b221-faeb699edbdb,d8831634-ad60-40c0-91fd-abde22caae00,rare,Nonfoil,,black,,,True,Creature — Zombie Shapeshifter,{2}{B}{B},4.0,B
@@ -23784,8 +23787,8 @@ SLC,Secret Lair Countdown,Fiery Confluence,76,9d2a9f41-1b4c-5d5e-94f4-f09786cbe5
 SLC,Secret Lair Countdown,Fiery Confluence,76,9d2a9f41-1b4c-5d5e-94f4-f09786cbe53c,a7c9f8b3-9596-46a8-b636-a47312eb9503,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Sorcery,{2}{R}{R},4.0,R
 SLC,Secret Lair Countdown,Rogue's Gloves,77,b5a28489-be9b-5338-9156-4e230a6f7513,abf821ab-0c58-4706-81d4-3afd576af149,rare,Foil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{2},2.0,
 SLC,Secret Lair Countdown,Rogue's Gloves,77,b5a28489-be9b-5338-9156-4e230a6f7513,abf821ab-0c58-4706-81d4-3afd576af149,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Artifact — Equipment,{2},2.0,
-SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Foil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"U, W"
-SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Nonfoil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"U, W"
+SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Foil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"G, W"
+SLC,Secret Lair Countdown,Beta Ray Bill,78,12e1c429-a4bc-5244-a3c5-ba74586d5129,23a18d46-82d9-42b6-a057-6c1c7d2641a3,rare,Nonfoil,legendary,borderless,universesbeyond,True,,Legendary Creature — Alien Warrior Hero,{2}{G/W},3.0,"G, W"
 SLC,Secret Lair Countdown,Snuff Out,79,30c01783-14be-52aa-9273-d24b55fbf319,c2074fd8-a351-4af0-b8b3-0c31898d9fa0,rare,Foil,inverted,borderless,universesbeyond,,True,Instant,{3}{B},4.0,B
 SLC,Secret Lair Countdown,Snuff Out,79,30c01783-14be-52aa-9273-d24b55fbf319,c2074fd8-a351-4af0-b8b3-0c31898d9fa0,rare,Nonfoil,inverted,borderless,universesbeyond,,True,Instant,{3}{B},4.0,B
 SLC,Secret Lair Countdown,Titanic Ultimatum,80,7d295605-fc12-5fec-8648-123ad34f7391,d3c8b53d-3a0f-4d94-8a27-8bc99626e403,rare,Foil,inverted,borderless,universesbeyond,,True,Sorcery,{R}{R}{G}{G}{G}{W}{W},7.0,"G, R, W"
@@ -67409,10 +67412,44 @@ P08,Magic Player Rewards 2008,Mana Tithe,4,c52b264b-6ea1-5031-9e01-6259819b404f,
 P08,Magic Player Rewards 2008,Harmonize,5,81b0fb61-2ccc-570e-a941-dbad16316282,509cfb76-ab85-4473-ab81-83f6f62eb54c,rare,Nonfoil,,black,playerrewards,True,True,Sorcery,{2}{G}{G},4.0,G
 P08,Magic Player Rewards 2008,Ponder,6,3f2f83ad-b876-503b-9688-5aaa46f13a17,15813b4a-9eee-4724-97f3-c1b845cba330,rare,Nonfoil,,black,playerrewards,True,True,Sorcery,{U},1.0,U
 P08,Magic Player Rewards 2008,Corrupt,7,7039195c-2220-5489-804a-e2eb8f0501c1,4b5549fa-ff74-44a9-8709-c407b1b89062,rare,Nonfoil,,black,playerrewards,True,True,Sorcery,{5}{B},6.0,B
+TRC,Star Trek Commander,The Borg Queen,1,93ecce86-aeb3-5a0f-92bd-4fce8b391722,8ed939ba-bf8d-4a68-ae9f-f8ca4eb301ab,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Borg Noble,{4}{W}{U}{B},7.0,"B, U, W"
+TRC,Star Trek Commander,The Borg Queen,1,93ecce86-aeb3-5a0f-92bd-4fce8b391722,8ed939ba-bf8d-4a68-ae9f-f8ca4eb301ab,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg Noble,{4}{W}{U}{B},7.0,"B, U, W"
+TRC,Star Trek Commander,Commander Spock,2,53e0eb1b-7202-5f86-a3e1-bfa0feeb40b8,cf114392-a38d-4117-aa41-911d6dc1051b,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{G}{W}{U},5.0,"G, U, W"
+TRC,Star Trek Commander,Commander Spock,2,53e0eb1b-7202-5f86-a3e1-bfa0feeb40b8,cf114392-a38d-4117-aa41-911d6dc1051b,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{G}{W}{U},5.0,"G, U, W"
+TRC,Star Trek Commander,"Jean-Luc Picard, Luminary",3,d8483233-7d8c-5565-b677-317208eae8bb,901eaed9-dbea-4a31-87b0-e17e9bcabfed,mythic,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
+TRC,Star Trek Commander,"Jean-Luc Picard, Luminary",3,d8483233-7d8c-5565-b677-317208eae8bb,901eaed9-dbea-4a31-87b0-e17e9bcabfed,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
+TRC,Star Trek Commander,"Worf, Defiant Commander",4,cad8beab-2a44-5c55-a81b-fa7ce34d08bf,da030114-a4ee-46d7-a6fd-6c0d8e779bcf,mythic,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{2}{R}{W}{B},5.0,"B, R, W"
+TRC,Star Trek Commander,"Worf, Defiant Commander",4,cad8beab-2a44-5c55-a81b-fa7ce34d08bf,da030114-a4ee-46d7-a6fd-6c0d8e779bcf,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{2}{R}{W}{B},5.0,"B, R, W"
+TRC,Star Trek Commander,The Borg Queen,5,48bb8dbc-b9f3-58f1-83f5-faebfe3096ee,e5142756-4148-4205-9122-87cffb0d3341,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Borg Noble,{4}{W}{U}{B},7.0,"B, U, W"
+TRC,Star Trek Commander,The Borg Queen,5,48bb8dbc-b9f3-58f1-83f5-faebfe3096ee,e5142756-4148-4205-9122-87cffb0d3341,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg Noble,{4}{W}{U}{B},7.0,"B, U, W"
+TRC,Star Trek Commander,Commander Spock,6,4373fcb1-6872-5315-ad99-5bd3b592ae74,f496fdd1-fb95-4294-88de-336068400861,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{G}{W}{U},5.0,"G, U, W"
+TRC,Star Trek Commander,Commander Spock,6,4373fcb1-6872-5315-ad99-5bd3b592ae74,f496fdd1-fb95-4294-88de-336068400861,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{G}{W}{U},5.0,"G, U, W"
+TRC,Star Trek Commander,"Jean-Luc Picard, Luminary",7,d701aeb8-ccca-5394-8b00-38dc6ff43032,3221fc7e-2eed-4517-a785-3e3a1748450f,mythic,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
+TRC,Star Trek Commander,"Jean-Luc Picard, Luminary",7,d701aeb8-ccca-5394-8b00-38dc6ff43032,3221fc7e-2eed-4517-a785-3e3a1748450f,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
+TRC,Star Trek Commander,"Worf, Defiant Commander",8,f658cce3-c7c6-5220-bbf3-750e533f4fd6,63020954-9d2b-4521-8292-bd1a71dad006,mythic,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{2}{R}{W}{B},5.0,"B, R, W"
+TRC,Star Trek Commander,"Worf, Defiant Commander",8,f658cce3-c7c6-5220-bbf3-750e533f4fd6,63020954-9d2b-4521-8292-bd1a71dad006,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{2}{R}{W}{B},5.0,"B, R, W"
+TRC,Star Trek Commander,"Guinan, Ancient Advisor",17,d757ad95-08f3-5eed-a474-d1c2ad7f802f,06fa6050-0f9d-46a2-9635-8d05899dbc49,rare,Foil,legendary,black,,,,Legendary Creature — El-Aurian Advisor,{2}{W},3.0,W
+TRC,Star Trek Commander,"Guinan, Ancient Advisor",17,d757ad95-08f3-5eed-a474-d1c2ad7f802f,06fa6050-0f9d-46a2-9635-8d05899dbc49,rare,Nonfoil,legendary,black,,,,Legendary Creature — El-Aurian Advisor,{2}{W},3.0,W
+TRC,Star Trek Commander,Join the Collective,20,90a54b00-2565-5c8b-96e9-bdefae98af52,382e4d2f-7cc9-4229-9147-2d3e4af9063f,rare,Foil,,black,,,,Sorcery,{5}{W}{W},7.0,W
+TRC,Star Trek Commander,Join the Collective,20,90a54b00-2565-5c8b-96e9-bdefae98af52,382e4d2f-7cc9-4229-9147-2d3e4af9063f,rare,Nonfoil,,black,,,,Sorcery,{5}{W}{W},7.0,W
+TRC,Star Trek Commander,"Spot, Felis catus",29,64897191-410e-570d-86dc-f1aa32ad93d7,ccdc8c1a-68ba-4498-a336-13676d8de107,rare,Foil,legendary,black,"surgefoil, universesbeyond",,,Legendary Creature — Cat,{2}{W},3.0,W
+TRC,Star Trek Commander,"Spot, Felis catus",29,64897191-410e-570d-86dc-f1aa32ad93d7,ccdc8c1a-68ba-4498-a336-13676d8de107,rare,Nonfoil,legendary,black,"surgefoil, universesbeyond",,,Legendary Creature — Cat,{2}{W},3.0,W
+TRC,Star Trek Commander,"Koloth, Tribble Hunter",72,5bf25bc3-2e2a-5956-822b-f65c7e900aec,33bfbd68-fc0f-41ce-b033-975fe9ba960a,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{3}{R},4.0,R
+TRC,Star Trek Commander,"Koloth, Tribble Hunter",72,5bf25bc3-2e2a-5956-822b-f65c7e900aec,33bfbd68-fc0f-41ce-b033-975fe9ba960a,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{3}{R},4.0,R
 TRC,Star Trek Commander,"Christine Chapel, Combat Medic",78,b0d6513d-f4bd-5bef-9864-bfc88073db22,f2efcab5-3aad-4edd-87d1-289978e8855e,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{3}{G},4.0,G
 TRC,Star Trek Commander,"Christine Chapel, Combat Medic",78,b0d6513d-f4bd-5bef-9864-bfc88073db22,f2efcab5-3aad-4edd-87d1-289978e8855e,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{3}{G},4.0,G
 TRC,Star Trek Commander,"Captain Kirk, Boldly Going",85,1637a86e-8518-5086-8137-721dbc68897a,6b5d9bd2-cc78-4c30-b6ee-65b76c60a588,mythic,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{G}{W}{U},4.0,"G, U, W"
 TRC,Star Trek Commander,"Captain Kirk, Boldly Going",85,1637a86e-8518-5086-8137-721dbc68897a,6b5d9bd2-cc78-4c30-b6ee-65b76c60a588,mythic,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{G}{W}{U},4.0,"G, U, W"
+TRC,Star Trek Commander,Locutus of Borg,97,85ed6f89-48bd-5cf6-a65b-8d22f8776c25,1b2e5971-d31c-4f6d-9bee-4b13a402e798,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{1}{W}{U}{B},4.0,"B, U, W"
+TRC,Star Trek Commander,Locutus of Borg,97,85ed6f89-48bd-5cf6-a65b-8d22f8776c25,1b2e5971-d31c-4f6d-9bee-4b13a402e798,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{1}{W}{U}{B},4.0,"B, U, W"
+TRC,Star Trek Commander,Command Chair,111,b322f5e8-aaab-54a2-961a-f6bc5b2ca548,e46c4bbc-d4b3-44ae-bf91-cad01a66f302,rare,Foil,,black,,,,Artifact,{6},6.0,
+TRC,Star Trek Commander,Command Chair,111,b322f5e8-aaab-54a2-961a-f6bc5b2ca548,e46c4bbc-d4b3-44ae-bf91-cad01a66f302,rare,Nonfoil,,black,,,,Artifact,{6},6.0,
+TRC,Star Trek Commander,Starfleet Communicator,121,bfc20b54-1220-58ca-8911-cfd5e25f6833,ac87fcef-019e-45d4-bc8a-0ccb3adaa3b5,rare,Foil,,black,,,,Artifact — Communicator Equipment,{3},3.0,
+TRC,Star Trek Commander,Starfleet Communicator,121,bfc20b54-1220-58ca-8911-cfd5e25f6833,ac87fcef-019e-45d4-bc8a-0ccb3adaa3b5,rare,Nonfoil,,black,,,,Artifact — Communicator Equipment,{3},3.0,
+TRC,Star Trek Commander,Starship Enterprise,122,f0870bcf-96b6-570e-9bbc-61c0004ba9e1,66fa6995-4857-466d-8068-508f2904805b,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{5},5.0,
+TRC,Star Trek Commander,Starship Enterprise,122,f0870bcf-96b6-570e-9bbc-61c0004ba9e1,66fa6995-4857-466d-8068-508f2904805b,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{5},5.0,
+TRC,Star Trek Commander,The Sword of Kahless,123,12ad9898-f2bf-5977-993a-4dc2510cc9de,dcc0ee8a-3400-4cf8-888e-96c847ebc71b,rare,Foil,legendary,black,,,,Legendary Artifact — Equipment,{4},4.0,
+TRC,Star Trek Commander,The Sword of Kahless,123,12ad9898-f2bf-5977-993a-4dc2510cc9de,dcc0ee8a-3400-4cf8-888e-96c847ebc71b,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Equipment,{4},4.0,
 TRC,Star Trek Commander,Evasive Maneuvers,132,6f4efb4c-71f7-598c-8230-cf0df1dca667,547e7238-ed01-462a-8135-08114ada7541,common,Foil,,black,universesbeyond,,,Instant,{W},1.0,W
 TRC,Star Trek Commander,Evasive Maneuvers,132,6f4efb4c-71f7-598c-8230-cf0df1dca667,547e7238-ed01-462a-8135-08114ada7541,common,Nonfoil,,black,universesbeyond,,,Instant,{W},1.0,W
 TRC,Star Trek Commander,Head of Security,133,571fa5a0-7d3e-5e4c-ba80-fe603c88cc07,94f68b16-121a-49e1-abf4-0bd2cd3e74ce,common,Foil,,black,universesbeyond,,,Creature — Andorian Soldier,{1}{W},2.0,W
@@ -67483,8 +67520,25 @@ TRC,Star Trek Commander,"Benjamin Sisko, Besieged",200,ea330cb8-0904-5ee0-af0a-4
 TRC,Star Trek Commander,"Benjamin Sisko, Besieged",200,ea330cb8-0904-5ee0-af0a-4fa25fd1bac1,6cf853b8-4479-424d-998a-4fc53456c38b,mythic,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{4}{G}{G},6.0,G
 TRC,Star Trek Commander,Tenacious Tosk,201,5e2cd9ec-1902-5d4a-a3bf-701c07e3529b,4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8,rare,Foil,,black,universesbeyond,,,Creature — Tosk Rogue,{3}{G},4.0,G
 TRC,Star Trek Commander,Tenacious Tosk,201,5e2cd9ec-1902-5d4a-a3bf-701c07e3529b,4adec7ae-b6aa-4018-bbc8-7ad378cbb1f8,rare,Nonfoil,,black,universesbeyond,,,Creature — Tosk Rogue,{3}{G},4.0,G
+TRC,Star Trek Commander,Locutus of Borg,209,7130a502-5706-54f4-83bd-56ab103db41d,a0527596-5f1b-45f3-9f8f-dd9ab7c4bb40,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{1}{W}{U}{B},4.0,"B, U, W"
+TRC,Star Trek Commander,Locutus of Borg,209,7130a502-5706-54f4-83bd-56ab103db41d,a0527596-5f1b-45f3-9f8f-dd9ab7c4bb40,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{1}{W}{U}{B},4.0,"B, U, W"
+TRC,Star Trek Commander,Starship Enterprise,211,5750275e-3254-56ca-b738-63002a36e516,f7fad2b9-0a2f-4921-85e2-54da59b4e686,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{5},5.0,
+TRC,Star Trek Commander,Starship Enterprise,211,5750275e-3254-56ca-b738-63002a36e516,f7fad2b9-0a2f-4921-85e2-54da59b4e686,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{5},5.0,
+TRC,Star Trek Commander,"Guinan, Ancient Advisor",223,216ff7af-d186-5178-a74f-88ef1a958364,daf1d562-a1e4-47b5-9b63-896e7c1e7856,rare,Foil,legendary,black,,,,Legendary Creature — El-Aurian Advisor,{2}{W},3.0,W
+TRC,Star Trek Commander,"Guinan, Ancient Advisor",223,216ff7af-d186-5178-a74f-88ef1a958364,daf1d562-a1e4-47b5-9b63-896e7c1e7856,rare,Nonfoil,legendary,black,,,,Legendary Creature — El-Aurian Advisor,{2}{W},3.0,W
+TRC,Star Trek Commander,Join the Collective,226,1559a163-03de-5685-9f85-bba66c562762,2f601ac1-92e3-46dd-b9d8-dfb4a7f7eb81,rare,Foil,,black,,,,Sorcery,{5}{W}{W},7.0,W
+TRC,Star Trek Commander,Join the Collective,226,1559a163-03de-5685-9f85-bba66c562762,2f601ac1-92e3-46dd-b9d8-dfb4a7f7eb81,rare,Nonfoil,,black,,,,Sorcery,{5}{W}{W},7.0,W
+TRC,Star Trek Commander,"Spot, Felis catus",237,6250ac8e-db01-5734-a96e-48465ba23a50,fe5f0fe9-f063-4fb7-81c9-13f4e14d6ed1,rare,Nonfoil,"extendedart, legendary",black,universesbeyond,,,Legendary Creature — Cat,{2}{W},3.0,W
+TRC,Star Trek Commander,"Koloth, Tribble Hunter",289,ae147c77-f471-5b45-98c8-43b3d4fd48e6,55a3692b-da3e-4e03-8bb3-06013232438d,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{3}{R},4.0,R
+TRC,Star Trek Commander,"Koloth, Tribble Hunter",289,ae147c77-f471-5b45-98c8-43b3d4fd48e6,55a3692b-da3e-4e03-8bb3-06013232438d,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{3}{R},4.0,R
 TRC,Star Trek Commander,"Christine Chapel, Combat Medic",300,d63078c5-4613-5419-a507-ae899bafa640,65a688e8-6427-4997-8712-46a4ff43d47b,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{3}{G},4.0,G
 TRC,Star Trek Commander,"Christine Chapel, Combat Medic",300,d63078c5-4613-5419-a507-ae899bafa640,65a688e8-6427-4997-8712-46a4ff43d47b,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{3}{G},4.0,G
+TRC,Star Trek Commander,Command Chair,340,0984eb62-e764-5c3f-a11e-1d0b81e42862,20a04275-384b-403f-b2a3-a999341259fd,rare,Foil,,black,,,,Artifact,{6},6.0,
+TRC,Star Trek Commander,Command Chair,340,0984eb62-e764-5c3f-a11e-1d0b81e42862,20a04275-384b-403f-b2a3-a999341259fd,rare,Nonfoil,,black,,,,Artifact,{6},6.0,
+TRC,Star Trek Commander,Starfleet Communicator,356,32f5564f-a578-516c-abf9-acf0a7e3a5a8,14d54778-344c-43c4-99a9-85a2361f8982,rare,Foil,,black,,,,Artifact — Communicator Equipment,{3},3.0,
+TRC,Star Trek Commander,Starfleet Communicator,356,32f5564f-a578-516c-abf9-acf0a7e3a5a8,14d54778-344c-43c4-99a9-85a2361f8982,rare,Nonfoil,,black,,,,Artifact — Communicator Equipment,{3},3.0,
+TRC,Star Trek Commander,The Sword of Kahless,357,56c79e9c-b66e-579c-81fd-dc5b6ca19e8d,26cc1c3a-28ea-4f62-8382-2e5aaf9c1d61,rare,Foil,legendary,black,,,,Legendary Artifact — Equipment,{4},4.0,
+TRC,Star Trek Commander,The Sword of Kahless,357,56c79e9c-b66e-579c-81fd-dc5b6ca19e8d,26cc1c3a-28ea-4f62-8382-2e5aaf9c1d61,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Equipment,{4},4.0,
 TRC,Star Trek Commander,Refute,579,59ebe1d4-bc28-5717-8a96-38a391ed86b0,b3ef9271-f16e-4912-9e92-75c3777b4102,common,Foil,,black,universesbeyond,,True,Instant,{1}{U}{U},3.0,U
 TRC,Star Trek Commander,Refute,579,59ebe1d4-bc28-5717-8a96-38a391ed86b0,b3ef9271-f16e-4912-9e92-75c3777b4102,common,Nonfoil,,black,universesbeyond,,True,Instant,{1}{U}{U},3.0,U
 TRC,Star Trek Commander,Last Gasp,580,59d82c54-7690-5f47-a250-cd53f0079788,6d9c8d6b-b49f-4777-baa3-6381a624e3c6,common,Foil,,black,universesbeyond,,True,Instant,{1}{B},2.0,B
@@ -78793,6 +78847,7 @@ SLD,Secret Lair Drop,Seasoned Dungeoneer,7144,d2f38f2e-a918-515e-a320-f1e4b73154
 SLD,Secret Lair Drop,Serra Ascendant,7145,e739b1c0-dff0-5603-9c81-085f6d402a85,fb519463-bff8-455b-840e-e1bc606b5391,rare,Foil,,black,sldbonus,,True,Creature — Human Monk,{W},1.0,W
 SLD,Secret Lair Drop,Soul's Attendant,7147,5f3ae1e9-9616-5b0a-8c90-8408a985a6e5,561aae2f-c86b-45bd-83c1-f7ce10bd3924,rare,Foil,,black,sldbonus,,True,Creature — Human Cleric,{W},1.0,W
 SLD,Secret Lair Drop,General's Enforcer,7152,a8ccecb2-4507-5490-9496-cf680fa36b3a,3fa2050a-711f-4c6e-8b01-5353bd2a4234,rare,Foil,,black,sldbonus,,True,Creature — Human Soldier,{W}{B},2.0,"B, W"
+SLD,Secret Lair Drop,Notion Thief,7156,f551dff1-a395-5bb6-b072-39f65792b926,a93fe85f-638c-4cfb-a7b7-7e85bf7ca726,rare,Foil,,black,sldbonus,,,Creature — Human Rogue,{2}{U}{B},4.0,"B, U"
 SLD,Secret Lair Drop,Glorious End,7161,9dc1a773-5203-5118-b9a0-36d69b9fa421,677534d7-1707-4ae2-a700-7f9140e25d8f,mythic,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Instant,{2}{R},3.0,R
 SLD,Secret Lair Drop,Glorious End,7161,9dc1a773-5203-5118-b9a0-36d69b9fa421,677534d7-1707-4ae2-a700-7f9140e25d8f,mythic,Nonfoil,inverted,borderless,"sldbonus, universesbeyond",,True,Instant,{2}{R},3.0,R
 SLD,Secret Lair Drop,Crucible of Worlds,7162,7392843e-a96f-5284-a3db-2ef675f66f5e,f85f213d-6e94-47ab-84e1-0abd0fdfebdf,mythic,Foil,inverted,borderless,"sldbonus, universesbeyond",,True,Artifact,{3},3.0,
@@ -119266,8 +119321,16 @@ HA5,Historic Anthology 5,Dromoka's Command,22,68568b2d-fa3c-5099-8e89-581aa53bbb
 HA5,Historic Anthology 5,Grisly Salvage,23,e22e963e-a5cf-5336-9b05-d9a636af90fd,86565584-3f85-45af-9942-ac3848fa3978,common,Nonfoil,,black,,,True,Instant,{B}{G},2.0,"B, G"
 HA5,Historic Anthology 5,Ichor Wellspring,24,f345970f-3a0b-5ad0-84a6-afeb564fd135,012f7d7a-1de3-4012-8e5e-51828e839f2d,common,Nonfoil,,black,,,True,Artifact,{2},2.0,
 HA5,Historic Anthology 5,Relic of Progenitus,25,6c41a003-5acd-5979-9aba-af1a49596caa,376ffc81-27cf-4d71-a557-3f4a54caa983,common,Nonfoil,,black,,,True,Artifact,{1},1.0,
+SDS,Stardates,"Kenrith, the Returned King",3,ee194e2d-4f5c-5ad8-871a-05602528c2c8,cac2da3a-b0a3-49c6-a988-4cd964e49bb5,mythic,Foil,legendary,black,,,True,Legendary Creature — Human Noble,{4}{W},5.0,"B, G, R, U, W"
+SDS,Stardates,"Kenrith, the Returned King",3,ee194e2d-4f5c-5ad8-871a-05602528c2c8,cac2da3a-b0a3-49c6-a988-4cd964e49bb5,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Human Noble,{4}{W},5.0,"B, G, R, U, W"
 SDS,Stardates,"Sheoldred, the Apocalypse",11,a1841f27-6d15-5828-9c90-68cbc2293086,c68629ff-72b3-40a2-b578-cddb6ddb4ccf,mythic,Foil,"inverted, legendary",borderless,universesbeyond,,True,Legendary Creature — Phyrexian Praetor,{2}{B}{B},4.0,B
 SDS,Stardates,"Sheoldred, the Apocalypse",11,a1841f27-6d15-5828-9c90-68cbc2293086,c68629ff-72b3-40a2-b578-cddb6ddb4ccf,mythic,Nonfoil,"inverted, legendary",borderless,universesbeyond,,True,Legendary Creature — Phyrexian Praetor,{2}{B}{B},4.0,B
+SDS,Stardates,"Bristly Bill, Spine Sower",15,83448896-3663-5660-bfee-e6ef20a0cac4,9845bd74-326f-4506-87f9-ead7d2fa6cfa,mythic,Foil,legendary,black,,,True,Legendary Creature — Plant Druid,{1}{G},2.0,G
+SDS,Stardates,"Bristly Bill, Spine Sower",15,83448896-3663-5660-bfee-e6ef20a0cac4,9845bd74-326f-4506-87f9-ead7d2fa6cfa,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Plant Druid,{1}{G},2.0,G
+SDS,Stardates,"Prosper, Tome-Bound",24,3d4bc109-3039-5434-8ecb-fbe065bf7e4e,e5fb20b1-2270-463a-b307-e337ceb1fd47,mythic,Foil,legendary,black,,,True,Legendary Creature — Tiefling Warlock,{2}{B}{R},4.0,"B, R"
+SDS,Stardates,"Prosper, Tome-Bound",24,3d4bc109-3039-5434-8ecb-fbe065bf7e4e,e5fb20b1-2270-463a-b307-e337ceb1fd47,mythic,Nonfoil,legendary,black,,,True,Legendary Creature — Tiefling Warlock,{2}{B}{R},4.0,"B, R"
+SDS,Stardates,"Minamo, School at Water's Edge",27,bb31ad12-bac7-548a-9298-68fb9be24ba6,d291660e-cbbc-4b69-bbc8-2c905f70dd0b,mythic,Foil,legendary,black,,,True,Legendary Land,,0.0,U
+SDS,Stardates,"Minamo, School at Water's Edge",27,bb31ad12-bac7-548a-9298-68fb9be24ba6,d291660e-cbbc-4b69-bbc8-2c905f70dd0b,mythic,Nonfoil,legendary,black,,,True,Legendary Land,,0.0,U
 YDSK,Alchemy: Duskmourn,"Ethrimik, Imagined Fiend",1,0c38233b-59db-5eb6-bae5-0dc99d815a9b,d31a8561-84a0-49a2-9e05-d6bd72b35385,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Illusion Beast,{1}{W}{W},3.0,W
 YDSK,Alchemy: Duskmourn,Improvising Aerialist,2,81fd45f7-65b8-5a7f-9d4f-7054068832ee,a07628cc-7f1a-4566-b611-076e96314710,uncommon,Nonfoil,,black,,,,Creature — Human Survivor,{1}{W},2.0,W
 YDSK,Alchemy: Duskmourn,Mothlight Processionist,3,4584386d-eb5f-5c4a-ad40-3c97a243b728,2698f14a-fbf6-4dd8-bc5b-eedf69a98d84,rare,Nonfoil,,black,,,,Creature — Human Cleric,{1}{W},2.0,W
@@ -128053,24 +128116,50 @@ SCG,Scourge,Temple of the False God,143,cdc5e093-58ca-5e5c-9988-fb9c0422199b,d70
 SCG,Scourge,Temple of the False God,143,cdc5e093-58ca-5e5c-9988-fb9c0422199b,d7036f51-10a6-4036-8650-9bc12d2a55cb,uncommon,Nonfoil,,black,,,,Land,,0.0,
 TRK,Star Trek,"70,000 Light-Years from Home",1,f4c8fbcb-5d09-527d-8857-afc565abbca7,02080f42-863a-471b-992b-67e35ef1b7b7,uncommon,Foil,,black,universesbeyond,,,Sorcery,{1}{W},2.0,W
 TRK,Star Trek,"70,000 Light-Years from Home",1,f4c8fbcb-5d09-527d-8857-afc565abbca7,02080f42-863a-471b-992b-67e35ef1b7b7,uncommon,Nonfoil,,black,universesbeyond,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Antagonist Incorporator,3,01763829-6386-5683-8980-1db7632f249f,63918e59-0c03-4d98-9216-e58ee157b7ea,rare,Foil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
+TRK,Star Trek,Antagonist Incorporator,3,01763829-6386-5683-8980-1db7632f249f,63918e59-0c03-4d98-9216-e58ee157b7ea,rare,Nonfoil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
 TRK,Star Trek,"Brad Boimler, Eager Ensign",5,36a28dc5-ca41-5cf5-9724-03cc441fd470,a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{W},2.0,W
 TRK,Star Trek,"Brad Boimler, Eager Ensign",5,36a28dc5-ca41-5cf5-9724-03cc441fd470,a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{W},2.0,W
+TRK,Star Trek,Captain Benjamin Sisko,6,a9ab1d85-a87e-5f8a-96ba-97c9eae005c4,51338fb2-13a3-41b8-981f-05fa35e87e2e,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{W},2.0,"B, G, R, U, W"
+TRK,Star Trek,Captain Benjamin Sisko,6,a9ab1d85-a87e-5f8a-96ba-97c9eae005c4,51338fb2-13a3-41b8-981f-05fa35e87e2e,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{W},2.0,"B, G, R, U, W"
+TRK,Star Trek,Captain Jean-Luc Picard,7,9124aebd-8393-56bd-8407-bb704c9e3495,b7114271-eb05-41e2-ad96-a34f53492312,mythic,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
+TRK,Star Trek,Captain Jean-Luc Picard,7,9124aebd-8393-56bd-8407-bb704c9e3495,b7114271-eb05-41e2-ad96-a34f53492312,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
 TRK,Star Trek,Command Decision,8,0d58d34f-8e7e-5866-8273-9dfe8fd7cfd9,9f1f789b-5c08-4a4d-b3a3-4d51ad9f1a4d,common,Foil,,black,universesbeyond,,,Sorcery,{1}{W},2.0,W
 TRK,Star Trek,Command Decision,8,0d58d34f-8e7e-5866-8273-9dfe8fd7cfd9,9f1f789b-5c08-4a4d-b3a3-4d51ad9f1a4d,common,Nonfoil,,black,universesbeyond,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Command Subadjunct,9,7c5b4f9c-4980-5f0e-bd00-63b0b9cf44df,853bf74d-0b61-43df-9018-0b40b624a9d1,uncommon,Foil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Command Subadjunct,9,7c5b4f9c-4980-5f0e-bd00-63b0b9cf44df,853bf74d-0b61-43df-9018-0b40b624a9d1,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Conquest Mission,10,22c7e0b2-8bb4-5d57-b578-76146ca3fa78,f91755d7-6fb9-4caf-b4b4-f21ed5572d52,uncommon,Foil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
+TRK,Star Trek,Conquest Mission,10,22c7e0b2-8bb4-5d57-b578-76146ca3fa78,f91755d7-6fb9-4caf-b4b4-f21ed5572d52,uncommon,Nonfoil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
 TRK,Star Trek,DOT-7 Repair Squad,12,d7177fd9-68c7-52ba-94bf-5d17c1e7285e,fca1528c-84cc-42d2-99ae-9f10f0e28743,common,Foil,,black,universesbeyond,,,Artifact Creature — Robot,{3}{W},4.0,W
 TRK,Star Trek,DOT-7 Repair Squad,12,d7177fd9-68c7-52ba-94bf-5d17c1e7285e,fca1528c-84cc-42d2-99ae-9f10f0e28743,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Robot,{3}{W},4.0,W
 TRK,Star Trek,Dr. Beverly Crusher,13,4847f35b-6289-5f75-b242-3e74da5f1371,ef9c5790-d909-4271-90bd-5fa4816ddd6b,mythic,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{2}{W},3.0,W
 TRK,Star Trek,Dr. Beverly Crusher,13,4847f35b-6289-5f75-b242-3e74da5f1371,ef9c5790-d909-4271-90bd-5fa4816ddd6b,mythic,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Doctor,{2}{W},3.0,W
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",14,7717c5c6-e8e6-56db-9f27-f1d7e13e1491,b300d814-cf74-44ba-b253-ec179ec54a20,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",14,7717c5c6-e8e6-56db-9f27-f1d7e13e1491,b300d814-cf74-44ba-b253-ec179ec54a20,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
 TRK,Star Trek,Emergency Medical Hologram,15,1054964b-57ea-5b60-8f50-ba0566547ef7,dda6f965-cbdf-4dbc-b0b1-00c27e32f5f2,common,Foil,,black,universesbeyond,,,Artifact Creature — Illusion Doctor,{W},1.0,W
 TRK,Star Trek,Emergency Medical Hologram,15,1054964b-57ea-5b60-8f50-ba0566547ef7,dda6f965-cbdf-4dbc-b0b1-00c27e32f5f2,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Illusion Doctor,{W},1.0,W
+TRK,Star Trek,Excalbian Gamemaster,16,e02d9c5d-1980-572e-8a2c-722be01b6e24,31b5780c-8c5f-4836-8848-1eea1d416a93,mythic,Foil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
+TRK,Star Trek,Excalbian Gamemaster,16,e02d9c5d-1980-572e-8a2c-722be01b6e24,31b5780c-8c5f-4836-8848-1eea1d416a93,mythic,Nonfoil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
 TRK,Star Trek,Federation Field Medic,17,484aeb89-0b0b-5dfb-a25e-9d811ffa14cc,b312dacd-b87f-44c1-a804-bee221e70f52,common,Foil,,black,universesbeyond,,,Creature — Human Doctor,{3}{W},4.0,W
 TRK,Star Trek,Federation Field Medic,17,484aeb89-0b0b-5dfb-a25e-9d811ffa14cc,b312dacd-b87f-44c1-a804-bee221e70f52,common,Nonfoil,,black,universesbeyond,,,Creature — Human Doctor,{3}{W},4.0,W
 TRK,Star Trek,Free Borg Revolutionaries,19,f41ebc8a-b5cc-5f37-96c7-4fdcea55843e,6711e910-e5a8-4602-9559-de5374bffff2,common,Foil,,black,universesbeyond,,,Artifact Creature — Borg Rebel,{3}{W}{W},5.0,W
 TRK,Star Trek,Free Borg Revolutionaries,19,f41ebc8a-b5cc-5f37-96c7-4fdcea55843e,6711e910-e5a8-4602-9559-de5374bffff2,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Borg Rebel,{3}{W}{W},5.0,W
 TRK,Star Trek,Malfunctioning Holodeck,22,8a30e85b-1488-5954-951b-f74d56544a99,0faeffee-bb07-4b9d-8cdd-e9731bbd2396,common,Foil,,black,universesbeyond,,,Artifact,{2}{W},3.0,W
 TRK,Star Trek,Malfunctioning Holodeck,22,8a30e85b-1488-5954-951b-f74d56544a99,0faeffee-bb07-4b9d-8cdd-e9731bbd2396,common,Nonfoil,,black,universesbeyond,,,Artifact,{2}{W},3.0,W
+TRK,Star Trek,"Miles O'Brien, Transporter Ops",24,1b047a83-9c24-5854-8670-180fe59bb3d8,e4f041b3-e785-45ba-9a7e-33878614d3b0,rare,Foil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{W},3.0,W
+TRK,Star Trek,"Miles O'Brien, Transporter Ops",24,1b047a83-9c24-5854-8670-180fe59bb3d8,e4f041b3-e785-45ba-9a7e-33878614d3b0,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{W},3.0,W
+TRK,Star Trek,Peace in Our Time,27,0456e1f7-e180-58f7-a695-8c232805b316,9dd522dd-a894-496e-9d31-68583dba7ecc,rare,Foil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Peace in Our Time,27,0456e1f7-e180-58f7-a695-8c232805b316,9dd522dd-a894-496e-9d31-68583dba7ecc,rare,Nonfoil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Pet Sehlat,28,5ed7b095-ea63-5cc5-8607-424060fa291e,477a6a46-7fda-4666-87d9-a35c953dd94d,common,Foil,,black,,,,Creature — Bear,{2}{W},3.0,W
+TRK,Star Trek,Pet Sehlat,28,5ed7b095-ea63-5cc5-8607-424060fa291e,477a6a46-7fda-4666-87d9-a35c953dd94d,common,Nonfoil,,black,,,,Creature — Bear,{2}{W},3.0,W
 TRK,Star Trek,"Picard, Leading by Example",29,0ca712e5-cd57-514b-aff4-c8874922f710,f9fa20c5-f241-4da2-9c99-c9b650095d74,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{W},2.0,W
 TRK,Star Trek,"Picard, Leading by Example",29,0ca712e5-cd57-514b-aff4-c8874922f710,f9fa20c5-f241-4da2-9c99-c9b650095d74,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{W},2.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,30,c14168ad-e1b7-56d6-8e2d-2b782fdd6598,b94a582c-11bb-4463-a826-bd0c79366752,rare,Foil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,30,c14168ad-e1b7-56d6-8e2d-2b782fdd6598,b94a582c-11bb-4463-a826-bd0c79366752,rare,Nonfoil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,Pure Energy,31,53743a30-bd47-584b-8205-2adc0e12fbc4,215709a8-044f-4fdb-b3ca-bd5a394b2a0f,common,Foil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Pure Energy,31,53743a30-bd47-584b-8205-2adc0e12fbc4,215709a8-044f-4fdb-b3ca-bd5a394b2a0f,common,Nonfoil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,"Rutherford, Upgraded Ensign",32,4fc7f264-0175-5c29-9b5f-017c9c725bb6,16a4d8ed-a918-4dfe-9976-0b68adb26afa,uncommon,Foil,,black,,,,Legendary Creature — Human Artificer,{2}{W},3.0,W
+TRK,Star Trek,"Rutherford, Upgraded Ensign",32,4fc7f264-0175-5c29-9b5f-017c9c725bb6,16a4d8ed-a918-4dfe-9976-0b68adb26afa,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Artificer,{2}{W},3.0,W
 TRK,Star Trek,"Saavik, Stoic Student",33,5253667d-3434-5891-8771-7961ef74abf3,3783c530-a2da-4dc1-811a-0a9a412c8e78,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
 TRK,Star Trek,"Saavik, Stoic Student",33,5253667d-3434-5891-8771-7961ef74abf3,3783c530-a2da-4dc1-811a-0a9a412c8e78,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
 TRK,Star Trek,Set Phasers to . . .,34,4cd0558e-83be-5a9a-bd17-1b2c0c528597,54dbf416-973d-46c8-b9be-e863283d328b,common,Foil,,black,universesbeyond,,,Instant,{W},1.0,W
@@ -128081,12 +128170,36 @@ TRK,Star Trek,Shuttle Ace,36,442bf2db-c1c3-57b3-b30b-20b87b000016,559f838a-24ac-
 TRK,Star Trek,Shuttle Ace,36,442bf2db-c1c3-57b3-b30b-20b87b000016,559f838a-24ac-4f18-8c40-23cfde6f65cc,common,Nonfoil,,black,universesbeyond,,,Creature — Kelpien Pilot,{4}{W},5.0,W
 TRK,Star Trek,Tactical Officer,38,5adc2016-d9e8-529d-96af-f080f3984be5,317704a8-a3c2-400c-bbe0-2cbc6fe10710,common,Foil,,black,universesbeyond,,,Creature — Human Officer,{1}{W},2.0,W
 TRK,Star Trek,Tactical Officer,38,5adc2016-d9e8-529d-96af-f080f3984be5,317704a8-a3c2-400c-bbe0-2cbc6fe10710,common,Nonfoil,,black,universesbeyond,,,Creature — Human Officer,{1}{W},2.0,W
+TRK,Star Trek,Test of Conviction,39,636e4ce5-b562-580d-9a72-5e67cc44fd9d,837d7cec-f3f8-4555-86f2-c5ea1849d7d1,uncommon,Foil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Test of Conviction,39,636e4ce5-b562-580d-9a72-5e67cc44fd9d,837d7cec-f3f8-4555-86f2-c5ea1849d7d1,uncommon,Nonfoil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,There's Coffee in that Nebula,40,36383df7-163c-5d43-93e2-9487cd7e353b,8dd7e0c6-84f6-4570-af93-4c64e78c2868,uncommon,Foil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,There's Coffee in that Nebula,40,36383df7-163c-5d43-93e2-9487cd7e353b,8dd7e0c6-84f6-4570-af93-4c64e78c2868,uncommon,Nonfoil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Troubling Tribbles,41,44238090-6d54-5115-8399-0f6ddb028b61,0af3e535-83e6-422b-85c5-39d830cb072c,rare,Foil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,Troubling Tribbles,41,44238090-6d54-5115-8399-0f6ddb028b61,0af3e535-83e6-422b-85c5-39d830cb072c,rare,Nonfoil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,"Una Chin-Riley, Number One",42,c4ab2b89-b6c5-5c4f-975e-3bb7458f9399,5585c90d-3fe7-41f4-9728-36b9410ecc53,uncommon,Foil,legendary,black,,,,Legendary Creature — Illyrian Officer,{4}{W},5.0,W
+TRK,Star Trek,"Una Chin-Riley, Number One",42,c4ab2b89-b6c5-5c4f-975e-3bb7458f9399,5585c90d-3fe7-41f4-9728-36b9410ecc53,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Illyrian Officer,{4}{W},5.0,W
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",43,465c5a81-b3d2-5b8b-a2ee-ee4f460c2a52,99429015-6e5d-4ecf-aaf7-eba181bcffc7,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",43,465c5a81-b3d2-5b8b-a2ee-ee4f460c2a52,99429015-6e5d-4ecf-aaf7-eba181bcffc7,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,Vexing Drone,45,ff5be06b-35bf-53f5-809e-c7204b676992,6f4b2476-8f93-4d4e-b664-233e82fcf212,common,Foil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
+TRK,Star Trek,Vexing Drone,45,ff5be06b-35bf-53f5-809e-c7204b676992,6f4b2476-8f93-4d4e-b664-233e82fcf212,common,Nonfoil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
+TRK,Star Trek,"""Coastal Ren Faire""",46,3e8cd2f0-1e27-5f59-a4d6-bfbc8c86fa9b,93b458aa-a928-48ef-b685-1306cc65ad06,uncommon,Foil,,black,,,,Enchantment,{2}{U},3.0,U
+TRK,Star Trek,"""Coastal Ren Faire""",46,3e8cd2f0-1e27-5f59-a4d6-bfbc8c86fa9b,93b458aa-a928-48ef-b685-1306cc65ad06,uncommon,Nonfoil,,black,,,,Enchantment,{2}{U},3.0,U
+TRK,Star Trek,Cetacean Ops,48,087ae364-dde7-591c-ab90-9b906d2497e2,a8dc7ecd-e6f0-4050-9d5b-8436f60a1395,common,Foil,,black,,,,Creature — Whale Officer,{3}{U},4.0,U
+TRK,Star Trek,Cetacean Ops,48,087ae364-dde7-591c-ab90-9b906d2497e2,a8dc7ecd-e6f0-4050-9d5b-8436f60a1395,common,Nonfoil,,black,,,,Creature — Whale Officer,{3}{U},4.0,U
 TRK,Star Trek,Cloistered Telepath,50,2f93373a-0ccd-5784-b386-100745450a51,959318c1-3f7e-4418-91ce-be529af27972,common,Foil,,black,universesbeyond,,,Creature — Talosian Advisor,{1}{U},2.0,U
 TRK,Star Trek,Cloistered Telepath,50,2f93373a-0ccd-5784-b386-100745450a51,959318c1-3f7e-4418-91ce-be529af27972,common,Nonfoil,,black,universesbeyond,,,Creature — Talosian Advisor,{1}{U},2.0,U
 TRK,Star Trek,Consider the Prime Directive,51,f0b8f68c-5f99-56f6-b89e-0be682d103c0,4e8f75b8-cca7-4ed3-90db-bcac02e74611,common,Foil,,black,universesbeyond,,,Instant,{2}{U},3.0,U
 TRK,Star Trek,Consider the Prime Directive,51,f0b8f68c-5f99-56f6-b89e-0be682d103c0,4e8f75b8-cca7-4ed3-90db-bcac02e74611,common,Nonfoil,,black,universesbeyond,,,Instant,{2}{U},3.0,U
+TRK,Star Trek,"Data, New Life",52,4e96d3dd-9c51-506f-8587-ee0f909e6623,96b7e757-c64d-48c8-bd9c-caad5f3c78fb,uncommon,Foil,,black,,,,Legendary Artifact Creature — Android Scientist,{1}{U},2.0,U
+TRK,Star Trek,"Data, New Life",52,4e96d3dd-9c51-506f-8587-ee0f909e6623,96b7e757-c64d-48c8-bd9c-caad5f3c78fb,uncommon,Nonfoil,,black,,,,Legendary Artifact Creature — Android Scientist,{1}{U},2.0,U
+TRK,Star Trek,Deep Space Scan,53,20ff3985-a8b1-5067-b84c-eac7a3fbaa53,15ffeda3-28ac-4adf-9844-d7b051aae227,rare,Foil,,black,,,,Sorcery,{4}{U}{U},6.0,U
+TRK,Star Trek,Deep Space Scan,53,20ff3985-a8b1-5067-b84c-eac7a3fbaa53,15ffeda3-28ac-4adf-9844-d7b051aae227,rare,Nonfoil,,black,,,,Sorcery,{4}{U}{U},6.0,U
 TRK,Star Trek,Dominion Saboteur,54,f38bed98-2e17-55f7-a7dd-5b7a713b4bc2,207c4369-220a-4eff-81dc-65872d6fc264,uncommon,Foil,,black,universesbeyond,,,Creature — Shapeshifter,{4}{U},5.0,U
 TRK,Star Trek,Dominion Saboteur,54,f38bed98-2e17-55f7-a7dd-5b7a713b4bc2,207c4369-220a-4eff-81dc-65872d6fc264,uncommon,Nonfoil,,black,universesbeyond,,,Creature — Shapeshifter,{4}{U},5.0,U
+TRK,Star Trek,Energize,56,c9debf58-c162-5cf1-ae43-d2f9ae319083,24e72db3-a8d9-4553-92fe-ba6e40c4f62e,uncommon,Foil,,black,,,,Sorcery,{1}{U},2.0,U
+TRK,Star Trek,Energize,56,c9debf58-c162-5cf1-ae43-d2f9ae319083,24e72db3-a8d9-4553-92fe-ba6e40c4f62e,uncommon,Nonfoil,,black,,,,Sorcery,{1}{U},2.0,U
+TRK,Star Trek,Ensign Pavel Chekov,57,95ca297b-b448-50be-8a3a-360763665c3a,a441c12e-1a2f-4b04-83dd-407bf6040efe,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
+TRK,Star Trek,Ensign Pavel Chekov,57,95ca297b-b448-50be-8a3a-360763665c3a,a441c12e-1a2f-4b04-83dd-407bf6040efe,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
 TRK,Star Trek,Federation Probe,59,f9425df6-7fe7-5557-bd01-7286acf37009,f988ba84-fc78-41a2-b2f2-eebf78cee591,common,Foil,,black,universesbeyond,,,Artifact Creature — Construct,{U},1.0,U
 TRK,Star Trek,Federation Probe,59,f9425df6-7fe7-5557-bd01-7286acf37009,f988ba84-fc78-41a2-b2f2-eebf78cee591,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Construct,{U},1.0,U
 TRK,Star Trek,Guidance Failure,60,0f176bd3-3ca7-514c-95a3-ea70b815ff5d,86b790e6-3c99-4a95-8327-eb90ed9380f2,common,Foil,,black,universesbeyond,,,Instant,{3}{U},4.0,U
@@ -128097,10 +128210,34 @@ TRK,Star Trek,"Hoshi Sato, Exolinguist",64,05601653-af1d-5e35-8ed5-dd5cbc068709,
 TRK,Star Trek,"Hoshi Sato, Exolinguist",64,05601653-af1d-5e35-8ed5-dd5cbc068709,24589f4d-c530-4f6a-b2d0-450ef70fca71,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Scientist,{4}{U},5.0,U
 TRK,Star Trek,Humpback Whales,65,943804fe-2a64-56d9-a025-6cf0d81e9acf,605263f0-08b6-4cc7-aba7-eb49850f8832,common,Foil,,black,universesbeyond,,,Creature — Whale,{4}{U}{U},6.0,U
 TRK,Star Trek,Humpback Whales,65,943804fe-2a64-56d9-a025-6cf0d81e9acf,605263f0-08b6-4cc7-aba7-eb49850f8832,common,Nonfoil,,black,universesbeyond,,,Creature — Whale,{4}{U}{U},6.0,U
+TRK,Star Trek,Interstellar Effigy,66,ed7d9d48-dbc6-5b15-9e27-7ee0aa72b484,4b7d505f-2a6b-4525-87c7-19e06d49c9df,common,Foil,,black,,,,Artifact Creature — Construct,{4}{U},5.0,U
+TRK,Star Trek,Interstellar Effigy,66,ed7d9d48-dbc6-5b15-9e27-7ee0aa72b484,4b7d505f-2a6b-4525-87c7-19e06d49c9df,common,Nonfoil,,black,,,,Artifact Creature — Construct,{4}{U},5.0,U
+TRK,Star Trek,"""Tinkerer (Not the Urza's Saga-er one)""",67,4c53e395-7e27-5734-add4-48bd759cb8a1,6dc34d44-397a-4dda-a8e3-0c2ff7da110f,uncommon,Foil,,black,,,,Legendary Creature — Human Artificer,{1}{U},2.0,U
+TRK,Star Trek,"""Tinkerer (Not the Urza's Saga-er one)""",67,4c53e395-7e27-5734-add4-48bd759cb8a1,6dc34d44-397a-4dda-a8e3-0c2ff7da110f,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Artificer,{1}{U},2.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,68,18115055-e304-5d54-9e8a-b29f2ed6f218,c7fb72cc-1bc6-4774-9798-44824de46c72,mythic,Foil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,68,18115055-e304-5d54-9e8a-b29f2ed6f218,c7fb72cc-1bc6-4774-9798-44824de46c72,mythic,Nonfoil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,69,096dacc3-0dcf-5ace-bf94-5aa6ec539486,c6d5da51-6c74-4dd5-a532-cf4c2a7b601c,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,69,096dacc3-0dcf-5ace-bf94-5aa6ec539486,c6d5da51-6c74-4dd5-a532-cf4c2a7b601c,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,70,842f2777-bce6-55b4-b6e1-9cd33dd90798,3a558d82-7efd-49b3-9f7b-ace639b44a35,rare,Foil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,70,842f2777-bce6-55b4-b6e1-9cd33dd90798,3a558d82-7efd-49b3-9f7b-ace639b44a35,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
 TRK,Star Trek,Marooned,72,bf1e38e1-d2d2-583a-98c2-1b4c9a4664ce,0820a78e-e392-423c-9d62-ddfda5cb3f03,common,Foil,enchantment,black,universesbeyond,,,Enchantment — Aura,{U},1.0,U
 TRK,Star Trek,Marooned,72,bf1e38e1-d2d2-583a-98c2-1b4c9a4664ce,0820a78e-e392-423c-9d62-ddfda5cb3f03,common,Nonfoil,enchantment,black,universesbeyond,,,Enchantment — Aura,{U},1.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",74,b190c272-7a36-58d8-95c7-242290ae2f93,d19fc127-669e-4264-935a-e5991e6c0964,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",74,b190c272-7a36-58d8-95c7-242290ae2f93,d19fc127-669e-4264-935a-e5991e6c0964,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",75,4ca3bb3c-7679-5490-985f-bd3535888bc7,b04066ef-ad43-4b40-b4ae-5d94f154261f,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",75,4ca3bb3c-7679-5490-985f-bd3535888bc7,b04066ef-ad43-4b40-b4ae-5d94f154261f,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
 TRK,Star Trek,Open Communications,76,1f8ee533-bfb1-52ec-8efe-5c7712d98511,8eeec269-13f0-4923-9f13-e995acd73e00,common,Foil,,black,universesbeyond,,,Sorcery,{U},1.0,U
 TRK,Star Trek,Open Communications,76,1f8ee533-bfb1-52ec-8efe-5c7712d98511,8eeec269-13f0-4923-9f13-e995acd73e00,common,Nonfoil,,black,universesbeyond,,,Sorcery,{U},1.0,U
+TRK,Star Trek,Romulan Bird-of-Prey,77,a3c1ad91-fa65-5b55-b5ba-032c461c9f58,6a461d90-6b7b-4777-958a-8a5d8365ad8c,rare,Foil,,black,,,,Artifact — Spacecraft,{1}{U},2.0,U
+TRK,Star Trek,Romulan Bird-of-Prey,77,a3c1ad91-fa65-5b55-b5ba-032c461c9f58,6a461d90-6b7b-4777-958a-8a5d8365ad8c,rare,Nonfoil,,black,,,,Artifact — Spacecraft,{1}{U},2.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",79,2015fcd4-c9cc-5ebd-bd4a-4dcc27c523a4,42f77f9e-5e56-45ac-aa93-36353c92bca9,mythic,Foil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",79,2015fcd4-c9cc-5ebd-bd4a-4dcc27c523a4,42f77f9e-5e56-45ac-aa93-36353c92bca9,mythic,Nonfoil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",80,0c9fce1b-1b18-567c-b446-f81813331a28,ddc517bd-27e1-4688-8941-a41c312bd782,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",80,0c9fce1b-1b18-567c-b446-f81813331a28,ddc517bd-27e1-4688-8941-a41c312bd782,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,Suurok-Class Science Vessel,83,13f0ea7a-ca62-536e-87da-fc47657a7963,7608943e-329e-41f9-b098-a0a94b01e6a1,common,Foil,,black,,,,Artifact — Spacecraft,{2}{U},3.0,U
+TRK,Star Trek,Suurok-Class Science Vessel,83,13f0ea7a-ca62-536e-87da-fc47657a7963,7608943e-329e-41f9-b098-a0a94b01e6a1,common,Nonfoil,,black,,,,Artifact — Spacecraft,{2}{U},3.0,U
+TRK,Star Trek,Those Old Scientists,86,381277c9-1b53-5a8a-8e9e-233b35850c76,44280b43-b07e-43a4-9ae3-2eac0baeb918,uncommon,Foil,enchantment,black,,,,Enchantment — Saga,{2}{U},3.0,U
+TRK,Star Trek,Those Old Scientists,86,381277c9-1b53-5a8a-8e9e-233b35850c76,44280b43-b07e-43a4-9ae3-2eac0baeb918,uncommon,Nonfoil,enchantment,black,,,,Enchantment — Saga,{2}{U},3.0,U
 TRK,Star Trek,"V'Ger, the Intruder",87,e841506e-0799-51c6-867c-c729e8468a7d,b082d454-d331-4960-8120-754f107ffa42,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Artifact Creature — Construct,{6}{U},7.0,U
 TRK,Star Trek,"V'Ger, the Intruder",87,e841506e-0799-51c6-867c-c729e8468a7d,b082d454-d331-4960-8120-754f107ffa42,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Artifact Creature — Construct,{6}{U},7.0,U
 TRK,Star Trek,Assault Drone,92,3f4411bb-21fd-531b-89f7-0b61742f78f3,5ca2da7a-afbf-4b32-8ff6-ae899b9f70ad,common,Foil,,black,universesbeyond,,,Artifact Creature — Borg,{3}{B},4.0,B
@@ -128111,14 +128248,24 @@ TRK,Star Trek,Bat'leth,94,1e158dfc-2314-52a3-99b4-c30755019c64,888e6e0f-43c3-451
 TRK,Star Trek,Bat'leth,94,1e158dfc-2314-52a3-99b4-c30755019c64,888e6e0f-43c3-4516-88ff-8a8d814478d4,uncommon,Nonfoil,,black,universesbeyond,,,Artifact — Equipment,{2}{B},3.0,B
 TRK,Star Trek,Battle-Scarred Survivalist,95,e2c309c6-3eaa-5e48-807f-717a97da6fec,c567253e-a2ee-45de-b3c6-3aeafbf8237b,common,Foil,,black,universesbeyond,,,Creature — Klingon Scout,{1}{B},2.0,B
 TRK,Star Trek,Battle-Scarred Survivalist,95,e2c309c6-3eaa-5e48-807f-717a97da6fec,c567253e-a2ee-45de-b3c6-3aeafbf8237b,common,Nonfoil,,black,universesbeyond,,,Creature — Klingon Scout,{1}{B},2.0,B
+TRK,Star Trek,Blastoneuron,96,25ce5ab1-5ad0-5647-bfba-cffb263094c7,c1855a4c-c7d1-407c-b134-4c43968cbdd3,uncommon,Foil,,black,,,,Creature — Jellyfish Leech,{3}{B},4.0,B
+TRK,Star Trek,Blastoneuron,96,25ce5ab1-5ad0-5647-bfba-cffb263094c7,c1855a4c-c7d1-407c-b134-4c43968cbdd3,uncommon,Nonfoil,,black,,,,Creature — Jellyfish Leech,{3}{B},4.0,B
 TRK,Star Trek,Cha'DIch Investigator,97,4e2375bf-b278-5b90-a6e0-0a07799dde8b,16281200-4660-4871-afd2-d4720e6a3197,common,Foil,,black,universesbeyond,,,Creature — Klingon Warrior,{4}{B},5.0,B
 TRK,Star Trek,Cha'DIch Investigator,97,4e2375bf-b278-5b90-a6e0-0a07799dde8b,16281200-4660-4871-afd2-d4720e6a3197,common,Nonfoil,,black,universesbeyond,,,Creature — Klingon Warrior,{4}{B},5.0,B
 TRK,Star Trek,Collective Drone,99,aafe5677-3c05-548f-8b87-0591a90466d3,65b74daa-4606-4118-9752-b0dcd7a3f486,uncommon,Foil,,black,universesbeyond,,,Artifact Creature — Borg,{1}{B},2.0,B
 TRK,Star Trek,Collective Drone,99,aafe5677-3c05-548f-8b87-0591a90466d3,65b74daa-4606-4118-9752-b0dcd7a3f486,uncommon,Nonfoil,,black,universesbeyond,,,Artifact Creature — Borg,{1}{B},2.0,B
+TRK,Star Trek,D'Ghor Bloodletter,101,c84568c4-6683-5699-847a-41ee55e0e266,5075645d-ef69-4559-953e-c3140153bd75,uncommon,Foil,,black,,,,Creature — Klingon Assassin,{2}{B},3.0,B
+TRK,Star Trek,D'Ghor Bloodletter,101,c84568c4-6683-5699-847a-41ee55e0e266,5075645d-ef69-4559-953e-c3140153bd75,uncommon,Nonfoil,,black,,,,Creature — Klingon Assassin,{2}{B},3.0,B
+TRK,Star Trek,Death Is Irrelevant,102,dcfb67ed-4019-522e-b069-2c55539b8e0c,408cb5dd-1a79-47a9-98ea-41f3f4502c5e,mythic,Foil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Death Is Irrelevant,102,dcfb67ed-4019-522e-b069-2c55539b8e0c,408cb5dd-1a79-47a9-98ea-41f3f4502c5e,mythic,Nonfoil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
 TRK,Star Trek,Eject the Warp Core,105,1740604a-c0d6-500f-ae31-aff1166d375f,04a479be-8093-4775-a5d9-8b0e1683bf12,common,Foil,,black,universesbeyond,,,Instant,{1}{B},2.0,B
 TRK,Star Trek,Eject the Warp Core,105,1740604a-c0d6-500f-ae31-aff1166d375f,04a479be-8093-4775-a5d9-8b0e1683bf12,common,Nonfoil,,black,universesbeyond,,,Instant,{1}{B},2.0,B
+TRK,Star Trek,"Elim Garak, Simple Tailor",106,1a482acd-b29f-597e-be6e-3308ac383d61,113bd51a-dfbb-4106-adf3-e567057fcd06,rare,Foil,legendary,black,,,,Legendary Creature — Cardassian Rogue,{2}{B},3.0,B
+TRK,Star Trek,"Elim Garak, Simple Tailor",106,1a482acd-b29f-597e-be6e-3308ac383d61,113bd51a-dfbb-4106-adf3-e567057fcd06,rare,Nonfoil,legendary,black,,,,Legendary Creature — Cardassian Rogue,{2}{B},3.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",109,fbab8245-07e6-563e-a9f0-19a53e049143,c46a0910-215c-4757-8bfe-7eca479157a5,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",109,fbab8245-07e6-563e-a9f0-19a53e049143,c46a0910-215c-4757-8bfe-7eca479157a5,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
+TRK,Star Trek,"Georgiou, Terran Emperor",110,d45f6296-d331-59df-884d-717c4b2c62e3,a68361a3-83fa-44b5-92b5-b7905866fc99,mythic,Foil,,black,,,,Legendary Creature — Human Rogue Noble,{4}{B}{B},6.0,B
+TRK,Star Trek,"Georgiou, Terran Emperor",110,d45f6296-d331-59df-884d-717c4b2c62e3,a68361a3-83fa-44b5-92b5-b7905866fc99,mythic,Nonfoil,,black,,,,Legendary Creature — Human Rogue Noble,{4}{B}{B},6.0,B
 TRK,Star Trek,A Good Day to Die,111,299310e1-79cb-5658-a7bc-80610417706b,e2b350b2-0eda-4c2b-b9d6-b58ab4848545,common,Foil,,black,universesbeyond,,,Instant,{B},1.0,B
 TRK,Star Trek,A Good Day to Die,111,299310e1-79cb-5658-a7bc-80610417706b,e2b350b2-0eda-4c2b-b9d6-b58ab4848545,common,Nonfoil,,black,universesbeyond,,,Instant,{B},1.0,B
 TRK,Star Trek,"He's Dead, Jim",114,a617c1d4-e181-58a8-8a9c-b0aade87000c,2c309b0d-94b4-405e-be6c-18b407323e51,common,Foil,,black,universesbeyond,,,Instant,{3}{B},4.0,B
@@ -128127,6 +128274,10 @@ TRK,Star Trek,Hive Mind Coprocessor,115,231ffd24-3a5b-57ad-b7ae-de041958ef0e,a47
 TRK,Star Trek,Hive Mind Coprocessor,115,231ffd24-3a5b-57ad-b7ae-de041958ef0e,a4734c59-ff41-47ac-bbb4-c8c3bf052fe6,uncommon,Nonfoil,,black,universesbeyond,,,Artifact Creature — Borg,{4}{B},5.0,B
 TRK,Star Trek,In the Pale Moonlight,117,09a6d65c-791c-5396-a575-c479b5e7eed3,47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c,uncommon,Foil,enchantment,black,universesbeyond,,,Enchantment — Saga,{3}{B}{B},5.0,B
 TRK,Star Trek,In the Pale Moonlight,117,09a6d65c-791c-5396-a575-c479b5e7eed3,47c8262c-e0c6-4c1a-b1c1-3b5fe5252a9c,uncommon,Nonfoil,enchantment,black,universesbeyond,,,Enchantment — Saga,{3}{B}{B},5.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",119,cfd90d1b-aa3d-50e4-a905-93bda6b19ebe,a6f47b34-02fb-41d2-978a-a6d0a47ee8ba,mythic,Foil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",119,cfd90d1b-aa3d-50e4-a905-93bda6b19ebe,a6f47b34-02fb-41d2-978a-a6d0a47ee8ba,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
+TRK,Star Trek,Obsidian Order Operative,120,c968b911-45ab-52fb-aa99-c789afe529f2,17a7b0a8-baaf-4e6a-8536-f511c796a713,common,Foil,,black,,,,Creature — Cardassian Officer Spy,{3}{B},4.0,B
+TRK,Star Trek,Obsidian Order Operative,120,c968b911-45ab-52fb-aa99-c789afe529f2,17a7b0a8-baaf-4e6a-8536-f511c796a713,common,Nonfoil,,black,,,,Creature — Cardassian Officer Spy,{3}{B},4.0,B
 TRK,Star Trek,Organic Avulsion Unit,121,91ff98c4-eb57-5b0e-b473-02db0275b748,8cc06121-6ecd-44c3-90f9-34d492b031d4,uncommon,Foil,,black,universesbeyond,,,Artifact Creature — Borg,{2}{B},3.0,B
 TRK,Star Trek,Organic Avulsion Unit,121,91ff98c4-eb57-5b0e-b473-02db0275b748,8cc06121-6ecd-44c3-90f9-34d492b031d4,uncommon,Nonfoil,,black,universesbeyond,,,Artifact Creature — Borg,{2}{B},3.0,B
 TRK,Star Trek,Relentless Drednok,124,1540b2b9-2e17-5467-b263-da89757fac11,ce538db8-373d-4554-821e-cd96e795e37a,common,Foil,,black,universesbeyond,,,Artifact Creature — Robot,{B},1.0,B
@@ -128137,14 +128288,26 @@ TRK,Star Trek,Rogue Artificial Intelligence,126,32199f52-5d03-528a-b95e-08a4c535
 TRK,Star Trek,Rogue Artificial Intelligence,126,32199f52-5d03-528a-b95e-08a4c535709f,edcce061-88c9-40bf-97f8-d0d3018e24dd,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Construct,{4}{B}{B},6.0,B
 TRK,Star Trek,Salt Vampire,127,b791480f-dae5-5ad3-bcda-af9ba051a9fa,78faba81-01a3-489f-927e-1adaa8fe4436,rare,Foil,,black,universesbeyond,,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
 TRK,Star Trek,Salt Vampire,127,b791480f-dae5-5ad3-bcda-af9ba051a9fa,78faba81-01a3-489f-927e-1adaa8fe4436,rare,Nonfoil,,black,universesbeyond,,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
+TRK,Star Trek,Storied Veteran,129,c17b2c05-d5cd-5376-acf6-fa6571a56383,3b80995c-8e9a-4a9c-8854-59439a58166f,uncommon,Foil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,Storied Veteran,129,c17b2c05-d5cd-5376-acf6-fa6571a56383,3b80995c-8e9a-4a9c-8854-59439a58166f,uncommon,Nonfoil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,Test of Loyalty,134,f22c46e6-e8b2-5b13-8f00-3a897462e8f2,722eeb21-be3c-4ae6-abd2-c3281d53c035,uncommon,Foil,,black,,,,Sorcery,{B},1.0,B
+TRK,Star Trek,Test of Loyalty,134,f22c46e6-e8b2-5b13-8f00-3a897462e8f2,722eeb21-be3c-4ae6-abd2-c3281d53c035,uncommon,Nonfoil,,black,,,,Sorcery,{B},1.0,B
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",135,d6ab7815-a6f0-5b95-bb6c-63004ba1208c,a4c6fc55-f585-4529-b549-31d4d838c9af,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",135,d6ab7815-a6f0-5b95-bb6c-63004ba1208c,a4c6fc55-f585-4529-b549-31d4d838c9af,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
 TRK,Star Trek,"Beckett Mariner, Impetuous Ensign",138,578538ad-8388-5464-bec9-02584eea733a,f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{R},2.0,R
 TRK,Star Trek,"Beckett Mariner, Impetuous Ensign",138,578538ad-8388-5464-bec9-02584eea733a,f2001bbd-63ee-4a6e-8e01-3a91aaf1e3b9,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{1}{R},2.0,R
 TRK,Star Trek,Cantankerous Captain,141,968bec50-95a1-5329-ae13-19186cc016ff,2c053ec5-d1ea-4526-8a0d-e4dfafb8ecdf,common,Foil,,black,universesbeyond,,,Creature — Tellarite Officer,{2}{R},3.0,R
 TRK,Star Trek,Cantankerous Captain,141,968bec50-95a1-5329-ae13-19186cc016ff,2c053ec5-d1ea-4526-8a0d-e4dfafb8ecdf,common,Nonfoil,,black,universesbeyond,,,Creature — Tellarite Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain James T. Kirk,142,7bb531f1-963b-5df0-98cc-189f95e8e26e,40a0466d-20bb-4ed5-858d-947fb9144580,mythic,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain James T. Kirk,142,7bb531f1-963b-5df0-98cc-189f95e8e26e,40a0466d-20bb-4ed5-858d-947fb9144580,mythic,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{2}{R},3.0,R
+TRK,Star Trek,Captain Michael Burnham,143,f9d7e15b-188a-5b25-b206-cf23f9d95e32,e10d6d71-9360-4ecf-97c8-22afb22aaeb7,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{R},3.0,R
+TRK,Star Trek,Captain Michael Burnham,143,f9d7e15b-188a-5b25-b206-cf23f9d95e32,e10d6d71-9360-4ecf-97c8-22afb22aaeb7,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain's Tutelage,144,f263c897-8b05-5f23-b2dc-0fd3197cdee6,0c340eba-645d-416a-9ed4-f2303aa8c919,common,Foil,enchantment,black,universesbeyond,,,Enchantment — Aura,{1}{R},2.0,R
 TRK,Star Trek,Captain's Tutelage,144,f263c897-8b05-5f23-b2dc-0fd3197cdee6,0c340eba-645d-416a-9ed4-f2303aa8c919,common,Nonfoil,enchantment,black,universesbeyond,,,Enchantment — Aura,{1}{R},2.0,R
+TRK,Star Trek,D-7 Battle Cruiser,145,fb4c5730-4b1e-57c2-8db1-e06e5faeed72,6c22998d-7bd7-433d-95b8-50f2fd8b7b7f,rare,Foil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,D-7 Battle Cruiser,145,fb4c5730-4b1e-57c2-8db1-e06e5faeed72,6c22998d-7bd7-433d-95b8-50f2fd8b7b7f,rare,Nonfoil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,Dahar Master,146,a4b56939-772a-55d2-b6ea-4af789210626,1122fe1c-97f7-409d-ad37-0fed46f9f963,common,Foil,,black,,,,Creature — Klingon Warrior,{3}{R},4.0,R
+TRK,Star Trek,Dahar Master,146,a4b56939-772a-55d2-b6ea-4af789210626,1122fe1c-97f7-409d-ad37-0fed46f9f963,common,Nonfoil,,black,,,,Creature — Klingon Warrior,{3}{R},4.0,R
 TRK,Star Trek,Horta,152,ff578b79-8064-588d-b7b7-26c5842850f3,abf44662-62ad-47fb-9cfe-6bed47133de5,common,Foil,,black,universesbeyond,,,Creature — Elemental,{4}{R}{R},6.0,R
 TRK,Star Trek,Horta,152,ff578b79-8064-588d-b7b7-26c5842850f3,abf44662-62ad-47fb-9cfe-6bed47133de5,common,Nonfoil,,black,universesbeyond,,,Creature — Elemental,{4}{R}{R},6.0,R
 TRK,Star Trek,Khaaaaaaaaaaaannn!,154,936b11e9-6742-5991-9da2-d765b2307efd,22c60c17-74ec-460b-bf7a-e56e42239826,uncommon,Foil,,black,universesbeyond,,,Instant,{X}{R},1.0,R
@@ -128159,14 +128322,28 @@ TRK,Star Trek,Planetary Patrol,163,035c0dda-4bbd-5438-9af1-fbc46cfe5f17,163f5474
 TRK,Star Trek,Planetary Patrol,163,035c0dda-4bbd-5438-9af1-fbc46cfe5f17,163f5474-138d-4b47-a6f5-b1a0974e56a4,common,Nonfoil,,black,universesbeyond,,,Creature — Scout,{1}{R},2.0,R
 TRK,Star Trek,Plasma Cascade,164,583b9389-3e3f-5624-b3cf-02cd453c5059,3c786a2f-3de4-4b24-a3a0-15b1f2a07324,common,Foil,,black,universesbeyond,,,Instant,{2}{R},3.0,R
 TRK,Star Trek,Plasma Cascade,164,583b9389-3e3f-5624-b3cf-02cd453c5059,3c786a2f-3de4-4b24-a3a0-15b1f2a07324,common,Nonfoil,,black,universesbeyond,,,Instant,{2}{R},3.0,R
+TRK,Star Trek,"Q, Stacking the Deck",165,274fb0d9-9e31-5226-9555-5cef201690ab,dcbe34db-0065-4960-92b8-3ea1d336e803,mythic,Foil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
+TRK,Star Trek,"Q, Stacking the Deck",165,274fb0d9-9e31-5226-9555-5cef201690ab,dcbe34db-0065-4960-92b8-3ea1d336e803,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
+TRK,Star Trek,"Quark, Humble Proprietor",166,727716f5-8725-5b02-8fc4-6d43abfea609,96104754-57e2-46e9-948d-628aab2aa0ad,mythic,Foil,legendary,black,,,,Legendary Creature — Ferengi Rogue,{2}{R},3.0,R
+TRK,Star Trek,"Quark, Humble Proprietor",166,727716f5-8725-5b02-8fc4-6d43abfea609,96104754-57e2-46e9-948d-628aab2aa0ad,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Ferengi Rogue,{2}{R},3.0,R
+TRK,Star Trek,Ravenous Cosmozoan,167,4ee24405-3fd0-5379-835c-41f7548f8757,8eeb471b-412d-4ea1-bec0-d7dd0a557d76,uncommon,Foil,,black,,,,Creature — Fish,{5}{R},6.0,R
+TRK,Star Trek,Ravenous Cosmozoan,167,4ee24405-3fd0-5379-835c-41f7548f8757,8eeb471b-412d-4ea1-bec0-d7dd0a557d76,uncommon,Nonfoil,,black,,,,Creature — Fish,{5}{R},6.0,R
 TRK,Star Trek,Reckless Impulse,168,6a3947bc-236b-548b-9559-001cf724a3f6,5bca43d8-7c69-47f4-8f82-48dd2b6a7cba,common,Foil,,black,universesbeyond,,True,Sorcery,{1}{R},2.0,R
 TRK,Star Trek,Reckless Impulse,168,6a3947bc-236b-548b-9559-001cf724a3f6,5bca43d8-7c69-47f4-8f82-48dd2b6a7cba,common,Nonfoil,,black,universesbeyond,,True,Sorcery,{1}{R},2.0,R
 TRK,Star Trek,Silicate Surveyor,172,c8f7af62-2f71-5d25-92a0-6adef694c00c,6359ab5d-4151-4a0c-af13-d59c1b381bb0,common,Foil,,black,universesbeyond,,,Creature — Tholian Scout,{4}{R},5.0,R
 TRK,Star Trek,Silicate Surveyor,172,c8f7af62-2f71-5d25-92a0-6adef694c00c,6359ab5d-4151-4a0c-af13-d59c1b381bb0,common,Nonfoil,,black,universesbeyond,,,Creature — Tholian Scout,{4}{R},5.0,R
+TRK,Star Trek,"Worf, Intelligence Contractor",180,c71af277-d249-586b-8061-67d1a8716ff8,7df6c8c1-1f85-4c5d-a4f6-9ffcdad1b12e,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,"Worf, Intelligence Contractor",180,c71af277-d249-586b-8061-67d1a8716ff8,7df6c8c1-1f85-4c5d-a4f6-9ffcdad1b12e,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,The Wrath of Khan,181,0afe02b4-10b3-52ce-a541-8b0eb181d421,426d627e-bb88-4879-8d9f-db1babf22b15,rare,Foil,enchantment,black,,,,Enchantment — Saga,{2}{R},3.0,R
+TRK,Star Trek,The Wrath of Khan,181,0afe02b4-10b3-52ce-a541-8b0eb181d421,426d627e-bb88-4879-8d9f-db1babf22b15,rare,Nonfoil,enchantment,black,,,,Enchantment — Saga,{2}{R},3.0,R
 TRK,Star Trek,Amok Time,183,a11c0da8-9a74-5f33-b7ca-dc32122bb1a7,d31447b6-484f-4dda-b6af-ab068a84f896,uncommon,Foil,enchantment,black,universesbeyond,,,Enchantment — Saga,{2}{G},3.0,G
 TRK,Star Trek,Amok Time,183,a11c0da8-9a74-5f33-b7ca-dc32122bb1a7,d31447b6-484f-4dda-b6af-ab068a84f896,uncommon,Nonfoil,enchantment,black,universesbeyond,,,Enchantment — Saga,{2}{G},3.0,G
+TRK,Star Trek,Captain Jonathan Archer,186,0158211d-571f-581b-b3eb-7103fa5f244e,a4518ea3-5f56-4f1d-9024-2bf06ac98786,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{G},3.0,G
+TRK,Star Trek,Captain Jonathan Archer,186,0158211d-571f-581b-b3eb-7103fa5f244e,a4518ea3-5f56-4f1d-9024-2bf06ac98786,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{G},3.0,G
 TRK,Star Trek,Captain Kathryn Janeway,187,d09b34ff-4c2d-5dd3-8da0-b76b62302a90,d17ea45c-7f9c-411f-b7d3-ca7100ffe53b,mythic,Foil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
 TRK,Star Trek,Captain Kathryn Janeway,187,d09b34ff-4c2d-5dd3-8da0-b76b62302a90,d17ea45c-7f9c-411f-b7d3-ca7100ffe53b,mythic,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
+TRK,Star Trek,"Captain Pike, Fullness of Time",188,6f6775d3-587d-5c9b-9f13-1ad1ab569479,743be4c4-5c91-42bb-9942-115e903041a9,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer Scout,{1}{G}{G},3.0,G
+TRK,Star Trek,"Captain Pike, Fullness of Time",188,6f6775d3-587d-5c9b-9f13-1ad1ab569479,743be4c4-5c91-42bb-9942-115e903041a9,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer Scout,{1}{G}{G},3.0,G
 TRK,Star Trek,Cold-Blooded Crew,189,1ada6333-0c9f-5bb6-97a7-31112909eda2,4f2d1830-baea-4735-b029-cb8c0b538d83,common,Foil,,black,universesbeyond,,,Creature — Gorn Warrior,{4}{G}{G},6.0,G
 TRK,Star Trek,Cold-Blooded Crew,189,1ada6333-0c9f-5bb6-97a7-31112909eda2,4f2d1830-baea-4735-b029-cb8c0b538d83,common,Nonfoil,,black,universesbeyond,,,Creature — Gorn Warrior,{4}{G}{G},6.0,G
 TRK,Star Trek,Common Goal,190,0e22c69e-8c40-5f93-b93b-5f3ce329d8f7,4fddc950-fbc5-4cf7-b694-dcd54ffccb31,common,Foil,,black,universesbeyond,,,Sorcery,{1}{G},2.0,G
@@ -128175,10 +128352,16 @@ TRK,Star Trek,Dathon and Picard at El-Adrel,192,2a9f2605-a967-549e-9c71-b66c5b9e
 TRK,Star Trek,Dathon and Picard at El-Adrel,192,2a9f2605-a967-549e-9c71-b66c5b9efef9,94e9d400-f2bb-46e7-8d41-6038ebdc6c8b,common,Nonfoil,,black,universesbeyond,,,Instant,{2}{G},3.0,G
 TRK,Star Trek,Dominion Supervisor,195,f937a015-d9e3-54c0-92db-19465449898b,5fa76320-24c0-4294-8ae4-fb39e171fbe6,common,Foil,,black,universesbeyond,,,Creature — Vorta Doctor,{2}{G},3.0,G
 TRK,Star Trek,Dominion Supervisor,195,f937a015-d9e3-54c0-92db-19465449898b,5fa76320-24c0-4294-8ae4-fb39e171fbe6,common,Nonfoil,,black,universesbeyond,,,Creature — Vorta Doctor,{2}{G},3.0,G
+TRK,Star Trek,Dr. Joseph M'Benga,196,25b0bca0-425f-5b91-8005-ee083f774e85,c27e6865-40ba-406c-9dce-d8a7a9b8035b,mythic,Foil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{G}{G},4.0,G
+TRK,Star Trek,Dr. Joseph M'Benga,196,25b0bca0-425f-5b91-8005-ee083f774e85,c27e6865-40ba-406c-9dce-d8a7a9b8035b,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{G}{G},4.0,G
 TRK,Star Trek,First Contact,199,31ce539a-f99a-58bb-9fef-71801a94e3c3,5407e8f4-0c8e-4e66-9d2f-f22277aa38f4,common,Foil,,black,universesbeyond,,,Instant,{1}{G},2.0,G
 TRK,Star Trek,First Contact,199,31ce539a-f99a-58bb-9fef-71801a94e3c3,5407e8f4-0c8e-4e66-9d2f-f22277aa38f4,common,Nonfoil,,black,universesbeyond,,,Instant,{1}{G},2.0,G
+TRK,Star Trek,Hologram Stalker,202,2789f4de-e23f-580d-b8cf-81f9809f42e6,6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e,uncommon,Foil,,black,,,,Creature — Hirogen Warrior,{4}{G}{G},6.0,G
+TRK,Star Trek,Hologram Stalker,202,2789f4de-e23f-580d-b8cf-81f9809f42e6,6bd8a87b-ca7a-4a15-b96f-1a673ee44f3e,uncommon,Nonfoil,,black,,,,Creature — Hirogen Warrior,{4}{G}{G},6.0,G
 TRK,Star Trek,"I'm a Doctor, Not a . . .",203,58e23504-be75-54d3-8ba1-2de6513146a1,c07979d4-8a58-4cfb-bffa-74e8bd97c7ff,common,Foil,,black,universesbeyond,,,Instant,{G},1.0,G
 TRK,Star Trek,"I'm a Doctor, Not a . . .",203,58e23504-be75-54d3-8ba1-2de6513146a1,c07979d4-8a58-4cfb-bffa-74e8bd97c7ff,common,Nonfoil,,black,universesbeyond,,,Instant,{G},1.0,G
+TRK,Star Trek,"Jake Sisko, War Correspondent",205,bb6d85f4-6424-53b7-861d-d911de469ac3,9e47c6b6-f99b-46be-98a1-92c98416aefe,uncommon,Foil,,black,,,,Legendary Creature — Human Citizen,{1}{G},2.0,G
+TRK,Star Trek,"Jake Sisko, War Correspondent",205,bb6d85f4-6424-53b7-861d-d911de469ac3,9e47c6b6-f99b-46be-98a1-92c98416aefe,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Citizen,{1}{G},2.0,G
 TRK,Star Trek,Moopsy,207,69f72cff-da7a-5c19-95fd-44cc7d1803cf,dfbaf597-6be2-4aa0-88ae-cc4c94878add,common,Foil,,black,universesbeyond,,,Creature — Beast,{G},1.0,G
 TRK,Star Trek,Moopsy,207,69f72cff-da7a-5c19-95fd-44cc7d1803cf,dfbaf597-6be2-4aa0-88ae-cc4c94878add,common,Nonfoil,,black,universesbeyond,,,Creature — Beast,{G},1.0,G
 TRK,Star Trek,Mugato,208,307224d2-77d7-55ab-b346-addea33045db,f3c68b20-f202-4d55-bef1-398d96e55c57,uncommon,Foil,,black,universesbeyond,,,Creature — Ape Beast,{3}{G}{G},5.0,G
@@ -128189,40 +128372,168 @@ TRK,Star Trek,Support Mission,216,afe1c0b5-7894-595a-919a-9a6fc48ab791,9e8b404c-
 TRK,Star Trek,Support Mission,216,afe1c0b5-7894-595a-919a-9a6fc48ab791,9e8b404c-6e2a-4966-ac4b-c9981c1c6fee,uncommon,Nonfoil,enchantment,black,universesbeyond,,,Enchantment,{2}{G},3.0,G
 TRK,Star Trek,Syndicate Liquidators,218,f60463c8-fa37-55c6-be44-0a9613f8ca6d,18bb2edd-8dee-4714-a707-6542b6ebbd53,uncommon,Foil,,black,universesbeyond,,,Creature — Orion Pirate,{4}{G},5.0,G
 TRK,Star Trek,Syndicate Liquidators,218,f60463c8-fa37-55c6-be44-0a9613f8ca6d,18bb2edd-8dee-4714-a707-6542b6ebbd53,uncommon,Nonfoil,,black,universesbeyond,,,Creature — Orion Pirate,{4}{G},5.0,G
+TRK,Star Trek,Temporal Conqueror,219,c23dd7d1-2fd4-5365-9bd3-c0ad475ba26b,b0bb51a7-1ae2-45d0-8be9-5454a3c8f751,common,Foil,,black,,,,Creature — Na'kuhl Warrior,{2}{G},3.0,G
+TRK,Star Trek,Temporal Conqueror,219,c23dd7d1-2fd4-5365-9bd3-c0ad475ba26b,b0bb51a7-1ae2-45d0-8be9-5454a3c8f751,common,Nonfoil,,black,,,,Creature — Na'kuhl Warrior,{2}{G},3.0,G
+TRK,Star Trek,Test of Courage,220,6a2ab967-fb63-5bbf-a29d-858591fd6678,291b9b6b-54bf-4e71-98f1-cb9301ea0727,uncommon,Foil,,black,,,,Instant,{G},1.0,G
+TRK,Star Trek,Test of Courage,220,6a2ab967-fb63-5bbf-a29d-858591fd6678,291b9b6b-54bf-4e71-98f1-cb9301ea0727,uncommon,Nonfoil,,black,,,,Instant,{G},1.0,G
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",221,dc109808-a120-528a-8299-9c368bda891e,69b1f87f-ff02-4945-9f07-18dab5035e2d,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",221,dc109808-a120-528a-8299-9c368bda891e,69b1f87f-ff02-4945-9f07-18dab5035e2d,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
 TRK,Star Trek,Xenobotanist,224,372359c9-6f90-5c45-97b9-091f9a78637d,20a97cda-42b2-44f1-8e77-f64dd1c98f6f,common,Foil,,black,universesbeyond,,,Creature — Vulcan Scientist,{1}{G},2.0,G
 TRK,Star Trek,Xenobotanist,224,372359c9-6f90-5c45-97b9-091f9a78637d,20a97cda-42b2-44f1-8e77-f64dd1c98f6f,common,Nonfoil,,black,universesbeyond,,,Creature — Vulcan Scientist,{1}{G},2.0,G
 TRK,Star Trek,Xindi Surveyors,225,27eefd17-3f47-541a-ae33-760598a3ebe6,803608aa-ae69-45d2-ae48-f1688d2a6a0d,common,Foil,,black,universesbeyond,,,Creature — Xindi Scientist,{2}{G},3.0,G
 TRK,Star Trek,Xindi Surveyors,225,27eefd17-3f47-541a-ae33-760598a3ebe6,803608aa-ae69-45d2-ae48-f1688d2a6a0d,common,Nonfoil,,black,universesbeyond,,,Creature — Xindi Scientist,{2}{G},3.0,G
+TRK,Star Trek,All Good Things...,226,7bd73ce5-6313-57a0-9f66-4fe2cc5b2125,fe5dda31-159c-49c7-962e-a04b771256ea,rare,Foil,enchantment,black,,,,Enchantment — Saga,{3}{G}{U},5.0,"G, U"
+TRK,Star Trek,All Good Things...,226,7bd73ce5-6313-57a0-9f66-4fe2cc5b2125,fe5dda31-159c-49c7-962e-a04b771256ea,rare,Nonfoil,enchantment,black,,,,Enchantment — Saga,{3}{G}{U},5.0,"G, U"
+TRK,Star Trek,Borg Cube,227,69c2bf42-7ea6-5aff-9085-8998459949e1,e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc,mythic,Foil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
+TRK,Star Trek,Borg Cube,227,69c2bf42-7ea6-5aff-9085-8998459949e1,e58f7310-3fd5-48d5-b6b7-a5d3e1808bbc,mythic,Nonfoil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
 TRK,Star Trek,The City on the Edge of Forever,228,b05e6220-4e95-5250-9803-b87f2b858e01,aac6f64d-d39a-4994-bc70-6b477b2640f8,rare,Foil,enchantment,black,universesbeyond,,,Enchantment — Saga,{3}{W}{B},5.0,"B, W"
 TRK,Star Trek,The City on the Edge of Forever,228,b05e6220-4e95-5250-9803-b87f2b858e01,aac6f64d-d39a-4994-bc70-6b477b2640f8,rare,Nonfoil,enchantment,black,universesbeyond,,,Enchantment — Saga,{3}{W}{B},5.0,"B, W"
+TRK,Star Trek,"Cleveland Booker, Empath",229,3012415a-409b-5f43-9cfb-8ca2df1d909d,6b2e52e2-5cb9-4360-92d6-5c0d9e435d09,uncommon,Foil,legendary,black,,,,Legendary Creature — Kwejian Rogue,{2}{R/G}{R/G},4.0,"G, R"
+TRK,Star Trek,"Cleveland Booker, Empath",229,3012415a-409b-5f43-9cfb-8ca2df1d909d,6b2e52e2-5cb9-4360-92d6-5c0d9e435d09,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Kwejian Rogue,{2}{R/G}{R/G},4.0,"G, R"
+TRK,Star Trek,Constable Odo,230,d8aec7ad-a076-5a0b-90cc-9cf242f30988,3df582e4-3bfb-4413-9b39-898f33a5c1fd,uncommon,Foil,legendary,black,,,,Legendary Creature — Shapeshifter Detective,{3}{W/U}{W/U},5.0,"U, W"
+TRK,Star Trek,Constable Odo,230,d8aec7ad-a076-5a0b-90cc-9cf242f30988,3df582e4-3bfb-4413-9b39-898f33a5c1fd,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Shapeshifter Detective,{3}{W/U}{W/U},5.0,"U, W"
+TRK,Star Trek,"Dal R'El, Augment Orphan",231,0e11f89f-144d-5f29-92ff-6418c33bcb0d,0da52d3a-dd83-4662-8e6d-3f4d4d389c3d,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Mutant Rogue,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,"Dal R'El, Augment Orphan",231,0e11f89f-144d-5f29-92ff-6418c33bcb0d,0da52d3a-dd83-4662-8e6d-3f4d4d389c3d,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Mutant Rogue,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,"Daniels, Temporal Agent",232,708fdbe3-6580-5038-97c0-547a2730e6bb,b64dd792-7dc7-4d22-9776-9b9e25e1173d,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Advisor,{2}{B/G}{B/G},4.0,"B, G"
+TRK,Star Trek,"Daniels, Temporal Agent",232,708fdbe3-6580-5038-97c0-547a2730e6bb,b64dd792-7dc7-4d22-9776-9b9e25e1173d,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Advisor,{2}{B/G}{B/G},4.0,"B, G"
+TRK,Star Trek,"The Doctor, EMH",234,370618c0-dd22-5889-9bd9-376e9cc57f4b,8fbad0dd-5f74-40c0-9e3e-c06be8eabb14,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Illusion Doctor,{3}{G/W}{G/W},5.0,"G, W"
+TRK,Star Trek,"The Doctor, EMH",234,370618c0-dd22-5889-9bd9-376e9cc57f4b,8fbad0dd-5f74-40c0-9e3e-c06be8eabb14,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Illusion Doctor,{3}{G/W}{G/W},5.0,"G, W"
+TRK,Star Trek,The Duras Sisters,235,039a457e-8fee-5839-9d17-5e188f63d7d9,7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,The Duras Sisters,235,039a457e-8fee-5839-9d17-5e188f63d7d9,7eb112eb-2abf-4ba3-b9bd-b45ffa80f7eb,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,"D'Vana Tendi, Optimistic Ensign",236,59ef1935-0f1b-5efa-8fde-ac22f9006f1b,206239ca-341a-4f07-8149-a24ccf20ee45,uncommon,Foil,legendary,black,,,,Legendary Creature — Orion Scientist,{1}{G/U}{G/U},3.0,"G, U"
+TRK,Star Trek,"D'Vana Tendi, Optimistic Ensign",236,59ef1935-0f1b-5efa-8fde-ac22f9006f1b,206239ca-341a-4f07-8149-a24ccf20ee45,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Orion Scientist,{1}{G/U}{G/U},3.0,"G, U"
+TRK,Star Trek,"Gowron, Eager for Battle",237,40762b1f-d8cc-579f-aafd-74d3b0906642,d60613c2-5655-4051-babd-fc0f3a73fc77,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"Gowron, Eager for Battle",237,40762b1f-d8cc-579f-aafd-74d3b0906642,d60613c2-5655-4051-babd-fc0f3a73fc77,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"Gray and Adira, Forever Joined",238,84b63f28-4f54-5afe-b7b5-ba3b5376f862,eede6822-c8bc-4344-81a9-bc608245d5b6,uncommon,Foil,legendary,black,,,,Legendary Creature — Trill Human Officer,{2}{U/R}{U/R},4.0,"R, U"
+TRK,Star Trek,"Gray and Adira, Forever Joined",238,84b63f28-4f54-5afe-b7b5-ba3b5376f862,eede6822-c8bc-4344-81a9-bc608245d5b6,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Trill Human Officer,{2}{U/R}{U/R},4.0,"R, U"
+TRK,Star Trek,"Hemmer, Fixing What Is Broken",239,7df7b03c-c4d7-541e-a234-dc5c62dd0d1f,f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65,uncommon,Foil,legendary,black,,,,Legendary Creature — Aenar Artificer,{W}{U},2.0,"U, W"
+TRK,Star Trek,"Hemmer, Fixing What Is Broken",239,7df7b03c-c4d7-541e-a234-dc5c62dd0d1f,f3e730d7-3fd1-4bd2-a35b-6fb85bfd3c65,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Aenar Artificer,{W}{U},2.0,"U, W"
+TRK,Star Trek,Hit It!,240,0d7058e8-aaaa-54a9-9dca-68dabbfb2df2,6266506f-fabf-4b53-8f93-6e2115a3e5a4,rare,Foil,enchantment,black,,,,Enchantment,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,Hit It!,240,0d7058e8-aaaa-54a9-9dca-68dabbfb2df2,6266506f-fabf-4b53-8f93-6e2115a3e5a4,rare,Nonfoil,enchantment,black,,,,Enchantment,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,The Inner Light,241,96df2381-af88-5b60-9c0f-aeec893baae1,af92a773-b237-4cd8-b50d-4f7c3b9290ed,rare,Foil,enchantment,black,,,,Enchantment — Saga,{3}{G}{W},5.0,"G, W"
+TRK,Star Trek,The Inner Light,241,96df2381-af88-5b60-9c0f-aeec893baae1,af92a773-b237-4cd8-b50d-4f7c3b9290ed,rare,Nonfoil,enchantment,black,,,,Enchantment — Saga,{3}{G}{W},5.0,"G, W"
+TRK,Star Trek,"Kira Nerys, Firebrand",242,c3111bcd-6a2b-554e-ad59-1a53bbe77a90,81ad6427-e730-47c9-8310-6d3ca4b10c82,rare,Foil,,black,,,,Legendary Creature — Bajoran Soldier,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Kira Nerys, Firebrand",242,c3111bcd-6a2b-554e-ad59-1a53bbe77a90,81ad6427-e730-47c9-8310-6d3ca4b10c82,rare,Nonfoil,,black,,,,Legendary Creature — Bajoran Soldier,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Kirk, Commanding Officer",243,aeff9981-493a-5505-9463-fe66daf31971,245d0430-0967-44f1-8c59-985104a8db30,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Kirk, Commanding Officer",243,aeff9981-493a-5505-9463-fe66daf31971,245d0430-0967-44f1-8c59-985104a8db30,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,Live Long and Prosper,244,8aa547fa-f4c7-512c-8109-f7c6b9fd8b34,0fc50ffc-3b4d-4fb3-898f-c308a63eb6e9,rare,Foil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,Live Long and Prosper,244,8aa547fa-f4c7-512c-8109-f7c6b9fd8b34,0fc50ffc-3b4d-4fb3-898f-c308a63eb6e9,rare,Nonfoil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",245,ba9b8ee1-91fb-593f-8564-192f1e2b7743,296f1127-14a0-42c4-9e4a-c0d929720748,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",245,ba9b8ee1-91fb-593f-8564-192f1e2b7743,296f1127-14a0-42c4-9e4a-c0d929720748,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Lore, Positronic Provocateur",246,16264a2a-f075-590d-8f91-8cbc57c56a6e,62afa55d-d4ba-48d5-9991-0f8408f9c92c,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Android Rogue,{1}{U/B}{U/B},3.0,"B, U"
+TRK,Star Trek,"Lore, Positronic Provocateur",246,16264a2a-f075-590d-8f91-8cbc57c56a6e,62afa55d-d4ba-48d5-9991-0f8408f9c92c,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Rogue,{1}{U/B}{U/B},3.0,"B, U"
+TRK,Star Trek,"L'Rell, Fierce Visionary",247,8ffae524-1e4e-5acf-b9a7-1677beba9cea,7b06bbb9-7c6d-4889-b55a-1de77c27fd18,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,"L'Rell, Fierce Visionary",247,8ffae524-1e4e-5acf-b9a7-1677beba9cea,7b06bbb9-7c6d-4889-b55a-1de77c27fd18,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,Mirror Universe Intrusion,248,a1a95187-5966-51d1-b007-b6ec7951dffb,3507f99b-15fb-4f66-9484-8e8115e7f5de,rare,Foil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,Mirror Universe Intrusion,248,a1a95187-5966-51d1-b007-b6ec7951dffb,3507f99b-15fb-4f66-9484-8e8115e7f5de,rare,Nonfoil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,"Phlox, Unorthodox Doctor",250,61c18787-e0fe-556d-a0d7-9b6468bd7995,2695e76e-c27d-49fc-9ef2-d9eaff449f3d,uncommon,Foil,legendary,black,,,,Legendary Creature — Denobulan Doctor,{2}{G}{W},4.0,"G, W"
+TRK,Star Trek,"Phlox, Unorthodox Doctor",250,61c18787-e0fe-556d-a0d7-9b6468bd7995,2695e76e-c27d-49fc-9ef2-d9eaff449f3d,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Denobulan Doctor,{2}{G}{W},4.0,"G, W"
 TRK,Star Trek,Seven of Nine,252,05f4d165-c482-5621-9d33-7a2a0e8112fa,6204cfdb-6fb4-4030-96b6-9306c8266bcf,uncommon,Foil,legendary,black,universesbeyond,,,Legendary Artifact Creature — Human Scientist,{2}{U}{B},4.0,"B, U"
 TRK,Star Trek,Seven of Nine,252,05f4d165-c482-5621-9d33-7a2a0e8112fa,6204cfdb-6fb4-4030-96b6-9306c8266bcf,uncommon,Nonfoil,legendary,black,universesbeyond,,,Legendary Artifact Creature — Human Scientist,{2}{U}{B},4.0,"B, U"
+TRK,Star Trek,"Spock, Always Your Friend",253,97d72592-a85d-58ee-bd0c-7b0383777315,1be731d5-8b21-4883-91c0-dd9070b1eadd,uncommon,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{U}{R},2.0,"R, U"
+TRK,Star Trek,"Spock, Always Your Friend",253,97d72592-a85d-58ee-bd0c-7b0383777315,1be731d5-8b21-4883-91c0-dd9070b1eadd,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{U}{R},2.0,"R, U"
+TRK,Star Trek,The Traveler,254,00a94652-956e-51ce-9b23-a06a96f84cbd,171932ba-26da-48e9-b8a2-c71aafe5c6a6,uncommon,Foil,legendary,black,,,,Legendary Creature — Scout,{G}{U},2.0,"G, U"
+TRK,Star Trek,The Traveler,254,00a94652-956e-51ce-9b23-a06a96f84cbd,171932ba-26da-48e9-b8a2-c71aafe5c6a6,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Scout,{G}{U},2.0,"G, U"
+TRK,Star Trek,"Vash, Freelance Archaeologist",255,b48c217c-0e30-521e-84d7-dd71ea16efea,d1f51765-f336-4ca2-a0f5-e42dc352c0fa,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Rogue Scientist,{1}{B}{G},3.0,"B, G"
+TRK,Star Trek,"Vash, Freelance Archaeologist",255,b48c217c-0e30-521e-84d7-dd71ea16efea,d1f51765-f336-4ca2-a0f5-e42dc352c0fa,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Rogue Scientist,{1}{B}{G},3.0,"B, G"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",256,078d6c52-9867-515d-9dad-1d878d9c50cc,b2d1955f-e834-4157-a139-9b6ec94bcd2a,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",256,078d6c52-9867-515d-9dad-1d878d9c50cc,b2d1955f-e834-4157-a139-9b6ec94bcd2a,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,Year of Hell,257,ec5132bf-8da5-56b1-b8df-3ddddab071fc,4ab931e9-fb07-4da2-a0d9-acfec2ac9e19,rare,Foil,,black,,,,Enchantment — Saga,{1}{U}{R},3.0,"R, U"
+TRK,Star Trek,Year of Hell,257,ec5132bf-8da5-56b1-b8df-3ddddab071fc,4ab931e9-fb07-4da2-a0d9-acfec2ac9e19,rare,Nonfoil,,black,,,,Enchantment — Saga,{1}{U}{R},3.0,"R, U"
+TRK,Star Trek,"Zero, Incorporeal Sensate",258,f7892152-4670-5072-97e2-3658d1e7981d,93f616fe-6906-4e5d-b9fe-b432cccdb0ec,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Medusan Scientist,{1}{W/B}{W/B},3.0,"B, W"
+TRK,Star Trek,"Zero, Incorporeal Sensate",258,f7892152-4670-5072-97e2-3658d1e7981d,93f616fe-6906-4e5d-b9fe-b432cccdb0ec,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Medusan Scientist,{1}{W/B}{W/B},3.0,"B, W"
 TRK,Star Trek,Crystalline Entity,261,dfc8f30f-f730-57de-9e93-059bfd8a20e6,cbc4ac70-0a4c-4973-a366-dd67d8901e21,mythic,Foil,,black,universesbeyond,,,Artifact Creature — Elemental,{8},8.0,
 TRK,Star Trek,Crystalline Entity,261,dfc8f30f-f730-57de-9e93-059bfd8a20e6,cbc4ac70-0a4c-4973-a366-dd67d8901e21,mythic,Nonfoil,,black,universesbeyond,,,Artifact Creature — Elemental,{8},8.0,
 TRK,Star Trek,Cybernetic Specialist,262,89b3493d-072b-538f-b679-b04b6e7acc1b,b147f16e-a2d6-4d43-9213-9a2723b0d3ef,common,Foil,,black,universesbeyond,,,Artifact Creature — Human Scientist,{2},2.0,
 TRK,Star Trek,Cybernetic Specialist,262,89b3493d-072b-538f-b679-b04b6e7acc1b,b147f16e-a2d6-4d43-9213-9a2723b0d3ef,common,Nonfoil,,black,universesbeyond,,,Artifact Creature — Human Scientist,{2},2.0,
+TRK,Star Trek,Deep Space 9,263,43d6e4bf-ef02-5401-b11b-8e8e9c9ea298,76b039c5-e0a1-410a-954b-52f304e31f7f,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
+TRK,Star Trek,Deep Space 9,263,43d6e4bf-ef02-5401-b11b-8e8e9c9ea298,76b039c5-e0a1-410a-954b-52f304e31f7f,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
+TRK,Star Trek,Engineered Explosives,264,19591c3b-429f-5c1c-8cc8-6cf95e7c258e,ef2d8db7-3f86-4d87-97ca-368444dc7f16,rare,Foil,,black,,,True,Artifact,{X},0.0,
+TRK,Star Trek,Engineered Explosives,264,19591c3b-429f-5c1c-8cc8-6cf95e7c258e,ef2d8db7-3f86-4d87-97ca-368444dc7f16,rare,Nonfoil,,black,,,True,Artifact,{X},0.0,
+TRK,Star Trek,The Holodeck,265,41ccd545-c963-52ca-adad-c938b3f3fe84,57e830f5-564d-4899-87c0-74192c561fc8,rare,Foil,legendary,black,,,,Legendary Artifact,{7},7.0,
+TRK,Star Trek,The Holodeck,265,41ccd545-c963-52ca-adad-c938b3f3fe84,57e830f5-564d-4899-87c0-74192c561fc8,rare,Nonfoil,legendary,black,,,,Legendary Artifact,{7},7.0,
+TRK,Star Trek,Replicator,267,02f09999-16cf-5170-827c-5be6c95730f0,ae846f45-d87b-47d4-87f6-2d9aa19c3c40,rare,Foil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,Replicator,267,02f09999-16cf-5170-827c-5be6c95730f0,ae846f45-d87b-47d4-87f6-2d9aa19c3c40,rare,Nonfoil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,"Tea, Earl Grey, Hot",269,47f24ecb-f2bb-5295-b029-df825851869e,289e8ebe-ab0f-466b-a4e6-d5cf8411e724,common,Foil,,black,,,,Artifact — Food,{2},2.0,
+TRK,Star Trek,"Tea, Earl Grey, Hot",269,47f24ecb-f2bb-5295-b029-df825851869e,289e8ebe-ab0f-466b-a4e6-d5cf8411e724,common,Nonfoil,,black,,,,Artifact — Food,{2},2.0,
+TRK,Star Trek,Tricorder,270,4c2b3fc3-e898-5bb9-9166-5a32457db1e2,3c872f02-80ac-49e3-a777-3526d35ad7cc,common,Foil,,black,,,,Artifact — Equipment,{1},1.0,
+TRK,Star Trek,Tricorder,270,4c2b3fc3-e898-5bb9-9166-5a32457db1e2,3c872f02-80ac-49e3-a777-3526d35ad7cc,common,Nonfoil,,black,,,,Artifact — Equipment,{1},1.0,
+TRK,Star Trek,Type-2 Phaser,271,1708e6b5-0dcb-5532-bd02-ecdf7c86ca9d,c704af22-7c42-45c7-b3a4-b414c4dd8e05,uncommon,Foil,,black,,,,Artifact — Equipment,{2},2.0,
+TRK,Star Trek,Type-2 Phaser,271,1708e6b5-0dcb-5532-bd02-ecdf7c86ca9d,c704af22-7c42-45c7-b3a4-b414c4dd8e05,uncommon,Nonfoil,,black,,,,Artifact — Equipment,{2},2.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",273,19961f41-a22e-5fc5-bf94-9bd2f17e7370,057a4413-6a17-491e-bfd7-6cd427b1a442,rare,Foil,legendary,black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",273,19961f41-a22e-5fc5-bf94-9bd2f17e7370,057a4413-6a17-491e-bfd7-6cd427b1a442,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
+TRK,Star Trek,Warp Core,274,5502a2af-bf14-5eb2-a4e3-521575cebf02,de8e2bde-b368-4d10-8409-86f5da6997f6,common,Foil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,Warp Core,274,5502a2af-bf14-5eb2-a4e3-521575cebf02,de8e2bde-b368-4d10-8409-86f5da6997f6,common,Nonfoil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,Andoria,275,3127fb73-0360-59e2-8309-5c3dd94aca1d,0e9e72ef-3e34-4d19-aec0-b5e1ba84d244,common,Foil,,black,,,,Land — Planet,,0.0,"R, U"
+TRK,Star Trek,Andoria,275,3127fb73-0360-59e2-8309-5c3dd94aca1d,0e9e72ef-3e34-4d19-aec0-b5e1ba84d244,common,Nonfoil,,black,,,,Land — Planet,,0.0,"R, U"
+TRK,Star Trek,Bajor,277,099300d6-ef1b-52df-a0f3-0fd528d75e50,ff5254a6-4961-4604-b65b-2eb0ce9b1c82,common,Foil,,black,,,,Land — Planet,,0.0,"R, W"
+TRK,Star Trek,Bajor,277,099300d6-ef1b-52df-a0f3-0fd528d75e50,ff5254a6-4961-4604-b65b-2eb0ce9b1c82,common,Nonfoil,,black,,,,Land — Planet,,0.0,"R, W"
 TRK,Star Trek,Blood Crypt,278,bf5c449e-586b-5b9b-9659-838cc37fdbf6,1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316,rare,Foil,,black,universesbeyond,,True,Land — Swamp Mountain,,0.0,"B, R"
 TRK,Star Trek,Blood Crypt,278,bf5c449e-586b-5b9b-9659-838cc37fdbf6,1b7eb998-3ec0-4cbc-a416-5a1e3e5a7316,rare,Nonfoil,,black,universesbeyond,,True,Land — Swamp Mountain,,0.0,"B, R"
 TRK,Star Trek,Breeding Pool,279,4393cca5-bf6c-59ed-8116-deba2aa399c1,63e4dc07-c742-41bd-8301-861637908fd1,rare,Foil,,black,universesbeyond,,True,Land — Forest Island,,0.0,"G, U"
 TRK,Star Trek,Breeding Pool,279,4393cca5-bf6c-59ed-8116-deba2aa399c1,63e4dc07-c742-41bd-8301-861637908fd1,rare,Nonfoil,,black,universesbeyond,,True,Land — Forest Island,,0.0,"G, U"
+TRK,Star Trek,Cardassia Prime,280,f5ef105a-31f4-50e7-9684-1cc30eeadc90,d634424f-9148-46a5-95e3-4965a9226bb4,common,Foil,,black,,,,Land — Planet,,0.0,"B, W"
+TRK,Star Trek,Cardassia Prime,280,f5ef105a-31f4-50e7-9684-1cc30eeadc90,d634424f-9148-46a5-95e3-4965a9226bb4,common,Nonfoil,,black,,,,Land — Planet,,0.0,"B, W"
+TRK,Star Trek,"Earth, Sector 001",281,d5fec360-ceaf-5ed6-bd99-3ed429456096,5278d354-97c4-4c21-a902-2f9252b151eb,common,Foil,,black,,,,Land — Planet,,0.0,"G, U"
+TRK,Star Trek,"Earth, Sector 001",281,d5fec360-ceaf-5ed6-bd99-3ed429456096,5278d354-97c4-4c21-a902-2f9252b151eb,common,Nonfoil,,black,,,,Land — Planet,,0.0,"G, U"
+TRK,Star Trek,Federation Outpost,282,261bd217-76d5-5f4b-a6c8-1316431ccae4,02e368bd-ece8-4201-8d1a-4c5287d5cfee,rare,Foil,,black,,,,Land,,0.0,W
+TRK,Star Trek,Federation Outpost,282,261bd217-76d5-5f4b-a6c8-1316431ccae4,02e368bd-ece8-4201-8d1a-4c5287d5cfee,rare,Nonfoil,,black,,,,Land,,0.0,W
+TRK,Star Trek,Ferenginar,283,141c0d07-a043-5102-9f40-dca14363c856,17fab75f-7ff9-4c50-a6f7-03a85cd275bf,common,Foil,,black,,,,Land — Planet,,0.0,"B, G"
+TRK,Star Trek,Ferenginar,283,141c0d07-a043-5102-9f40-dca14363c856,17fab75f-7ff9-4c50-a6f7-03a85cd275bf,common,Nonfoil,,black,,,,Land — Planet,,0.0,"B, G"
 TRK,Star Trek,Godless Shrine,285,c9e56324-a56f-5c7e-b31f-395883a1eede,8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6,rare,Foil,,black,universesbeyond,,True,Land — Plains Swamp,,0.0,"B, W"
 TRK,Star Trek,Godless Shrine,285,c9e56324-a56f-5c7e-b31f-395883a1eede,8fbd1ae0-3d4c-492a-a1ea-85a95fa3d7b6,rare,Nonfoil,,black,universesbeyond,,True,Land — Plains Swamp,,0.0,"B, W"
 TRK,Star Trek,Hallowed Fountain,286,dae2e383-f4bd-522a-83b7-5772f169ac96,b7285986-7e08-4969-86ef-452dc5bfdd9f,rare,Foil,,black,universesbeyond,,True,Land — Plains Island,,0.0,"U, W"
 TRK,Star Trek,Hallowed Fountain,286,dae2e383-f4bd-522a-83b7-5772f169ac96,b7285986-7e08-4969-86ef-452dc5bfdd9f,rare,Nonfoil,,black,universesbeyond,,True,Land — Plains Island,,0.0,"U, W"
+TRK,Star Trek,Orion,288,18a4788d-cacf-56a8-b478-ff508e60c34f,dec37ff4-d6e9-4b87-865b-125b17162465,common,Foil,,black,,,,Land — Planet,,0.0,"G, R"
+TRK,Star Trek,Orion,288,18a4788d-cacf-56a8-b478-ff508e60c34f,dec37ff4-d6e9-4b87-865b-125b17162465,common,Nonfoil,,black,,,,Land — Planet,,0.0,"G, R"
 TRK,Star Trek,Overgrown Tomb,289,7f5e8653-8819-5d77-8d73-776f142eaf72,ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd,rare,Foil,,black,universesbeyond,,True,Land — Swamp Forest,,0.0,"B, G"
 TRK,Star Trek,Overgrown Tomb,289,7f5e8653-8819-5d77-8d73-776f142eaf72,ad7e18e2-c033-4b6c-86e8-d0e5cc824cfd,rare,Nonfoil,,black,universesbeyond,,True,Land — Swamp Forest,,0.0,"B, G"
+TRK,Star Trek,Qo'noS,291,bf682f70-c0ed-58c3-8b6c-e97207c0f1a9,f1558d93-8a8a-45e0-bcdc-e6cd42f716dc,common,Foil,,black,,,,Land — Planet,,0.0,"B, R"
+TRK,Star Trek,Qo'noS,291,bf682f70-c0ed-58c3-8b6c-e97207c0f1a9,f1558d93-8a8a-45e0-bcdc-e6cd42f716dc,common,Nonfoil,,black,,,,Land — Planet,,0.0,"B, R"
+TRK,Star Trek,Quark's Bar,292,875c5a30-f262-5fe1-b89d-0002bd86bb98,8422ee4a-9845-429d-bda8-74852168dcba,rare,Foil,,black,,,,Land,,0.0,R
+TRK,Star Trek,Quark's Bar,292,875c5a30-f262-5fe1-b89d-0002bd86bb98,8422ee4a-9845-429d-bda8-74852168dcba,rare,Nonfoil,,black,,,,Land,,0.0,R
+TRK,Star Trek,Risa,293,ec5125c8-2af5-5b34-9b3e-8fe488f3ff61,c89e7680-9868-4fea-9aaf-6af03bfa0692,common,Foil,,black,,,,Land — Planet,,0.0,"G, W"
+TRK,Star Trek,Risa,293,ec5125c8-2af5-5b34-9b3e-8fe488f3ff61,c89e7680-9868-4fea-9aaf-6af03bfa0692,common,Nonfoil,,black,,,,Land — Planet,,0.0,"G, W"
+TRK,Star Trek,Romulus,294,574e2444-1d7e-5e5d-bf95-09e3b20edce7,1bce111b-b07c-4589-9b6d-f0b5f320808c,common,Foil,,black,,,,Land — Planet,,0.0,"B, U"
+TRK,Star Trek,Romulus,294,574e2444-1d7e-5e5d-bf95-09e3b20edce7,1bce111b-b07c-4589-9b6d-f0b5f320808c,common,Nonfoil,,black,,,,Land — Planet,,0.0,"B, U"
 TRK,Star Trek,Sacred Foundry,295,25277931-59af-5c66-b356-80701b087fec,a7758cc6-4e18-48a5-8720-5f42b5cd9d31,rare,Foil,,black,universesbeyond,,True,Land — Mountain Plains,,0.0,"R, W"
 TRK,Star Trek,Sacred Foundry,295,25277931-59af-5c66-b356-80701b087fec,a7758cc6-4e18-48a5-8720-5f42b5cd9d31,rare,Nonfoil,,black,universesbeyond,,True,Land — Mountain Plains,,0.0,"R, W"
+TRK,Star Trek,Starfleet Academy,297,c8aaf77d-0ff8-5a16-af5f-53294457e8c9,2da8d3bf-4397-4844-90d6-dd888becc804,mythic,Foil,legendary,black,,,,Legendary Land,,0.0,
+TRK,Star Trek,Starfleet Academy,297,c8aaf77d-0ff8-5a16-af5f-53294457e8c9,2da8d3bf-4397-4844-90d6-dd888becc804,mythic,Nonfoil,legendary,black,,,,Legendary Land,,0.0,
 TRK,Star Trek,Steam Vents,298,c5b6d682-8b5b-5ce0-ae15-39e7127a8a70,a83903c7-fd51-4526-aed2-359e946fea36,rare,Foil,,black,universesbeyond,,True,Land — Island Mountain,,0.0,"R, U"
 TRK,Star Trek,Steam Vents,298,c5b6d682-8b5b-5ce0-ae15-39e7127a8a70,a83903c7-fd51-4526-aed2-359e946fea36,rare,Nonfoil,,black,universesbeyond,,True,Land — Island Mountain,,0.0,"R, U"
 TRK,Star Trek,Stomping Ground,299,70bb90db-2fb8-5b88-983e-295aad140991,1ee8255a-44f6-4faa-9843-15432bf751ea,rare,Foil,,black,universesbeyond,,True,Land — Mountain Forest,,0.0,"G, R"
 TRK,Star Trek,Stomping Ground,299,70bb90db-2fb8-5b88-983e-295aad140991,1ee8255a-44f6-4faa-9843-15432bf751ea,rare,Nonfoil,,black,universesbeyond,,True,Land — Mountain Forest,,0.0,"G, R"
 TRK,Star Trek,Temple Garden,301,55a8dc91-16cd-50c2-b200-0d8c298ced59,b9b0589d-f327-46a7-8bac-06b7654c547a,rare,Foil,,black,universesbeyond,,True,Land — Forest Plains,,0.0,"G, W"
 TRK,Star Trek,Temple Garden,301,55a8dc91-16cd-50c2-b200-0d8c298ced59,b9b0589d-f327-46a7-8bac-06b7654c547a,rare,Nonfoil,,black,universesbeyond,,True,Land — Forest Plains,,0.0,"G, W"
+TRK,Star Trek,Unexplored Territory,303,a2a13754-71b1-5eed-852b-a0375b479884,ca1e60f1-11a9-4bb8-9f6e-5b652b49c517,common,Foil,,black,,,,Land,,0.0,
+TRK,Star Trek,Unexplored Territory,303,a2a13754-71b1-5eed-852b-a0375b479884,ca1e60f1-11a9-4bb8-9f6e-5b652b49c517,common,Nonfoil,,black,,,,Land,,0.0,
+TRK,Star Trek,The Unicomplex,304,d5d40082-5b54-53b3-a00d-0a449cd56cb2,4c881efb-d55b-45fe-9e5a-8a61aec6fbbb,rare,Foil,,black,,,,Land,,0.0,B
+TRK,Star Trek,The Unicomplex,304,d5d40082-5b54-53b3-a00d-0a449cd56cb2,4c881efb-d55b-45fe-9e5a-8a61aec6fbbb,rare,Nonfoil,,black,,,,Land,,0.0,B
+TRK,Star Trek,Vulcan,305,15866261-e38e-5f69-8305-2796414e0ad4,fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc,common,Foil,,black,,,,Land — Planet,,0.0,"U, W"
+TRK,Star Trek,Vulcan,305,15866261-e38e-5f69-8305-2796414e0ad4,fc3fe0da-8d93-4f1c-9aad-c2fdc9fe34fc,common,Nonfoil,,black,,,,Land — Planet,,0.0,"U, W"
 TRK,Star Trek,Watery Grave,306,a3bb8103-05a2-5341-b965-d6c7b4ba2d59,5525d6a6-e532-4047-9da4-bfae7927fecc,rare,Foil,,black,universesbeyond,,True,Land — Island Swamp,,0.0,"B, U"
 TRK,Star Trek,Watery Grave,306,a3bb8103-05a2-5341-b965-d6c7b4ba2d59,5525d6a6-e532-4047-9da4-bfae7927fecc,rare,Nonfoil,,black,universesbeyond,,True,Land — Island Swamp,,0.0,"B, U"
+TRK,Star Trek,Plains,307,5a05f8c7-2f4f-527b-879d-6e89fe75bd51,6b2fba64-b85f-42bc-991e-4bb6201b78fb,common,Foil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Plains,307,5a05f8c7-2f4f-527b-879d-6e89fe75bd51,6b2fba64-b85f-42bc-991e-4bb6201b78fb,common,Nonfoil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Island,308,60cda1a6-7b03-5a4b-aebc-442cf5cc6b22,1c5b534a-128f-4235-8f69-646a55ae4d67,common,Foil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Island,308,60cda1a6-7b03-5a4b-aebc-442cf5cc6b22,1c5b534a-128f-4235-8f69-646a55ae4d67,common,Nonfoil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Swamp,309,e01ab5f3-8c74-55a0-8776-616bc41d96f3,b4e1965a-dbab-4edb-ada9-43898c57c5fe,common,Foil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Swamp,309,e01ab5f3-8c74-55a0-8776-616bc41d96f3,b4e1965a-dbab-4edb-ada9-43898c57c5fe,common,Nonfoil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Mountain,310,cc3c0873-6a76-5975-bd8f-ba2efa4fe16c,87908c55-4ac4-4b57-a8ee-a28640a18f0f,common,Foil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Mountain,310,cc3c0873-6a76-5975-bd8f-ba2efa4fe16c,87908c55-4ac4-4b57-a8ee-a28640a18f0f,common,Nonfoil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Forest,311,e02c5b46-b329-5741-8f72-5bad5c557c86,f026379b-f00f-4897-b03f-dd164d69b925,common,Foil,,black,,,True,Basic Land — Forest,,0.0,G
+TRK,Star Trek,Forest,311,e02c5b46-b329-5741-8f72-5bad5c557c86,f026379b-f00f-4897-b03f-dd164d69b925,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
+TRK,Star Trek,Plains,312,07bc33f3-4d4f-5d9f-9d0a-04fbbd6db34b,b741bbf0-40b3-4ee7-9844-cecc64cb0840,common,Foil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Plains,312,07bc33f3-4d4f-5d9f-9d0a-04fbbd6db34b,b741bbf0-40b3-4ee7-9844-cecc64cb0840,common,Nonfoil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Island,313,50f47e9f-6da5-58e7-b877-e29db1725430,ee2e4482-afad-41ae-9e1a-120e805c4563,common,Foil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Island,313,50f47e9f-6da5-58e7-b877-e29db1725430,ee2e4482-afad-41ae-9e1a-120e805c4563,common,Nonfoil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Swamp,314,7a231c1a-9d38-597a-95dc-40dceb086ae4,e046c0ef-0af3-4f48-8329-7d659e7d1a89,common,Foil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Swamp,314,7a231c1a-9d38-597a-95dc-40dceb086ae4,e046c0ef-0af3-4f48-8329-7d659e7d1a89,common,Nonfoil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Mountain,315,a65cfabd-56de-5ab7-a4ee-2e341809e9ef,81564344-1c9b-4fac-8a7d-682f57331d61,common,Foil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Mountain,315,a65cfabd-56de-5ab7-a4ee-2e341809e9ef,81564344-1c9b-4fac-8a7d-682f57331d61,common,Nonfoil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Forest,316,5aaf4b9f-8ef2-5651-bf4d-b3d0edf10afc,c7ca6a54-f4e9-45f0-abb0-db14922cf157,common,Foil,,black,,,True,Basic Land — Forest,,0.0,G
+TRK,Star Trek,Forest,316,5aaf4b9f-8ef2-5651-bf4d-b3d0edf10afc,c7ca6a54-f4e9-45f0-abb0-db14922cf157,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
 TRK,Star Trek,Plains,317,4e4a6b85-6a0e-5100-8025-0fe97dcac362,8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c,common,Foil,,black,universesbeyond,,True,Basic Land — Plains,,0.0,W
 TRK,Star Trek,Plains,317,4e4a6b85-6a0e-5100-8025-0fe97dcac362,8ab0f4c0-b331-4c57-b68f-2e24bb5ba06c,common,Nonfoil,,black,universesbeyond,,True,Basic Land — Plains,,0.0,W
 TRK,Star Trek,Plains,318,57291522-0fe4-533b-9200-ff36e57c518c,09b3c8bb-10ca-4b9f-8507-db6e8c52a918,common,Foil,,black,universesbeyond,,True,Basic Land — Plains,,0.0,W
@@ -128243,14 +128554,88 @@ TRK,Star Trek,Forest,325,d247cc06-de08-519d-a409-03b35126210a,dce15387-4114-4b3e
 TRK,Star Trek,Forest,325,d247cc06-de08-519d-a409-03b35126210a,dce15387-4114-4b3e-91aa-5b42b45c44ac,common,Nonfoil,,black,universesbeyond,,True,Basic Land — Forest,,0.0,G
 TRK,Star Trek,Forest,326,c6a547a9-49d6-585e-b130-398476ca4105,4fae200d-5757-4924-8cf4-ab2a5ef2ccc0,common,Foil,,black,universesbeyond,,True,Basic Land — Forest,,0.0,G
 TRK,Star Trek,Forest,326,c6a547a9-49d6-585e-b130-398476ca4105,4fae200d-5757-4924-8cf4-ab2a5ef2ccc0,common,Nonfoil,,black,universesbeyond,,True,Basic Land — Forest,,0.0,G
+TRK,Star Trek,Federation Outpost,332,580f192c-3fda-5caa-8e07-f7b3ddce0b63,85859d4c-c90c-48f4-bac0-75fcccf1b1f4,rare,Foil,,black,,,,Land,,0.0,W
+TRK,Star Trek,Federation Outpost,332,580f192c-3fda-5caa-8e07-f7b3ddce0b63,85859d4c-c90c-48f4-bac0-75fcccf1b1f4,rare,Nonfoil,,black,,,,Land,,0.0,W
+TRK,Star Trek,Quark's Bar,335,88296b9d-b279-50de-b168-8bfa711d20b2,b846d3f5-7937-4282-9fa3-95b2f134676b,rare,Foil,,black,,,,Land,,0.0,R
+TRK,Star Trek,Quark's Bar,335,88296b9d-b279-50de-b168-8bfa711d20b2,b846d3f5-7937-4282-9fa3-95b2f134676b,rare,Nonfoil,,black,,,,Land,,0.0,R
+TRK,Star Trek,Starfleet Academy,336,b8f0581e-d54f-5419-b76c-f3a3bbb541d5,eea2dc59-10e9-481b-b2c3-bbf44253ed56,mythic,Foil,legendary,black,,,,Legendary Land,,0.0,
+TRK,Star Trek,Starfleet Academy,336,b8f0581e-d54f-5419-b76c-f3a3bbb541d5,eea2dc59-10e9-481b-b2c3-bbf44253ed56,mythic,Nonfoil,legendary,black,,,,Legendary Land,,0.0,
+TRK,Star Trek,The Unicomplex,337,1e98ddf5-0b5a-5db4-a787-105a32f82649,751eedef-1d14-44cf-bb52-99f8ada888b9,rare,Foil,,black,,,,Land,,0.0,B
+TRK,Star Trek,The Unicomplex,337,1e98ddf5-0b5a-5db4-a787-105a32f82649,751eedef-1d14-44cf-bb52-99f8ada888b9,rare,Nonfoil,,black,,,,Land,,0.0,B
+TRK,Star Trek,Resistance Is Futile,338,9fde8259-fec6-518c-ba55-ce75837e8c85,a092e283-24d5-47ec-a9cf-7d589a3121a4,uncommon,Foil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,Resistance Is Futile,338,9fde8259-fec6-518c-ba55-ce75837e8c85,a092e283-24d5-47ec-a9cf-7d589a3121a4,uncommon,Nonfoil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,Test of Courage,339,789e711d-ee27-5657-858c-d812543dfd81,6cd8c8e4-a32e-4644-a990-70c649ce8985,uncommon,Foil,,black,,,,Instant,{G},1.0,G
+TRK,Star Trek,Test of Courage,339,789e711d-ee27-5657-858c-d812543dfd81,6cd8c8e4-a32e-4644-a990-70c649ce8985,uncommon,Nonfoil,,black,,,,Instant,{G},1.0,G
 TRK,Star Trek,Captain Kathryn Janeway,340,375dad3d-b040-55d0-958a-6b141f76375c,b16da038-5e35-4cd7-a157-624d4ed6bde3,mythic,Foil,"inverted, legendary",borderless,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
 TRK,Star Trek,Captain Kathryn Janeway,340,375dad3d-b040-55d0-958a-6b141f76375c,b16da038-5e35-4cd7-a157-624d4ed6bde3,mythic,Nonfoil,"inverted, legendary",borderless,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
+TRK,Star Trek,Command Subadjunct,341,88321b14-16ec-5d7d-a148-67d458415586,f5435570-e78b-43cb-9b77-d80b92e07c2b,uncommon,Foil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Command Subadjunct,341,88321b14-16ec-5d7d-a148-67d458415586,f5435570-e78b-43cb-9b77-d80b92e07c2b,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Conquest Mission,342,c076aa66-a380-524f-8eed-a02db391ecde,be8d8f65-211e-47d7-973c-f44537b43826,uncommon,Foil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
+TRK,Star Trek,Conquest Mission,342,c076aa66-a380-524f-8eed-a02db391ecde,be8d8f65-211e-47d7-973c-f44537b43826,uncommon,Nonfoil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
 TRK,Star Trek,Seven of Nine,343,d20a7449-5f3c-5f51-bb22-ce756e34ff67,8cbe8fea-9c49-4d11-be37-4bc9eb03a406,uncommon,Foil,"inverted, legendary",borderless,universesbeyond,,,Legendary Artifact Creature — Human Scientist,{2}{U}{B},4.0,"B, U"
 TRK,Star Trek,Seven of Nine,343,d20a7449-5f3c-5f51-bb22-ce756e34ff67,8cbe8fea-9c49-4d11-be37-4bc9eb03a406,uncommon,Nonfoil,"inverted, legendary",borderless,universesbeyond,,,Legendary Artifact Creature — Human Scientist,{2}{U}{B},4.0,"B, U"
+TRK,Star Trek,Captain Benjamin Sisko,344,ed51f26d-2145-5f4d-b523-aa5f88ae307c,c1344601-3f86-4910-b5ad-d7e1e58d851d,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{W},2.0,"B, G, R, U, W"
+TRK,Star Trek,Captain Benjamin Sisko,344,ed51f26d-2145-5f4d-b523-aa5f88ae307c,c1344601-3f86-4910-b5ad-d7e1e58d851d,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{W},2.0,"B, G, R, U, W"
+TRK,Star Trek,Dominion Saboteur,345,996b7f5c-b03b-54d4-bdad-ec258f3390b5,aabf7d12-f802-422e-a57c-24f5a2858c83,uncommon,Foil,,black,,,,Creature — Shapeshifter,{4}{U},5.0,U
+TRK,Star Trek,Dominion Saboteur,345,996b7f5c-b03b-54d4-bdad-ec258f3390b5,aabf7d12-f802-422e-a57c-24f5a2858c83,uncommon,Nonfoil,,black,,,,Creature — Shapeshifter,{4}{U},5.0,U
+TRK,Star Trek,The Holodeck,346,4ea503fb-60dc-5409-8de4-4d52ab233a3c,19366f88-8411-428b-9903-8c9527686cac,rare,Foil,legendary,black,,,,Legendary Artifact,{7},7.0,
+TRK,Star Trek,The Holodeck,346,4ea503fb-60dc-5409-8de4-4d52ab233a3c,19366f88-8411-428b-9903-8c9527686cac,rare,Nonfoil,legendary,black,,,,Legendary Artifact,{7},7.0,
+TRK,Star Trek,"Quark, Humble Proprietor",347,c495a2f3-633f-5ec2-8382-21f4bb181105,c06bc240-4dd2-4b77-be94-aecb882ea734,mythic,Foil,legendary,black,,,,Legendary Creature — Ferengi Rogue,{2}{R},3.0,R
+TRK,Star Trek,"Quark, Humble Proprietor",347,c495a2f3-633f-5ec2-8382-21f4bb181105,c06bc240-4dd2-4b77-be94-aecb882ea734,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Ferengi Rogue,{2}{R},3.0,R
+TRK,Star Trek,Constable Odo,348,8ca70c84-caaa-51f9-a358-bfb9267287f2,c0d0b4ee-72f6-45b6-8911-e3ef979e40a0,uncommon,Foil,legendary,black,,,,Legendary Creature — Shapeshifter Detective,{3}{W/U}{W/U},5.0,"U, W"
+TRK,Star Trek,Constable Odo,348,8ca70c84-caaa-51f9-a358-bfb9267287f2,c0d0b4ee-72f6-45b6-8911-e3ef979e40a0,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Shapeshifter Detective,{3}{W/U}{W/U},5.0,"U, W"
+TRK,Star Trek,Quark's Bar,350,c9152b07-e8e5-5ca6-b4bf-662b80706ecb,ac124e83-bb99-4bf0-ac06-364d77771e81,rare,Foil,,black,,,,Land,,0.0,R
+TRK,Star Trek,Quark's Bar,350,c9152b07-e8e5-5ca6-b4bf-662b80706ecb,ac124e83-bb99-4bf0-ac06-364d77771e81,rare,Nonfoil,,black,,,,Land,,0.0,R
+TRK,Star Trek,"Mr. Spock, Science Officer",353,01a2aef9-89cd-567d-a705-bfdf0055e0b8,7dd9dec1-5793-4514-8a15-c3bce21a5115,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",353,01a2aef9-89cd-567d-a705-bfdf0055e0b8,7dd9dec1-5793-4514-8a15-c3bce21a5115,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,Mirror Universe Intrusion,354,f35dbc6d-6e00-5876-a75f-d715a951618b,99d6cd44-bf0d-436f-a398-e3bce9532dc9,rare,Foil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,Mirror Universe Intrusion,354,f35dbc6d-6e00-5876-a75f-d715a951618b,99d6cd44-bf0d-436f-a398-e3bce9532dc9,rare,Nonfoil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,"Kirk, Commanding Officer",355,f475badb-e951-5630-8883-58feaa8d4bf0,84f6d529-33f7-4bdf-8ee0-43f5c4e8de6a,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Officer,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Kirk, Commanding Officer",355,f475badb-e951-5630-8883-58feaa8d4bf0,84f6d529-33f7-4bdf-8ee0-43f5c4e8de6a,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Nyota Uhura, Communications",358,2a39fe19-bc3a-597c-8daf-787ed16ed042,fa9755ba-831d-47a2-a172-d2bfb13edefe,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",358,2a39fe19-bc3a-597c-8daf-787ed16ed042,fa9755ba-831d-47a2-a172-d2bfb13edefe,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,359,b92bf7df-2654-5a88-a9c5-d66c3afd2e2b,f10ee26b-7ea8-4cd0-83f6-b9a8ac94cb0b,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,359,b92bf7df-2654-5a88-a9c5-d66c3afd2e2b,f10ee26b-7ea8-4cd0-83f6-b9a8ac94cb0b,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,"Locutus, the One Who Speaks",360,fcba4b64-63eb-59c0-9c70-56605b995eef,ee059c0f-eba9-4504-a92e-af762a510ee4,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",360,fcba4b64-63eb-59c0-9c70-56605b995eef,ee059c0f-eba9-4504-a92e-af762a510ee4,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,Death Is Irrelevant,362,e87aa22f-8981-56fd-bf94-f849125aff78,905277a1-ae6b-4876-a724-3d58a84f76cf,mythic,Foil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Death Is Irrelevant,362,e87aa22f-8981-56fd-bf94-f849125aff78,905277a1-ae6b-4876-a724-3d58a84f76cf,mythic,Nonfoil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Captain Jean-Luc Picard,363,79d20590-e706-5b0f-a6db-5fb7f2a489e0,566c03c3-aedd-4bd0-8932-e1b279e53c68,mythic,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
+TRK,Star Trek,Captain Jean-Luc Picard,363,79d20590-e706-5b0f-a6db-5fb7f2a489e0,566c03c3-aedd-4bd0-8932-e1b279e53c68,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
+TRK,Star Trek,Command Subadjunct,364,fbfdd6d4-cce5-5e40-b9b0-f72cc05a61ac,f2b6ca53-11de-4c63-a0ac-c9fa9a65c43e,uncommon,Foil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Command Subadjunct,364,fbfdd6d4-cce5-5e40-b9b0-f72cc05a61ac,f2b6ca53-11de-4c63-a0ac-c9fa9a65c43e,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{W},1.0,W
 TRK,Star Trek,Dr. Beverly Crusher,366,7085f87b-81bc-5422-b45b-8f29c917d145,15d800b3-f5ed-4267-b2e7-5de83a207512,mythic,Foil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Doctor,{2}{W},3.0,W
 TRK,Star Trek,Dr. Beverly Crusher,366,7085f87b-81bc-5422-b45b-8f29c917d145,15d800b3-f5ed-4267-b2e7-5de83a207512,mythic,Nonfoil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Doctor,{2}{W},3.0,W
+TRK,Star Trek,Peace in Our Time,367,9c0f335b-2550-5bfd-9a07-e7e9ddde9a4f,54da7aa7-3049-4f2a-a92e-62a0a7386de8,rare,Foil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Peace in Our Time,367,9c0f335b-2550-5bfd-9a07-e7e9ddde9a4f,54da7aa7-3049-4f2a-a92e-62a0a7386de8,rare,Nonfoil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,368,2336a28a-6234-59d3-878d-3b21136ebb97,59ce5cdb-3e08-4de1-9335-aafeddfd1829,rare,Foil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,368,2336a28a-6234-59d3-878d-3b21136ebb97,59ce5cdb-3e08-4de1-9335-aafeddfd1829,rare,Nonfoil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,There's Coffee in that Nebula,369,47fbad4b-649f-5d69-a4d8-512a19b476c7,07b3f211-1ff1-47c3-9063-9a1ac0fd814c,uncommon,Foil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,There's Coffee in that Nebula,369,47fbad4b-649f-5d69-a4d8-512a19b476c7,07b3f211-1ff1-47c3-9063-9a1ac0fd814c,uncommon,Nonfoil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Deep Space Scan,370,e19bfb85-299a-5991-a353-99d946c1d3fb,c53011f4-e2fb-480b-9eda-660e878a7b6a,rare,Foil,,black,,,,Sorcery,{4}{U}{U},6.0,U
+TRK,Star Trek,Deep Space Scan,370,e19bfb85-299a-5991-a353-99d946c1d3fb,c53011f4-e2fb-480b-9eda-660e878a7b6a,rare,Nonfoil,,black,,,,Sorcery,{4}{U}{U},6.0,U
+TRK,Star Trek,Lieutenant Commander Data,371,7ac5b61a-6a15-537b-8613-2dd15e779ee6,4753a94e-5a5c-4246-bcf4-907eb892507b,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,371,7ac5b61a-6a15-537b-8613-2dd15e779ee6,4753a94e-5a5c-4246-bcf4-907eb892507b,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,372,a8707705-5821-52bc-b239-8273f4ebae8f,df9efa59-ef01-473d-b32a-8328dcf01130,rare,Foil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,372,a8707705-5821-52bc-b239-8273f4ebae8f,df9efa59-ef01-473d-b32a-8328dcf01130,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",373,3d5f72df-f31f-5eed-a5cb-4359a3c00626,ea6e116e-4086-42be-baf3-48255002d5d1,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",373,3d5f72df-f31f-5eed-a5cb-4359a3c00626,ea6e116e-4086-42be-baf3-48255002d5d1,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,Death Is Irrelevant,375,3a605da1-001c-5129-a433-6683851254de,835a6118-a234-4db4-95d9-68b7af21ad87,mythic,Foil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Death Is Irrelevant,375,3a605da1-001c-5129-a433-6683851254de,835a6118-a234-4db4-95d9-68b7af21ad87,mythic,Nonfoil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Organic Avulsion Unit,376,df1d0d3f-6a67-56ad-b811-402dbd1ce5a3,74029de7-fb85-440d-b149-4b820c41eaa5,uncommon,Foil,,black,,,,Artifact Creature — Borg,{2}{B},3.0,B
+TRK,Star Trek,Organic Avulsion Unit,376,df1d0d3f-6a67-56ad-b811-402dbd1ce5a3,74029de7-fb85-440d-b149-4b820c41eaa5,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{2}{B},3.0,B
+TRK,Star Trek,Resistance Is Futile,378,8b156df5-a23a-5418-8090-f4fd85b60c2c,e6707e65-388b-4579-8c8d-77307b8208c1,uncommon,Foil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,Resistance Is Futile,378,8b156df5-a23a-5418-8090-f4fd85b60c2c,e6707e65-388b-4579-8c8d-77307b8208c1,uncommon,Nonfoil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,"Q, Stacking the Deck",383,89244c26-dce0-5bcd-a1a9-871a17007259,881693cb-1492-4347-88a5-e96dc907744b,mythic,Foil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
+TRK,Star Trek,"Q, Stacking the Deck",383,89244c26-dce0-5bcd-a1a9-871a17007259,881693cb-1492-4347-88a5-e96dc907744b,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
 TRK,Star Trek,Captain Kathryn Janeway,386,665a3b13-cd3e-5faa-9877-71417a74d364,ac990bba-7b0c-4235-9726-b944d66952ab,mythic,Foil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
 TRK,Star Trek,Captain Kathryn Janeway,386,665a3b13-cd3e-5faa-9877-71417a74d364,ac990bba-7b0c-4235-9726-b944d66952ab,mythic,Nonfoil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Officer,{3}{G},4.0,G
+TRK,Star Trek,"Locutus, the One Who Speaks",389,1c994f18-d14a-5aa4-b4ba-08091421eff5,15387ef2-c761-4906-8909-4cf7dddefd9b,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",389,1c994f18-d14a-5aa4-b4ba-08091421eff5,15387ef2-c761-4906-8909-4cf7dddefd9b,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",390,9e829489-779b-57b5-b604-2d913281f0e6,f237dcef-f193-4484-a616-66cb9423c409,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",390,9e829489-779b-57b5-b604-2d913281f0e6,f237dcef-f193-4484-a616-66cb9423c409,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,Replicator,391,e265d5a8-8218-5ae4-b466-a10218520a30,e762c918-1c94-47a4-b141-ac16c5c9e073,rare,Foil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,Replicator,391,e265d5a8-8218-5ae4-b466-a10218520a30,e762c918-1c94-47a4-b141-ac16c5c9e073,rare,Nonfoil,,black,,,,Artifact,{2},2.0,
 TRK,Star Trek,Hallowed Fountain,392,af4b9b5c-3f7a-5689-9a11-96e5fe0b0e2d,bbdbd348-49ab-4830-a5db-0e92b2f01b52,rare,Foil,showcase,black,universesbeyond,True,True,Land — Plains Island,,0.0,"U, W"
 TRK,Star Trek,Hallowed Fountain,392,af4b9b5c-3f7a-5689-9a11-96e5fe0b0e2d,bbdbd348-49ab-4830-a5db-0e92b2f01b52,rare,Nonfoil,showcase,black,universesbeyond,True,True,Land — Plains Island,,0.0,"U, W"
 TRK,Star Trek,Watery Grave,393,26bff161-3819-57a4-8223-ff9c93d57dce,fa84ef4e-44ee-4b34-a454-8a19548ec3cc,rare,Foil,showcase,black,universesbeyond,True,True,Land — Island Swamp,,0.0,"B, U"
@@ -128271,20 +128656,118 @@ TRK,Star Trek,Sacred Foundry,400,e3f01bd7-8b48-5a86-b5ee-021e2654a584,7fb2e855-b
 TRK,Star Trek,Sacred Foundry,400,e3f01bd7-8b48-5a86-b5ee-021e2654a584,7fb2e855-b0ba-43e0-a4a0-15c9c44622c3,rare,Nonfoil,showcase,black,universesbeyond,True,True,Land — Mountain Plains,,0.0,"R, W"
 TRK,Star Trek,Breeding Pool,401,3b190ae0-5935-5fc3-813a-0669497baedf,e5f775cc-ab3a-4e5d-887f-ef40c45e3560,rare,Foil,showcase,black,universesbeyond,True,True,Land — Forest Island,,0.0,"G, U"
 TRK,Star Trek,Breeding Pool,401,3b190ae0-5935-5fc3-813a-0669497baedf,e5f775cc-ab3a-4e5d-887f-ef40c45e3560,rare,Nonfoil,showcase,black,universesbeyond,True,True,Land — Forest Island,,0.0,"G, U"
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",402,76979f0a-3867-57ca-adad-27e2662f6570,e4349c0f-55f8-40d5-a972-4fb655608b6a,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",402,76979f0a-3867-57ca-adad-27e2662f6570,e4349c0f-55f8-40d5-a972-4fb655608b6a,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
+TRK,Star Trek,Excalbian Gamemaster,403,6f7c021a-ffed-5b1c-876d-446d44e208c2,e6227228-330d-4bf5-a5ca-d5b5839e5874,mythic,Foil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
+TRK,Star Trek,Excalbian Gamemaster,403,6f7c021a-ffed-5b1c-876d-446d44e208c2,e6227228-330d-4bf5-a5ca-d5b5839e5874,mythic,Nonfoil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
+TRK,Star Trek,"Saavik, Stoic Student",406,8d4e000d-dae0-539a-894e-4b63e2542cb2,af3c4a7f-c7cb-422f-8eab-730de8f5c599,uncommon,Foil,legendary,black,,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
+TRK,Star Trek,"Saavik, Stoic Student",406,8d4e000d-dae0-539a-894e-4b63e2542cb2,af3c4a7f-c7cb-422f-8eab-730de8f5c599,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
+TRK,Star Trek,Troubling Tribbles,408,52dc44ee-5fe5-514e-bd05-b908d13b58ae,1337f7ed-da1c-4fdd-9ad7-6f33fa5492bf,rare,Foil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,Troubling Tribbles,408,52dc44ee-5fe5-514e-bd05-b908d13b58ae,1337f7ed-da1c-4fdd-9ad7-6f33fa5492bf,rare,Nonfoil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,Ensign Pavel Chekov,409,e12094e6-5260-55f4-b194-0860c91aaad5,578709ac-771b-410b-bd71-ba4ab8d466a2,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
+TRK,Star Trek,Ensign Pavel Chekov,409,e12094e6-5260-55f4-b194-0860c91aaad5,578709ac-771b-410b-bd71-ba4ab8d466a2,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,410,53495028-dca4-52ca-aae9-6c4e0fc7a511,406806fa-213e-40ed-aaee-47ff21f36551,mythic,Foil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,410,53495028-dca4-52ca-aae9-6c4e0fc7a511,406806fa-213e-40ed-aaee-47ff21f36551,mythic,Nonfoil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",411,e72d5d8c-fa65-5aaa-af5e-7ccd76190ba6,e3e54e58-327c-4071-b99a-b78c7cc3fe6f,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",411,e72d5d8c-fa65-5aaa-af5e-7ccd76190ba6,e3e54e58-327c-4071-b99a-b78c7cc3fe6f,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",412,83fe109a-a4da-54a7-9080-c608391d20e1,2b71b656-a316-4f29-b2bd-44165ad8cebe,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",412,83fe109a-a4da-54a7-9080-c608391d20e1,2b71b656-a316-4f29-b2bd-44165ad8cebe,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",413,4a2ee309-a947-51a4-81d0-8962573779ba,d97123d6-8420-4400-8d6c-a3ed5c84ad5d,mythic,Foil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",413,4a2ee309-a947-51a4-81d0-8962573779ba,d97123d6-8420-4400-8d6c-a3ed5c84ad5d,mythic,Nonfoil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
 TRK,Star Trek,"General Chang, Cold Warrior",415,96d1369c-7586-5523-b611-639211c8522f,502673f3-2794-4b4c-8912-674cc4d2bbd2,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",415,96d1369c-7586-5523-b611-639211c8522f,502673f3-2794-4b4c-8912-674cc4d2bbd2,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",416,7f1dc0ba-7d43-5ece-8ab9-963138dd19fe,80dcc7dd-203f-4a3b-afe7-52987bbd006b,mythic,Foil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",416,7f1dc0ba-7d43-5ece-8ab9-963138dd19fe,80dcc7dd-203f-4a3b-afe7-52987bbd006b,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
 TRK,Star Trek,Salt Vampire,417,1d483efa-e89f-55f9-a46b-9325be9bac7d,5ad670fc-85ef-4f9b-9b5b-bac20f080bf5,rare,Foil,showcase,black,universesbeyond,,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
 TRK,Star Trek,Salt Vampire,417,1d483efa-e89f-55f9-a46b-9325be9bac7d,5ad670fc-85ef-4f9b-9b5b-bac20f080bf5,rare,Nonfoil,showcase,black,universesbeyond,,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
 TRK,Star Trek,Captain James T. Kirk,418,6fba9746-531f-5cda-b8ac-ea1d17d9524b,367aa1e6-ce6c-41a0-ba7c-af00487a4302,mythic,Foil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain James T. Kirk,418,6fba9746-531f-5cda-b8ac-ea1d17d9524b,367aa1e6-ce6c-41a0-ba7c-af00487a4302,mythic,Nonfoil,"legendary, showcase",black,universesbeyond,,,Legendary Creature — Human Officer,{2}{R},3.0,R
+TRK,Star Trek,Live Long and Prosper,423,6043f43c-ff19-5694-89aa-c123e4db4500,7de29930-ace7-49ce-9b35-acce4bf876cf,rare,Foil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,Live Long and Prosper,423,6043f43c-ff19-5694-89aa-c123e4db4500,7de29930-ace7-49ce-9b35-acce4bf876cf,rare,Nonfoil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,Mirror Universe Intrusion,424,482e8031-c507-5660-b1ea-6c395d11fb7f,c49b5e07-a512-4d08-8fe1-07caefb28eec,rare,Foil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,Mirror Universe Intrusion,424,482e8031-c507-5660-b1ea-6c395d11fb7f,c49b5e07-a512-4d08-8fe1-07caefb28eec,rare,Nonfoil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,Bat'leth,426,4f2237a6-8361-5bae-a2b6-cab348ca432f,bf6c66c7-4795-4ab0-be98-65c771a7ef01,uncommon,Foil,,black,,,,Artifact — Equipment,{2}{B},3.0,B
+TRK,Star Trek,Bat'leth,426,4f2237a6-8361-5bae-a2b6-cab348ca432f,bf6c66c7-4795-4ab0-be98-65c771a7ef01,uncommon,Nonfoil,,black,,,,Artifact — Equipment,{2}{B},3.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",427,6ee0d0be-e008-5ce1-8a67-787682f2acf2,377bc253-f9a2-45b0-bbf8-e027f2d5dc4d,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",427,6ee0d0be-e008-5ce1-8a67-787682f2acf2,377bc253-f9a2-45b0-bbf8-e027f2d5dc4d,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
+TRK,Star Trek,A Good Day to Die,428,ffc50f60-f349-52c0-830c-6e888e71c1c8,ce59648a-dc9d-494d-ba5e-97e8d4636017,common,Foil,,black,,,,Instant,{B},1.0,B
+TRK,Star Trek,A Good Day to Die,428,ffc50f60-f349-52c0-830c-6e888e71c1c8,ce59648a-dc9d-494d-ba5e-97e8d4636017,common,Nonfoil,,black,,,,Instant,{B},1.0,B
+TRK,Star Trek,Storied Veteran,429,bc06d6dc-7781-5302-b5f8-7eed3c422ee9,32c2bfbf-e2ea-46c3-b369-1e203c8af716,uncommon,Foil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,Storied Veteran,429,bc06d6dc-7781-5302-b5f8-7eed3c422ee9,32c2bfbf-e2ea-46c3-b369-1e203c8af716,uncommon,Nonfoil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,"Worf, Intelligence Contractor",431,f71f157f-ecf7-598a-bd15-392c1d09d50f,f177de31-b7f0-46d3-a3a9-a708f8d4a95f,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,"Worf, Intelligence Contractor",431,f71f157f-ecf7-598a-bd15-392c1d09d50f,f177de31-b7f0-46d3-a3a9-a708f8d4a95f,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,The Duras Sisters,432,5947363b-ad1a-5145-b187-e3fcc92c1e52,fc44d954-dc08-4071-8e2b-e65090de65dc,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,The Duras Sisters,432,5947363b-ad1a-5145-b187-e3fcc92c1e52,fc44d954-dc08-4071-8e2b-e65090de65dc,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,"Gowron, Eager for Battle",433,f236c266-8657-5909-98b3-a1485fceeb2a,1a7bda12-b72b-49e6-a086-644d0560ddc9,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"Gowron, Eager for Battle",433,f236c266-8657-5909-98b3-a1485fceeb2a,1a7bda12-b72b-49e6-a086-644d0560ddc9,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"L'Rell, Fierce Visionary",434,b63d0ab6-d7ad-52fb-9641-2d526a78105f,51161805-0955-49b7-97f3-20b002c9b86e,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,"L'Rell, Fierce Visionary",434,b63d0ab6-d7ad-52fb-9641-2d526a78105f,51161805-0955-49b7-97f3-20b002c9b86e,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",435,383cb47f-2829-5e62-9e90-7d77889ae921,f2abd2b6-c60f-4667-925b-423c0a135ebc,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",435,383cb47f-2829-5e62-9e90-7d77889ae921,f2abd2b6-c60f-4667-925b-423c0a135ebc,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,Bat'leth,436,4b4e2da6-4d89-53ba-9a56-04cf57621762,9cece6b4-1257-40c2-adc1-52409cafbf41,uncommon,Foil,,black,,,,Artifact — Equipment,{2}{B},3.0,B
+TRK,Star Trek,Bat'leth,436,4b4e2da6-4d89-53ba-9a56-04cf57621762,9cece6b4-1257-40c2-adc1-52409cafbf41,uncommon,Nonfoil,,black,,,,Artifact — Equipment,{2}{B},3.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",437,57294ed0-483f-5da8-8846-dfd50d6ba48f,1b1b6249-5c4b-4ccf-a860-22532a0d958b,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",437,57294ed0-483f-5da8-8846-dfd50d6ba48f,1b1b6249-5c4b-4ccf-a860-22532a0d958b,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
+TRK,Star Trek,A Good Day to Die,438,cb874839-64d2-5eb6-88e4-d786a6538147,3c2a5428-a557-435e-b226-96159e9f16e7,common,Foil,,black,,,,Instant,{B},1.0,B
+TRK,Star Trek,A Good Day to Die,438,cb874839-64d2-5eb6-88e4-d786a6538147,3c2a5428-a557-435e-b226-96159e9f16e7,common,Nonfoil,,black,,,,Instant,{B},1.0,B
+TRK,Star Trek,Storied Veteran,439,20e76ca9-ced2-5da9-8a1e-21793326b206,c1b5426e-9ba1-40c0-9954-2fc00da8e04f,uncommon,Foil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,Storied Veteran,439,20e76ca9-ced2-5da9-8a1e-21793326b206,c1b5426e-9ba1-40c0-9954-2fc00da8e04f,uncommon,Nonfoil,,black,,,,Creature — Klingon Advisor,{B},1.0,B
+TRK,Star Trek,"Worf, Intelligence Contractor",441,2d40ad5e-4ba2-5003-a5dc-40d2ad1e4b2a,9af008b2-d11f-4413-85aa-a45c0f6efa8f,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,"Worf, Intelligence Contractor",441,2d40ad5e-4ba2-5003-a5dc-40d2ad1e4b2a,9af008b2-d11f-4413-85aa-a45c0f6efa8f,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Spy,{2}{R},3.0,R
+TRK,Star Trek,The Duras Sisters,442,a5248b0d-cdcf-5474-98df-82ce1dfd4390,56c8d25b-9114-4412-af57-db7f8c2e20c4,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,The Duras Sisters,442,a5248b0d-cdcf-5474-98df-82ce1dfd4390,56c8d25b-9114-4412-af57-db7f8c2e20c4,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{B/R}{B/R},2.0,"B, R"
+TRK,Star Trek,"Gowron, Eager for Battle",443,59ae46af-f82c-583d-b3e4-1a83129a7699,20cbf82c-c8c1-4bd3-b701-7e8509a7f56d,rare,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"Gowron, Eager for Battle",443,59ae46af-f82c-583d-b3e4-1a83129a7699,20cbf82c-c8c1-4bd3-b701-7e8509a7f56d,rare,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{2}{B}{R},4.0,"B, R"
+TRK,Star Trek,"L'Rell, Fierce Visionary",444,e4fafd4b-22f6-5e0b-96a1-239831fdfea7,4b59e50c-21e2-480d-b5b5-cc6c1eeed57a,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,"L'Rell, Fierce Visionary",444,e4fafd4b-22f6-5e0b-96a1-239831fdfea7,4b59e50c-21e2-480d-b5b5-cc6c1eeed57a,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior,{1}{B}{R},3.0,"B, R"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",445,ec3cfdb2-fb95-5e72-915c-72c439ed9b17,7739283d-25e9-4779-9f95-504a03c502d7,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",445,ec3cfdb2-fb95-5e72-915c-72c439ed9b17,7739283d-25e9-4779-9f95-504a03c502d7,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,Antagonist Incorporator,446,0c25319f-e782-58e6-9300-6a37f705e3a4,baeaac4a-a004-4a6d-842a-596cb148574b,rare,Foil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
+TRK,Star Trek,Antagonist Incorporator,446,0c25319f-e782-58e6-9300-6a37f705e3a4,baeaac4a-a004-4a6d-842a-596cb148574b,rare,Nonfoil,,black,,,,Artifact Creature — Borg,{1}{W},2.0,W
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",448,e1fefce2-282b-5f90-9307-cf6b149f87af,53941fd6-1913-4848-8fa1-7fff7ea3062b,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",448,e1fefce2-282b-5f90-9307-cf6b149f87af,53941fd6-1913-4848-8fa1-7fff7ea3062b,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,Romulan Bird-of-Prey,452,495546b6-5a80-5d9a-b476-99e57543859d,c54b4e4a-72b3-481c-9eda-647fdcb04ff2,rare,Foil,,black,,,,Artifact — Spacecraft,{1}{U},2.0,U
+TRK,Star Trek,Romulan Bird-of-Prey,452,495546b6-5a80-5d9a-b476-99e57543859d,c54b4e4a-72b3-481c-9eda-647fdcb04ff2,rare,Nonfoil,,black,,,,Artifact — Spacecraft,{1}{U},2.0,U
+TRK,Star Trek,"Elim Garak, Simple Tailor",456,487fd704-cd3e-5ee3-afdd-132d1b7beebc,2c881def-1b77-42ed-9fdc-45f0ebbf843d,rare,Foil,legendary,black,,,,Legendary Creature — Cardassian Rogue,{2}{B},3.0,B
+TRK,Star Trek,"Elim Garak, Simple Tailor",456,487fd704-cd3e-5ee3-afdd-132d1b7beebc,2c881def-1b77-42ed-9fdc-45f0ebbf843d,rare,Nonfoil,legendary,black,,,,Legendary Creature — Cardassian Rogue,{2}{B},3.0,B
+TRK,Star Trek,"Georgiou, Terran Emperor",457,1eb0f935-961b-5763-a4c5-002fd1c9b95d,53401f53-aebe-4538-82be-9d6916c01c76,mythic,Foil,legendary,black,,,,Legendary Creature — Human Rogue Noble,{4}{B}{B},6.0,B
+TRK,Star Trek,"Georgiou, Terran Emperor",457,1eb0f935-961b-5763-a4c5-002fd1c9b95d,53401f53-aebe-4538-82be-9d6916c01c76,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Rogue Noble,{4}{B}{B},6.0,B
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",461,700c13a6-3834-5ae6-a42f-e2c0b3ea8323,2aad44f7-e3f4-46e9-b633-eb939dfd8e51,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",461,700c13a6-3834-5ae6-a42f-e2c0b3ea8323,2aad44f7-e3f4-46e9-b633-eb939dfd8e51,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
+TRK,Star Trek,D-7 Battle Cruiser,463,4451b2c8-bbc8-57b2-98fa-28c9c165b9dd,40c41dc2-f67d-4199-a1bb-eb15c776fe8e,rare,Foil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,D-7 Battle Cruiser,463,4451b2c8-bbc8-57b2-98fa-28c9c165b9dd,40c41dc2-f67d-4199-a1bb-eb15c776fe8e,rare,Nonfoil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,Captain Jonathan Archer,467,cf342994-16a1-5280-b823-f089ff1e1999,aaaeeb0f-eb6f-41d6-be1f-7f8f14c4e82a,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{G},3.0,G
+TRK,Star Trek,Captain Jonathan Archer,467,cf342994-16a1-5280-b823-f089ff1e1999,aaaeeb0f-eb6f-41d6-be1f-7f8f14c4e82a,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{G},3.0,G
+TRK,Star Trek,"Captain Pike, Fullness of Time",468,3a0bb9c1-3ad9-570d-b1a3-a8df15167933,62c9b897-bc43-47f9-8939-13faaa0b7c6b,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer Scout,{1}{G}{G},3.0,G
+TRK,Star Trek,"Captain Pike, Fullness of Time",468,3a0bb9c1-3ad9-570d-b1a3-a8df15167933,62c9b897-bc43-47f9-8939-13faaa0b7c6b,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer Scout,{1}{G}{G},3.0,G
+TRK,Star Trek,Dr. Joseph M'Benga,469,bb005650-23ae-5dd6-b2a4-9c268a2a26ce,71f54ed7-1def-4c3f-9be5-11332fce751f,mythic,Foil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{G}{G},4.0,G
+TRK,Star Trek,Dr. Joseph M'Benga,469,bb005650-23ae-5dd6-b2a4-9c268a2a26ce,71f54ed7-1def-4c3f-9be5-11332fce751f,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{G}{G},4.0,G
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",474,6edbbdd2-c656-52a9-ae76-cd5fb219173a,f0a16d25-ab32-4744-8b61-3774dd28a2c1,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",474,6edbbdd2-c656-52a9-ae76-cd5fb219173a,f0a16d25-ab32-4744-8b61-3774dd28a2c1,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
+TRK,Star Trek,Borg Cube,475,eb6f35fc-7875-59c2-8bf8-dd628c3ff334,99f2ef04-7134-446a-b1d1-5e54d76adcb8,mythic,Foil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
+TRK,Star Trek,Borg Cube,475,eb6f35fc-7875-59c2-8bf8-dd628c3ff334,99f2ef04-7134-446a-b1d1-5e54d76adcb8,mythic,Nonfoil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
+TRK,Star Trek,Hit It!,476,181cf942-51cd-58f8-84e4-7f4bf64e4c5c,2dad81b5-caf4-4d1c-9a29-8b556984d3f1,rare,Foil,enchantment,black,,,,Enchantment,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,Hit It!,476,181cf942-51cd-58f8-84e4-7f4bf64e4c5c,2dad81b5-caf4-4d1c-9a29-8b556984d3f1,rare,Nonfoil,enchantment,black,,,,Enchantment,{1}{R}{G},3.0,"G, R"
+TRK,Star Trek,"Kira Nerys, Firebrand",477,be9b6950-c60b-5eed-a442-4957fd3c3766,f40be112-e41d-456b-919f-14b2dee7e6ee,rare,Foil,,black,,,,Legendary Creature — Bajoran Soldier,{1}{R}{W},3.0,"R, W"
+TRK,Star Trek,"Kira Nerys, Firebrand",477,be9b6950-c60b-5eed-a442-4957fd3c3766,f40be112-e41d-456b-919f-14b2dee7e6ee,rare,Nonfoil,,black,,,,Legendary Creature — Bajoran Soldier,{1}{R}{W},3.0,"R, W"
 TRK,Star Trek,Crystalline Entity,478,fa55abff-ff01-5b33-9e84-bc8b684f9ce8,741798a7-67df-4b8b-b0e9-dd8c2797ccc4,mythic,Foil,extendedart,black,universesbeyond,,,Artifact Creature — Elemental,{8},8.0,
 TRK,Star Trek,Crystalline Entity,478,fa55abff-ff01-5b33-9e84-bc8b684f9ce8,741798a7-67df-4b8b-b0e9-dd8c2797ccc4,mythic,Nonfoil,extendedart,black,universesbeyond,,,Artifact Creature — Elemental,{8},8.0,
+TRK,Star Trek,Deep Space 9,479,dba741da-f5f6-5341-bef5-e9d0a9f1fe85,473aab2f-cfc2-430b-b785-4b6a491bcd28,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
+TRK,Star Trek,Deep Space 9,479,dba741da-f5f6-5341-bef5-e9d0a9f1fe85,473aab2f-cfc2-430b-b785-4b6a491bcd28,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
+TRK,Star Trek,Engineered Explosives,480,5f5e6476-7229-581e-8838-df1a5a254268,7e8f0912-a8c5-44ce-b39b-eb0f63da07a4,rare,Foil,,black,,,True,Artifact,{X},0.0,
+TRK,Star Trek,Engineered Explosives,480,5f5e6476-7229-581e-8838-df1a5a254268,7e8f0912-a8c5-44ce-b39b-eb0f63da07a4,rare,Nonfoil,,black,,,True,Artifact,{X},0.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",481,45184d1c-80ca-55ea-987b-1ac42782ba60,12a2e90a-6776-4213-b696-fd48a4bcf0a2,rare,Foil,"extendedart, legendary",black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",481,45184d1c-80ca-55ea-987b-1ac42782ba60,12a2e90a-6776-4213-b696-fd48a4bcf0a2,rare,Nonfoil,"extendedart, legendary",black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
+TRK,Star Trek,Plains,482,0b91b613-b230-547a-8441-40975829cbb4,5b5385bf-54b3-4885-84c9-a383a4b95a5b,common,Foil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Plains,482,0b91b613-b230-547a-8441-40975829cbb4,5b5385bf-54b3-4885-84c9-a383a4b95a5b,common,Nonfoil,,black,,,True,Basic Land — Plains,,0.0,W
+TRK,Star Trek,Island,483,3d7381c7-2e88-558e-bd84-8f0b7af8820c,a0a6038e-f812-415d-b54a-0229d338e969,common,Foil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Island,483,3d7381c7-2e88-558e-bd84-8f0b7af8820c,a0a6038e-f812-415d-b54a-0229d338e969,common,Nonfoil,,black,,,True,Basic Land — Island,,0.0,U
+TRK,Star Trek,Swamp,484,0e6fcc89-2b4c-55cf-8dc3-1c31dc282724,a75fe304-8764-4868-8ee8-d5fb094386c0,common,Foil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Swamp,484,0e6fcc89-2b4c-55cf-8dc3-1c31dc282724,a75fe304-8764-4868-8ee8-d5fb094386c0,common,Nonfoil,,black,,,True,Basic Land — Swamp,,0.0,B
+TRK,Star Trek,Mountain,485,8e55ca8c-a643-5c69-bd66-b500723b2ccf,95409599-e700-4e16-bea2-bc7b607f9cc4,common,Foil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Mountain,485,8e55ca8c-a643-5c69-bd66-b500723b2ccf,95409599-e700-4e16-bea2-bc7b607f9cc4,common,Nonfoil,,black,,,True,Basic Land — Mountain,,0.0,R
+TRK,Star Trek,Forest,486,140055b5-d632-5eaa-87d1-8f672600fd4c,17923ce1-56db-4f18-b6a7-fda2eca7edbd,common,Foil,,black,,,True,Basic Land — Forest,,0.0,G
+TRK,Star Trek,Forest,486,140055b5-d632-5eaa-87d1-8f672600fd4c,17923ce1-56db-4f18-b6a7-fda2eca7edbd,common,Nonfoil,,black,,,True,Basic Land — Forest,,0.0,G
 TRK,Star Trek,Hallowed Fountain,487,e6b74f43-9470-5d20-9eaf-dc0cdfb46b76,8868a343-2e57-45a8-9e53-971211fe5cc9,rare,Foil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Plains Island,,0.0,"U, W"
 TRK,Star Trek,Hallowed Fountain,487,e6b74f43-9470-5d20-9eaf-dc0cdfb46b76,8868a343-2e57-45a8-9e53-971211fe5cc9,rare,Nonfoil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Plains Island,,0.0,"U, W"
 TRK,Star Trek,Watery Grave,488,1484ec43-d273-5bd5-9ecb-e4ece77c51af,6ccd8ea5-b8c9-4012-b3a0-dbc2b95538c3,rare,Foil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Island Swamp,,0.0,"B, U"
@@ -128305,22 +128788,120 @@ TRK,Star Trek,Sacred Foundry,495,4f6ab1f9-4f77-5d12-8115-270ed326e389,1ff8510e-b
 TRK,Star Trek,Sacred Foundry,495,4f6ab1f9-4f77-5d12-8115-270ed326e389,1ff8510e-bec2-401b-8e6e-cc350f805574,rare,Nonfoil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Mountain Plains,,0.0,"R, W"
 TRK,Star Trek,Breeding Pool,496,fd490670-53df-5e5b-ae57-20df42bd4ba8,638731af-512e-42bd-813a-d540a36c8ead,rare,Foil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Forest Island,,0.0,"G, U"
 TRK,Star Trek,Breeding Pool,496,fd490670-53df-5e5b-ae57-20df42bd4ba8,638731af-512e-42bd-813a-d540a36c8ead,rare,Nonfoil,showcase,black,"surgefoil, universesbeyond",True,True,Land — Forest Island,,0.0,"G, U"
+TRK,Star Trek,Captain Jean-Luc Picard,497,533d2b71-de22-5007-8f45-cf9f025e5f6c,a6eb4655-ea1d-426d-a75b-a0a341362cd3,mythic,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
+TRK,Star Trek,Captain Jean-Luc Picard,497,533d2b71-de22-5007-8f45-cf9f025e5f6c,a6eb4655-ea1d-426d-a75b-a0a341362cd3,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{W},3.0,W
+TRK,Star Trek,Command Subadjunct,498,92feb726-3642-5f23-a197-98f2d6d7d91a,f0bca1fd-0eef-4563-84c7-05b59ff9e015,uncommon,Foil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Command Subadjunct,498,92feb726-3642-5f23-a197-98f2d6d7d91a,f0bca1fd-0eef-4563-84c7-05b59ff9e015,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{W},1.0,W
 TRK,Star Trek,Dr. Beverly Crusher,500,178dbf17-da19-5735-abad-52436ae905b2,179d50b5-cab1-482c-85a6-36f59335b562,mythic,Foil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Doctor,{2}{W},3.0,W
 TRK,Star Trek,Dr. Beverly Crusher,500,178dbf17-da19-5735-abad-52436ae905b2,179d50b5-cab1-482c-85a6-36f59335b562,mythic,Nonfoil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Doctor,{2}{W},3.0,W
+TRK,Star Trek,Peace in Our Time,501,b8a8ece9-057d-5e8a-bb11-2d6ebda1137e,f1c86545-0252-46cc-ac35-58d126f55997,rare,Foil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Peace in Our Time,501,b8a8ece9-057d-5e8a-bb11-2d6ebda1137e,f1c86545-0252-46cc-ac35-58d126f55997,rare,Nonfoil,enchantment,black,,,,Enchantment,{3}{W},4.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,502,4a65c5f0-3096-5ee2-9748-edb5db3f1f55,ba15432e-64a4-49fe-9f89-86129d332bcc,rare,Foil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,Primary Unimatrix Adjunct,502,4a65c5f0-3096-5ee2-9748-edb5db3f1f55,ba15432e-64a4-49fe-9f89-86129d332bcc,rare,Nonfoil,,black,,,,Artifact Creature — Borg,{3}{W},4.0,W
+TRK,Star Trek,There's Coffee in that Nebula,503,3d058a41-0312-5677-a063-3c9e57fddaac,1205651a-aa71-4bcb-ade7-0ab101ad95ad,uncommon,Foil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,There's Coffee in that Nebula,503,3d058a41-0312-5677-a063-3c9e57fddaac,1205651a-aa71-4bcb-ade7-0ab101ad95ad,uncommon,Nonfoil,,black,,,,Sorcery,{1}{W},2.0,W
+TRK,Star Trek,Deep Space Scan,504,a0b4710e-dfdb-5279-b6a5-da0e1e4a5ae0,de52d77a-f5af-4392-b53b-60ce79328d3f,rare,Foil,,black,,,,Sorcery,{4}{U}{U},6.0,U
+TRK,Star Trek,Deep Space Scan,504,a0b4710e-dfdb-5279-b6a5-da0e1e4a5ae0,de52d77a-f5af-4392-b53b-60ce79328d3f,rare,Nonfoil,,black,,,,Sorcery,{4}{U}{U},6.0,U
+TRK,Star Trek,Lieutenant Commander Data,505,c98e2d02-f9c3-5241-81a5-a7a1f7316a0d,191809e6-87f5-414e-a45e-62988f092832,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,505,c98e2d02-f9c3-5241-81a5-a7a1f7316a0d,191809e6-87f5-414e-a45e-62988f092832,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,506,95077cfb-f10e-58b3-b77c-b1deab8cc6f7,3c627570-844f-49d6-a788-dda7ef4f399c,rare,Foil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,506,95077cfb-f10e-58b3-b77c-b1deab8cc6f7,3c627570-844f-49d6-a788-dda7ef4f399c,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",507,582418f0-01b9-5735-981b-83c1920758cc,fbe692d2-e8ae-464b-84a9-fe7063e806c0,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",507,582418f0-01b9-5735-981b-83c1920758cc,fbe692d2-e8ae-464b-84a9-fe7063e806c0,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,Death Is Irrelevant,509,310b50f5-0171-5b0f-a0aa-8f46c61dc0aa,423ada94-a251-40f4-ae53-99fbb073d550,mythic,Foil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Death Is Irrelevant,509,310b50f5-0171-5b0f-a0aa-8f46c61dc0aa,423ada94-a251-40f4-ae53-99fbb073d550,mythic,Nonfoil,enchantment,black,,,,Enchantment,{6}{B}{B},8.0,B
+TRK,Star Trek,Organic Avulsion Unit,510,e9461a93-af50-5413-9bf6-65a928d531f4,5e51ded6-4b58-4169-a292-26832918dbef,uncommon,Foil,,black,,,,Artifact Creature — Borg,{2}{B},3.0,B
+TRK,Star Trek,Organic Avulsion Unit,510,e9461a93-af50-5413-9bf6-65a928d531f4,5e51ded6-4b58-4169-a292-26832918dbef,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{2}{B},3.0,B
+TRK,Star Trek,Resistance Is Futile,512,5553d835-cedb-55ea-9e80-5034b7bdaead,ea664a07-fac6-4703-8fd2-f3f3d7257b60,uncommon,Foil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,Resistance Is Futile,512,5553d835-cedb-55ea-9e80-5034b7bdaead,ea664a07-fac6-4703-8fd2-f3f3d7257b60,uncommon,Nonfoil,,black,,,,Sorcery,{1}{B},2.0,B
+TRK,Star Trek,"Q, Stacking the Deck",517,bbe595cc-7209-5bf5-a6b7-6c3bba1c26c0,b1126734-d3df-42f0-ba4e-39cbf8f3c4d5,mythic,Foil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
+TRK,Star Trek,"Q, Stacking the Deck",517,bbe595cc-7209-5bf5-a6b7-6c3bba1c26c0,b1126734-d3df-42f0-ba4e-39cbf8f3c4d5,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Q,{2}{R}{R},4.0,R
 TRK,Star Trek,Captain Kathryn Janeway,520,272a30be-3509-5807-93c9-287ca7eecfc6,2e462516-fddb-4e76-836b-b590d37e783f,mythic,Foil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Officer,{3}{G},4.0,G
 TRK,Star Trek,Captain Kathryn Janeway,520,272a30be-3509-5807-93c9-287ca7eecfc6,2e462516-fddb-4e76-836b-b590d37e783f,mythic,Nonfoil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Officer,{3}{G},4.0,G
+TRK,Star Trek,"Locutus, the One Who Speaks",523,f0c17a1c-4109-5e96-8be7-53d5f2e72de1,d9d45bf1-9007-4d5d-bc32-fb11a353edc5,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",523,f0c17a1c-4109-5e96-8be7-53d5f2e72de1,d9d45bf1-9007-4d5d-bc32-fb11a353edc5,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",524,0e35be63-3d60-5333-8357-fe9ddf9e6dd7,969a7271-30d5-4e6c-aa6b-1c56dfd69e09,uncommon,Foil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,"Worf, Honor-Bound Warrior",524,0e35be63-3d60-5333-8357-fe9ddf9e6dd7,969a7271-30d5-4e6c-aa6b-1c56dfd69e09,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Klingon Warrior Officer,{R/W}{R/W},2.0,"R, W"
+TRK,Star Trek,Replicator,525,99ccdd97-cd27-5c6c-abde-c11b65e76b47,98308586-5ac3-4130-878b-d235b9e1343c,rare,Foil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,Replicator,525,99ccdd97-cd27-5c6c-abde-c11b65e76b47,98308586-5ac3-4130-878b-d235b9e1343c,rare,Nonfoil,,black,,,,Artifact,{2},2.0,
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",526,8761498a-3811-5073-a6b0-f3f13dd12b0d,00474b9c-620f-44dc-912f-5d1972a1eb22,uncommon,Foil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
+TRK,Star Trek,"Dr. McCoy, Surly Surgeon",526,8761498a-3811-5073-a6b0-f3f13dd12b0d,00474b9c-620f-44dc-912f-5d1972a1eb22,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Human Doctor,{2}{W}{W},4.0,W
+TRK,Star Trek,Excalbian Gamemaster,527,c9d2d08c-0ba3-5365-a5c2-ef055cffdc9d,91f96c5f-e3ce-4c94-9944-ce9b1b5a097a,mythic,Foil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
+TRK,Star Trek,Excalbian Gamemaster,527,c9d2d08c-0ba3-5365-a5c2-ef055cffdc9d,91f96c5f-e3ce-4c94-9944-ce9b1b5a097a,mythic,Nonfoil,,black,,,,Creature — Excalbian,{5}{W},6.0,W
+TRK,Star Trek,"Saavik, Stoic Student",530,ea643380-3cbb-5265-8ad3-90d07295602b,766eead5-0f5d-4bd5-a3ad-8795b0960bc6,uncommon,Foil,legendary,black,,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
+TRK,Star Trek,"Saavik, Stoic Student",530,ea643380-3cbb-5265-8ad3-90d07295602b,766eead5-0f5d-4bd5-a3ad-8795b0960bc6,uncommon,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Advisor,{4}{W},5.0,W
+TRK,Star Trek,Troubling Tribbles,532,5e5701d2-6a55-52e6-afed-55e3b84d2a5a,65d09a80-440a-4686-a0bb-b2be19112f8e,rare,Foil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,Troubling Tribbles,532,5e5701d2-6a55-52e6-afed-55e3b84d2a5a,65d09a80-440a-4686-a0bb-b2be19112f8e,rare,Nonfoil,,black,,,,Creature — Tribble,{2}{W},3.0,W
+TRK,Star Trek,Ensign Pavel Chekov,533,f5b3b164-5412-52b2-8ccb-38d3b0729bd4,f483991b-5291-42a8-89c3-f51629530bb1,uncommon,Foil,,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
+TRK,Star Trek,Ensign Pavel Chekov,533,f5b3b164-5412-52b2-8ccb-38d3b0729bd4,f483991b-5291-42a8-89c3-f51629530bb1,uncommon,Nonfoil,,black,,,,Legendary Creature — Human Pilot,{3}{U},4.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,534,f67a0a88-5109-56ba-9508-949b99aaffad,d557515e-bf1d-4781-aa44-eb2638cfe1ba,mythic,Foil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,Kobayashi Maru Scenario,534,f67a0a88-5109-56ba-9508-949b99aaffad,d557515e-bf1d-4781-aa44-eb2638cfe1ba,mythic,Nonfoil,enchantment,black,,,,Enchantment,{1}{U}{U},3.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",535,4b329d54-b390-561b-97b6-411635cd100c,e855f782-9221-4b6f-a182-b738da4b7d48,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",535,4b329d54-b390-561b-97b6-411635cd100c,e855f782-9221-4b6f-a182-b738da4b7d48,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",536,3109f603-c7e3-5932-adae-58f7aa1abf26,971cbb33-7374-4b08-8765-8ccb6f5858d1,rare,Foil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Nyota Uhura, Communications",536,3109f603-c7e3-5932-adae-58f7aa1abf26,971cbb33-7374-4b08-8765-8ccb6f5858d1,rare,Nonfoil,legendary,black,,,,Legendary Creature — Human Officer,{2}{U},3.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",537,eb6aa577-6485-5e67-a1ce-a9a09a8732ab,008db37b-1b2e-4554-b927-8a75ce4ff668,mythic,Foil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
+TRK,Star Trek,"Scotty, Miracle Worker",537,eb6aa577-6485-5e67-a1ce-a9a09a8732ab,008db37b-1b2e-4554-b927-8a75ce4ff668,mythic,Nonfoil,,black,,,,Legendary Creature — Human Artificer,{1}{U}{U},3.0,U
 TRK,Star Trek,"General Chang, Cold Warrior",539,db5cd989-7696-55a1-8953-a2a91d5b4e7a,443083e7-dfee-4889-b8ed-82d6876f6402,rare,Foil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
 TRK,Star Trek,"General Chang, Cold Warrior",539,db5cd989-7696-55a1-8953-a2a91d5b4e7a,443083e7-dfee-4889-b8ed-82d6876f6402,rare,Nonfoil,legendary,black,universesbeyond,,,Legendary Creature — Klingon Warrior Officer,{B},1.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",540,af917d1d-70c5-5c6a-bc3e-2fe2129d7e5f,9d0dce51-002b-43b6-ac0e-d78c062b99b7,mythic,Foil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
+TRK,Star Trek,"Khan, Vengeful Heart",540,af917d1d-70c5-5c6a-bc3e-2fe2129d7e5f,9d0dce51-002b-43b6-ac0e-d78c062b99b7,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Warrior,{2}{B}{B},4.0,B
 TRK,Star Trek,Salt Vampire,541,74e100e4-4258-558d-a294-0246873a54a1,d633a0bf-bb3a-471f-a286-7686da81bb01,rare,Foil,showcase,black,"surgefoil, universesbeyond",,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
 TRK,Star Trek,Salt Vampire,541,74e100e4-4258-558d-a294-0246873a54a1,d633a0bf-bb3a-471f-a286-7686da81bb01,rare,Nonfoil,showcase,black,"surgefoil, universesbeyond",,,Creature — Vampire Shapeshifter,{1}{B},2.0,B
 TRK,Star Trek,Captain James T. Kirk,542,45eacb32-bb1b-56e9-a008-fcf71eb7d1d9,a7f991c5-0a55-4d34-8dee-d3f206167be1,mythic,Foil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain James T. Kirk,542,45eacb32-bb1b-56e9-a008-fcf71eb7d1d9,a7f991c5-0a55-4d34-8dee-d3f206167be1,mythic,Nonfoil,"legendary, showcase",black,"surgefoil, universesbeyond",,,Legendary Creature — Human Officer,{2}{R},3.0,R
+TRK,Star Trek,Live Long and Prosper,547,84260130-aacf-5f8c-b188-bcb685a51a39,b2f934db-403b-4f6a-9abc-d48eb9140e49,rare,Foil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,Live Long and Prosper,547,84260130-aacf-5f8c-b188-bcb685a51a39,b2f934db-403b-4f6a-9abc-d48eb9140e49,rare,Nonfoil,,black,,,,Sorcery,{5}{W}{U},7.0,"U, W"
+TRK,Star Trek,Mirror Universe Intrusion,548,bc37f2a6-23be-544f-8557-8a6e67e380ec,ddfae5a3-7f3f-48f4-bcdf-6c7729504289,rare,Foil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,Mirror Universe Intrusion,548,bc37f2a6-23be-544f-8557-8a6e67e380ec,ddfae5a3-7f3f-48f4-bcdf-6c7729504289,rare,Nonfoil,,black,,,,Sorcery,{1}{U}{B},3.0,"B, U"
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",550,d82db010-0bfd-5089-b21a-a544e313ebd8,b162c8cd-865d-40a8-9bc1-e11702ac27d2,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,"U.S.S. Enterprise-A, Free Spirit",550,d82db010-0bfd-5089-b21a-a544e313ebd8,b162c8cd-865d-40a8-9bc1-e11702ac27d2,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{W}{W},5.0,W
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",552,d160d472-305d-539a-a322-6a37d1d0b4d1,dc9fa6b6-6cb9-4fc9-bda0-2bb9a1fe8313,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
+TRK,Star Trek,"U.S.S. Reliant, From Hell's Heart",552,d160d472-305d-539a-a322-6a37d1d0b4d1,dc9fa6b6-6cb9-4fc9-bda0-2bb9a1fe8313,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{2}{B}{B},4.0,B
+TRK,Star Trek,D-7 Battle Cruiser,553,e8a4d7a2-f147-5c7a-aa14-da6b7700b94b,a30e0582-b5de-40f0-a284-3251e4092eda,rare,Foil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,D-7 Battle Cruiser,553,e8a4d7a2-f147-5c7a-aa14-da6b7700b94b,a30e0582-b5de-40f0-a284-3251e4092eda,rare,Nonfoil,,black,,,,Artifact — Spacecraft,{1}{R},2.0,R
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",554,c8e159ec-bbfe-57f6-91a6-19b899f07456,7351dc6f-d162-4854-930d-bdeaf87c684b,rare,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
+TRK,Star Trek,"U.S.S. Discovery, at Black Alert",554,c8e159ec-bbfe-57f6-91a6-19b899f07456,7351dc6f-d162-4854-930d-bdeaf87c684b,rare,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{3}{G}{G},5.0,G
+TRK,Star Trek,Borg Cube,555,87f7c250-2458-5b2e-a3cd-7d7b3de32a75,953e0763-3788-4a97-8e2f-394cc2649e43,mythic,Foil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
+TRK,Star Trek,Borg Cube,555,87f7c250-2458-5b2e-a3cd-7d7b3de32a75,953e0763-3788-4a97-8e2f-394cc2649e43,mythic,Nonfoil,,black,,,,Artifact — Spacecraft,{5}{W}{B},7.0,"B, W"
+TRK,Star Trek,Deep Space 9,556,4124beee-95fb-5575-a198-c12abd937bfe,65585609-563d-47e9-92b8-d4b65baa95bd,mythic,Foil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
+TRK,Star Trek,Deep Space 9,556,4124beee-95fb-5575-a198-c12abd937bfe,65585609-563d-47e9-92b8-d4b65baa95bd,mythic,Nonfoil,legendary,black,,,,Legendary Artifact — Spacecraft,{9},9.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",557,3eeb0b7e-76be-5c24-811f-ed020063b423,cb823267-b230-40f3-a1eb-140657df2b1e,rare,Foil,"legendary, showcase",black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
 TRK,Star Trek,"U.S.S. Enterprise-D, Galaxy-Class",557,3eeb0b7e-76be-5c24-811f-ed020063b423,cb823267-b230-40f3-a1eb-140657df2b1e,rare,Nonfoil,"legendary, showcase",black,universesbeyond,,,Legendary Artifact — Spacecraft,{3},3.0,
+TRK,Star Trek,Command Subadjunct,569,c644f805-8184-5ee6-a063-6dd07b1ecccb,bce0a2eb-20a2-423b-bf17-17029f3bd233,uncommon,Foil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Command Subadjunct,569,c644f805-8184-5ee6-a063-6dd07b1ecccb,bce0a2eb-20a2-423b-bf17-17029f3bd233,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{W},1.0,W
+TRK,Star Trek,Conquest Mission,570,fad14892-2b11-581c-b6cd-bdff3f743f93,cfb05333-acea-4bf0-973b-293d9e69751a,uncommon,Foil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
+TRK,Star Trek,Conquest Mission,570,fad14892-2b11-581c-b6cd-bdff3f743f93,cfb05333-acea-4bf0-973b-293d9e69751a,uncommon,Nonfoil,enchantment,black,,,,Enchantment,{2}{W},3.0,W
+TRK,Star Trek,Malfunctioning Holodeck,571,e35c4eb8-489c-5ab6-ab8f-547eb22dbd31,1f564242-e841-4f70-9d48-36ff410a25c4,common,Foil,,black,,,,Artifact,{2}{W},3.0,W
+TRK,Star Trek,Malfunctioning Holodeck,571,e35c4eb8-489c-5ab6-ab8f-547eb22dbd31,1f564242-e841-4f70-9d48-36ff410a25c4,common,Nonfoil,,black,,,,Artifact,{2}{W},3.0,W
+TRK,Star Trek,Cha'DIch Investigator,572,22e3f4eb-63c5-5d74-8935-adde2c98f645,8888dc53-c16f-4894-8d0b-f86a33c41cf1,common,Foil,,black,,,,Creature — Klingon Warrior,{4}{B},5.0,B
+TRK,Star Trek,Cha'DIch Investigator,572,22e3f4eb-63c5-5d74-8935-adde2c98f645,8888dc53-c16f-4894-8d0b-f86a33c41cf1,common,Nonfoil,,black,,,,Creature — Klingon Warrior,{4}{B},5.0,B
+TRK,Star Trek,Hive Mind Coprocessor,573,2ce0eaa1-5c62-59ef-b5b4-4c5ffb11b035,bdfb5e42-1950-4dd8-b1d6-21170ec93159,uncommon,Foil,,black,,,,Artifact Creature — Borg,{4}{B},5.0,B
+TRK,Star Trek,Hive Mind Coprocessor,573,2ce0eaa1-5c62-59ef-b5b4-4c5ffb11b035,bdfb5e42-1950-4dd8-b1d6-21170ec93159,uncommon,Nonfoil,,black,,,,Artifact Creature — Borg,{4}{B},5.0,B
+TRK,Star Trek,Cold-Blooded Crew,574,9cb9497f-c2f9-575e-8143-2dc832f1dfba,934612d6-1809-46cf-a917-5a32718bddd2,common,Foil,,black,,,,Creature — Gorn Warrior,{4}{G}{G},6.0,G
+TRK,Star Trek,Cold-Blooded Crew,574,9cb9497f-c2f9-575e-8143-2dc832f1dfba,934612d6-1809-46cf-a917-5a32718bddd2,common,Nonfoil,,black,,,,Creature — Gorn Warrior,{4}{G}{G},6.0,G
+TRK,Star Trek,Syndicate Liquidators,575,374a065b-1663-54bf-a998-43d965501432,d15242ea-4460-4804-ba0e-09cb7f24bc50,uncommon,Foil,,black,,,,Creature — Orion Pirate,{4}{G},5.0,G
+TRK,Star Trek,Syndicate Liquidators,575,374a065b-1663-54bf-a998-43d965501432,d15242ea-4460-4804-ba0e-09cb7f24bc50,uncommon,Nonfoil,,black,,,,Creature — Orion Pirate,{4}{G},5.0,G
+TRK,Star Trek,"Locutus, the One Who Speaks",576,90013060-ce16-5689-b07f-0ef5b0d60a71,22af225f-8b59-4e6b-b469-a2272c7d487f,uncommon,Foil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Locutus, the One Who Speaks",576,90013060-ce16-5689-b07f-0ef5b0d60a71,22af225f-8b59-4e6b-b469-a2272c7d487f,uncommon,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Borg,{W}{B},2.0,"B, W"
+TRK,Star Trek,"Earth, Sector 001",577,df2182b6-ce6a-5117-8223-bbe2b1fe7e49,c1cf4918-f763-4355-abc6-abb402de8224,common,Foil,,black,,,,Land — Planet,,0.0,"G, U"
+TRK,Star Trek,"Earth, Sector 001",577,df2182b6-ce6a-5117-8223-bbe2b1fe7e49,c1cf4918-f763-4355-abc6-abb402de8224,common,Nonfoil,,black,,,,Land — Planet,,0.0,"G, U"
+TRK,Star Trek,Risa,578,8c381328-e1eb-5672-956f-e85f323e8d54,d7454d76-529f-4217-8490-cae65bec8543,common,Foil,,black,,,,Land — Planet,,0.0,"G, W"
+TRK,Star Trek,Risa,578,8c381328-e1eb-5672-956f-e85f323e8d54,d7454d76-529f-4217-8490-cae65bec8543,common,Nonfoil,,black,,,,Land — Planet,,0.0,"G, W"
+TRK,Star Trek,Vulcan,579,98c655c0-d7ae-5bd8-ac86-337d819a3644,4103795c-dbb8-414f-b580-6b0084b8e212,common,Foil,,black,,,,Land — Planet,,0.0,"U, W"
+TRK,Star Trek,Vulcan,579,98c655c0-d7ae-5bd8-ac86-337d819a3644,4103795c-dbb8-414f-b580-6b0084b8e212,common,Nonfoil,,black,,,,Land — Planet,,0.0,"U, W"
 TRK,Star Trek,Captain James T. Kirk,1701,2419ff3a-7614-5973-919a-e4b5b01f5708,b1cfb3f1-f1ad-47aa-a7f0-ff3ebd2ffa5e,mythic,Foil,"inverted, legendary",borderless,"headliner, universesbeyond",True,,Legendary Creature — Human Officer,{2}{R},3.0,R
 TRK,Star Trek,Captain James T. Kirk,1701,2419ff3a-7614-5973-919a-e4b5b01f5708,b1cfb3f1-f1ad-47aa-a7f0-ff3ebd2ffa5e,mythic,Nonfoil,"inverted, legendary",borderless,"headliner, universesbeyond",True,,Legendary Creature — Human Officer,{2}{R},3.0,R
+TRK,Star Trek,"Mr. Spock, Science Officer",1702,4a48a1ca-dcfc-5835-8ba2-cf36a4db8e43,bd0c3372-4cc5-489c-b8fb-ea11e700fa16,mythic,Foil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,"Mr. Spock, Science Officer",1702,4a48a1ca-dcfc-5835-8ba2-cf36a4db8e43,bd0c3372-4cc5-489c-b8fb-ea11e700fa16,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Vulcan Human Scientist,{2}{U}{U},4.0,U
+TRK,Star Trek,Lieutenant Commander Data,1703,fbba6241-e847-5931-ba86-fee618e49bd7,e5484552-37a3-41ef-b618-ee92fb418c85,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
+TRK,Star Trek,Lieutenant Commander Data,1703,fbba6241-e847-5931-ba86-fee618e49bd7,e5484552-37a3-41ef-b618-ee92fb418c85,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Android Scientist,{2}{U},3.0,U
 TRK,Star Trek,Captain Kathryn Janeway,1704,4ff0ef56-dcee-5f29-be5a-52e3dbd50bf1,e40fe4b6-81c0-4822-9668-2dac7820dcb9,mythic,Foil,"inverted, legendary",borderless,"headliner, universesbeyond",True,,Legendary Creature — Human Officer,{3}{G},4.0,G
 TRK,Star Trek,Captain Kathryn Janeway,1704,4ff0ef56-dcee-5f29-be5a-52e3dbd50bf1,e40fe4b6-81c0-4822-9668-2dac7820dcb9,mythic,Nonfoil,"inverted, legendary",borderless,"headliner, universesbeyond",True,,Legendary Creature — Human Officer,{3}{G},4.0,G
+TRK,Star Trek,"Seven of Nine, Unassimilated",1705,fd0562e9-8c16-50a2-beeb-ed5b79500dba,4016a92a-b662-4d22-8072-6c1ccb77c2c3,mythic,Foil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,"Seven of Nine, Unassimilated",1705,fd0562e9-8c16-50a2-beeb-ed5b79500dba,4016a92a-b662-4d22-8072-6c1ccb77c2c3,mythic,Nonfoil,legendary,black,,,,Legendary Artifact Creature — Human Officer,{1}{U},2.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,1706,9856b132-0076-58fc-ba38-d92cbe3a6fff,f0028b63-3e33-47ab-88ed-bdbe5705ecf7,mythic,Foil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
+TRK,Star Trek,Lt. Cmdr. Geordi La Forge,1706,9856b132-0076-58fc-ba38-d92cbe3a6fff,f0028b63-3e33-47ab-88ed-bdbe5705ecf7,mythic,Nonfoil,legendary,black,,,,Legendary Creature — Human Artificer,{2}{U},3.0,U
 PVAN,Vanguard Series,Ertai,101,58caf11c-8564-5675-89db-2d56952be804,5cbb9b5d-9199-4a5b-957d-8fa681caeb7c,rare,Nonfoil,,black,instore,,,Vanguard,,0.0,
 PVAN,Vanguard Series,Gerrard,102,ad7c6095-ea84-5081-9216-81bf56328758,9f7413f4-0ce3-4fd4-b011-4e30ad88f510,rare,Nonfoil,,black,instore,,,Vanguard,,0.0,
 PVAN,Vanguard Series,Karn,103,f93cedfe-fdde-5654-9ac3-d9d2b8af3e40,809175d4-115f-4901-9194-766a81a8ccd4,rare,Nonfoil,,black,instore,,,Vanguard,,0.0,
@@ -140962,6 +141543,8 @@ PRM,Magic Online Promos,Combat Calligrapher,89984,3abd30bd-613c-5eca-94c7-4f4833
 PRM,Magic Online Promos,Combat Calligrapher,89984,3abd30bd-613c-5eca-94c7-4f483333f901,37b6bf1b-ca7a-4a5d-95a3-eef2029e3331,rare,Nonfoil,,black,,,True,Creature — Bird Cleric,{3}{W},4.0,W
 PRM,Magic Online Promos,Semester's End,89986,bbf32708-27cd-5267-bf47-68be1b53e7bb,ac4cc54f-6543-4d92-84f5-09761f25444b,rare,Foil,,black,,,True,Instant,{3}{W},4.0,W
 PRM,Magic Online Promos,Semester's End,89986,bbf32708-27cd-5267-bf47-68be1b53e7bb,ac4cc54f-6543-4d92-84f5-09761f25444b,rare,Nonfoil,,black,,,True,Instant,{3}{W},4.0,W
+PRM,Magic Online Promos,Guardian Archon,89988,739c4fe1-38ad-53b1-b275-1fd260b73f9e,2800190f-bbff-40f2-9ef0-51cf84bb84f3,rare,Foil,,black,,,True,Creature — Archon,{4}{W}{W},6.0,W
+PRM,Magic Online Promos,Guardian Archon,89988,739c4fe1-38ad-53b1-b275-1fd260b73f9e,2800190f-bbff-40f2-9ef0-51cf84bb84f3,rare,Nonfoil,,black,,,True,Creature — Archon,{4}{W}{W},6.0,W
 PRM,Magic Online Promos,Devastating Mastery,89990,64c21c0f-94df-562d-b08a-933ffafbf927,1b3e09b9-103c-481b-b541-7d06df75c8d3,rare,Foil,,black,,,True,Sorcery,{2}{W}{W}{W}{W},6.0,W
 PRM,Magic Online Promos,Devastating Mastery,89990,64c21c0f-94df-562d-b08a-933ffafbf927,1b3e09b9-103c-481b-b541-7d06df75c8d3,rare,Nonfoil,,black,,,True,Sorcery,{2}{W}{W}{W}{W},6.0,W
 PRM,Magic Online Promos,Elite Spellbinder,89992,a608aa9e-5c42-534c-a5b7-44eacf52bcf2,c8ca83cd-3496-4e5d-a0b9-6cf97151efa1,rare,Foil,,black,,,True,Creature — Human Cleric,{2}{W},3.0,W
@@ -168405,6 +168988,8 @@ PSPL,Spotlight Series,Riddles in the Dark,12,4a909cc6-c5a8-500c-b640-f00af4cee60
 PSPL,Spotlight Series,Riddles in the Dark,12,4a909cc6-c5a8-500c-b640-f00af4cee60a,4346f8cb-6c1a-4bd0-8211-78ad1f56d075,rare,Nonfoil,extendedart,black,universesbeyond,,True,Instant,{2}{U},3.0,U
 PSPL,Spotlight Series,Jace Beleren,13,3606fb42-6907-5d8e-8ec6-6e11659c7b33,9204c96e-2dfc-4b9b-91fb-4a053b349a1d,mythic,Foil,,borderless,,,True,Legendary Planeswalker — Jace,{1}{U}{U},3.0,U
 PSPL,Spotlight Series,Jace Beleren,13,3606fb42-6907-5d8e-8ec6-6e11659c7b33,9204c96e-2dfc-4b9b-91fb-4a053b349a1d,mythic,Nonfoil,,borderless,,,True,Legendary Planeswalker — Jace,{1}{U}{U},3.0,U
+PSPL,Spotlight Series,"Jean-Luc Picard, Luminary",14,c01d44a0-ace4-549b-a642-c804f3067dd7,136b07f3-b902-41af-8732-92c6448b6ef9,mythic,Foil,"extendedart, legendary",black,universesbeyond,,True,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
+PSPL,Spotlight Series,"Jean-Luc Picard, Luminary",14,c01d44a0-ace4-549b-a642-c804f3067dd7,136b07f3-b902-41af-8732-92c6448b6ef9,mythic,Nonfoil,"extendedart, legendary",black,universesbeyond,,True,Legendary Creature — Human Officer,{1}{U}{R}{W},4.0,"R, U, W"
 PF25,MagicFest 2025,Serra the Benevolent,1,660824de-723a-5958-a42d-eaf0f5663113,5b0bb45b-1235-4b7a-8be7-f27cfda30838,mythic,Foil,,black,,,True,Legendary Planeswalker — Serra,{2}{W}{W},4.0,W
 PF25,MagicFest 2025,Avacyn's Pilgrim,1F,374d8c52-bfc0-5e06-b832-7aa70367f1f7,28f23108-0a1e-4406-9002-0bff20462e56,rare,Foil,inverted,black,,True,True,Creature — Human Monk,{G},1.0,"G, W"
 PF25,MagicFest 2025,Avacyn's Pilgrim,1F,374d8c52-bfc0-5e06-b832-7aa70367f1f7,28f23108-0a1e-4406-9002-0bff20462e56,rare,Nonfoil,inverted,black,,True,True,Creature — Human Monk,{G},1.0,"G, W"
